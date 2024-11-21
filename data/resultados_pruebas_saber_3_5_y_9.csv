@@ -1,0 +1,2151 @@
+año,codigo_dane,establecimiento_educativo,sector_educativo,comuna,grado,area,promedio,promedio_establecimiento,desviacion,nivel_superior,nivel_minimo,nivel_satisfactorio,nivel_avanzado
+2017,105001000001,inst educ jose maria velaz,oficial,2,5,matemáticas,286,2.4,58,51,28,15,6
+2017,105001000001,inst educ jose maria velaz,oficial,2,5,lenguaje,312,2.4,58,11,46,33,11
+2017,105001000001,inst educ jose maria velaz,oficial,2,3,lenguaje,292,3,50,21,48,23,9
+2017,105001000001,inst educ jose maria velaz,oficial,2,9,matemáticas,292,4.9,58,21,63,14,2
+2017,105001000001,inst educ jose maria velaz,oficial,2,3,matemáticas,265,3.1,51,39,44,12,6
+2017,105001000001,inst educ jose maria velaz,oficial,2,9,lenguaje,310,5,58,7,51,39,4
+2017,105001000043,inst educ barrio santa cruz,oficial,2,3,matemáticas,259,2.8,42,45,39,16,0
+2017,105001000043,inst educ barrio santa cruz,oficial,2,3,lenguaje,273,2.7,42,36,44,19,1
+2017,105001000043,inst educ barrio santa cruz,oficial,2,9,matemáticas,273,5.6,50,35,61,2,2
+2017,105001000043,inst educ barrio santa cruz,oficial,2,5,matemáticas,255,2.6,53,66,27,3,3
+2017,105001000043,inst educ barrio santa cruz,oficial,2,9,lenguaje,290,6.9,62,17,52,26,4
+2017,105001000043,inst educ barrio santa cruz,oficial,2,5,lenguaje,286,2.4,49,19,54,25,2
+2017,105001000132,inst educ jose maria bernal,oficial,16,5,matemáticas,281,0,63,54,23,16,7
+2017,105001000132,inst educ jose maria bernal,oficial,16,3,lenguaje,335,1.3,62,9,30,32,29
+2017,105001000132,inst educ jose maria bernal,oficial,16,9,lenguaje,351,3.5,55,0,26,61,13
+2017,105001000132,inst educ jose maria bernal,oficial,16,9,matemáticas,334,3.9,60,6,54,33,7
+2017,105001000132,inst educ jose maria bernal,oficial,16,5,lenguaje,315,0,76,15,41,27,18
+2017,105001000132,inst educ jose maria bernal,oficial,16,3,matemáticas,317,1.3,64,20,26,25,29
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,9,matemáticas,289,3.8,54,28,50,22,0
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,5,lenguaje,311,4.5,54,8,46,41,5
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,5,matemáticas,320,3.8,46,15,46,31,8
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,3,matemáticas,299,6.1,45,16,53,25,6
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,9,lenguaje,317,3.8,54,9,41,46,4
+2017,105001000141,inst educ camilo torres restrepo,oficial,4,3,lenguaje,304,5.4,39,6,50,34,9
+2017,105001000167,col la pastora-en administracion (ac),contratacion,1,3,lenguaje,332,8,57,9,9,55,27
+2017,105001000167,col la pastora-en administracion (ac),contratacion,1,3,matemáticas,303,4.9,35,12,27,61,0
+2017,105001000167,col la pastora-en administracion (ac),contratacion,1,5,matemáticas,290,2.8,46,42,42,16,0
+2017,105001000167,col la pastora-en administracion (ac),contratacion,1,5,lenguaje,330,2.7,45,4,27,60,9
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,3,matemáticas,277,2.4,53,27,40,28,5
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,9,matemáticas,273,4.9,55,40,48,10,2
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,3,lenguaje,298,2.5,54,19,46,25,11
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,5,matemáticas,281,3.6,56,48,33,18,1
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,9,lenguaje,287,4.9,55,15,55,30,0
+2017,105001000175,inst educ gabriel restrepo moreno,oficial,3,5,lenguaje,304,3.4,52,9,53,29,9
+2017,105001000205,inst educ san agustin,oficial,4,5,lenguaje,269,2.2,57,30,51,15,5
+2017,105001000205,inst educ san agustin,oficial,4,5,matemáticas,241,2,51,86,7,3,3
+2017,105001000205,inst educ san agustin,oficial,4,3,lenguaje,302,3,49,19,41,32,9
+2017,105001000205,inst educ san agustin,oficial,4,3,matemáticas,280,3.3,53,26,49,19,6
+2017,105001000205,inst educ san agustin,oficial,4,9,lenguaje,323,0,55,6,34,56,4
+2017,105001000205,inst educ san agustin,oficial,4,9,matemáticas,296,0,55,26,56,17,1
+2017,105001000256,inst educ hector abad gomez,oficial,10,5,lenguaje,299,3.2,58,18,50,23,10
+2017,105001000256,inst educ hector abad gomez,oficial,10,9,matemáticas,287,4.8,57,28,51,19,2
+2017,105001000256,inst educ hector abad gomez,oficial,10,9,lenguaje,313,4.8,57,9,42,47,3
+2017,105001000256,inst educ hector abad gomez,oficial,10,3,lenguaje,312,5.2,54,16,34,32,18
+2017,105001000256,inst educ hector abad gomez,oficial,10,3,matemáticas,291,4.9,51,18,38,33,11
+2017,105001000256,inst educ hector abad gomez,oficial,10,5,matemáticas,261,3.2,56,68,22,6,4
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,5,matemáticas,270,2.1,58,63,23,10,4
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,9,lenguaje,325,5.2,57,6,35,54,5
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,9,matemáticas,289,5,55,25,61,12,1
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,5,lenguaje,318,2.2,61,10,37,39,14
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,3,matemáticas,289,3,63,23,40,22,15
+2017,105001000353,inst educ juan de la cruz posada,oficial,8,3,lenguaje,316,2.8,60,12,38,28,23
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,9,lenguaje,302,4.7,56,9,51,36,4
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,5,lenguaje,299,3,59,20,42,31,7
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,9,matemáticas,279,4.7,57,39,48,12,1
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,3,lenguaje,290,4.2,52,22,45,23,10
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,3,matemáticas,302,4.9,62,20,37,23,20
+2017,105001000396,inst educ jose acevedo y gomez,oficial,15,5,matemáticas,288,3.3,61,45,38,9,7
+2017,105001000418,inst educ la milagrosa,oficial,9,9,lenguaje,291,3.7,60,18,49,31,3
+2017,105001000418,inst educ la milagrosa,oficial,9,3,matemáticas,298,3.9,60,21,39,24,17
+2017,105001000418,inst educ la milagrosa,oficial,9,3,lenguaje,301,3.5,53,19,41,27,14
+2017,105001000418,inst educ la milagrosa,oficial,9,9,matemáticas,271,3.5,55,39,52,7,2
+2017,105001000418,inst educ la milagrosa,oficial,9,5,lenguaje,330,3.2,70,11,33,36,20
+2017,105001000418,inst educ la milagrosa,oficial,9,5,matemáticas,308,3.2,71,36,32,13,20
+2017,105001000485,inst educ la salle de campoamor,oficial,15,3,lenguaje,301,1,54,22,32,36,10
+2017,105001000485,inst educ la salle de campoamor,oficial,15,5,lenguaje,317,2.5,64,12,44,28,15
+2017,105001000485,inst educ la salle de campoamor,oficial,15,9,lenguaje,336,2.2,53,0,36,56,8
+2017,105001000485,inst educ la salle de campoamor,oficial,15,9,matemáticas,323,2.8,69,11,54,24,11
+2017,105001000485,inst educ la salle de campoamor,oficial,15,5,matemáticas,301,2.4,62,37,36,17,9
+2017,105001000485,inst educ la salle de campoamor,oficial,15,3,matemáticas,301,1,58,21,35,27,17
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,5,matemáticas,266,4.2,60,66,16,14,4
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,9,lenguaje,305,5.7,64,15,41,40,3
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,5,lenguaje,288,3.4,49,18,54,25,3
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,3,matemáticas,287,5.3,72,27,38,22,12
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,3,lenguaje,289,4,54,25,38,29,8
+2017,105001000493,inst educ ramon giraldo ceballos,oficial,16,9,matemáticas,282,5.8,66,41,44,12,3
+2017,105001000566,inst educ caracas,oficial,8,9,lenguaje,299,2.7,61,8,60,27,5
+2017,105001000566,inst educ caracas,oficial,8,9,matemáticas,284,2.1,47,27,64,8,1
+2017,105001000566,inst educ caracas,oficial,8,3,matemáticas,309,0.8,61,16,23,42,18
+2017,105001000566,inst educ caracas,oficial,8,3,lenguaje,322,0.8,60,11,33,34,22
+2017,105001000566,inst educ caracas,oficial,8,5,lenguaje,309,3.6,60,13,43,33,11
+2017,105001000566,inst educ caracas,oficial,8,5,matemáticas,293,4.2,70,46,33,12,9
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,3,matemáticas,317,2.5,57,9,38,33,20
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,9,lenguaje,345,1.3,62,4,27,54,16
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,3,lenguaje,328,2.8,66,11,32,32,26
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,5,lenguaje,303,2.2,58,15,47,28,10
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,5,matemáticas,295,2.3,62,43,29,20,8
+2017,105001000621,inst educ escuela normal superior de medellin,oficial,8,9,matemáticas,328,1.4,66,12,51,30,7
+2017,105001000795,inst educ alfredo cock arango,oficial,6,3,lenguaje,314,1.6,56,13,34,35,18
+2017,105001000795,inst educ alfredo cock arango,oficial,6,3,matemáticas,299,1.5,51,18,35,34,13
+2017,105001000795,inst educ alfredo cock arango,oficial,6,5,matemáticas,279,0,51,51,36,9,4
+2017,105001000795,inst educ alfredo cock arango,oficial,6,9,matemáticas,296,5.7,62,25,59,12,4
+2017,105001000795,inst educ alfredo cock arango,oficial,6,5,lenguaje,316,0,45,4,45,45,6
+2017,105001000795,inst educ alfredo cock arango,oficial,6,9,lenguaje,309,5.1,55,4,49,45,2
+2017,105001000809,inst educ perpetuo socorro,oficial,13,5,matemáticas,271,1.9,62,60,25,9,6
+2017,105001000809,inst educ perpetuo socorro,oficial,13,9,matemáticas,288,3.5,61,30,51,19,0
+2017,105001000809,inst educ perpetuo socorro,oficial,13,9,lenguaje,318,3.6,63,13,30,51,6
+2017,105001000809,inst educ perpetuo socorro,oficial,13,3,matemáticas,286,3.8,67,29,31,27,13
+2017,105001000809,inst educ perpetuo socorro,oficial,13,3,lenguaje,296,3.3,58,23,37,28,12
+2017,105001000809,inst educ perpetuo socorro,oficial,13,5,lenguaje,296,1.8,58,16,52,25,7
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,5,lenguaje,359,0,58,2,20,49,29
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,9,matemáticas,348,1.5,50,1,49,42,8
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,3,matemáticas,321,0.7,50,7,30,39,25
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,5,matemáticas,328,0,59,15,47,21,17
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,9,lenguaje,359,1.5,50,1,11,76,12
+2017,105001000841,inst educ jesus maria - el rosal,oficial,5,3,lenguaje,338,0.8,57,9,21,38,32
+2017,105001000868,inst educ republica de venezuela,oficial,16,5,lenguaje,292,5.2,55,19,54,22,6
+2017,105001000868,inst educ republica de venezuela,oficial,16,5,matemáticas,269,4.6,48,61,28,9,2
+2017,105001000868,inst educ republica de venezuela,oficial,16,9,matemáticas,320,0,63,8,64,14,14
+2017,105001000868,inst educ republica de venezuela,oficial,16,3,matemáticas,280,3.3,59,29,43,18,9
+2017,105001000868,inst educ republica de venezuela,oficial,16,3,lenguaje,282,3,54,37,34,25,4
+2017,105001000868,inst educ republica de venezuela,oficial,16,9,lenguaje,327,0,50,3,42,53,3
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,5,lenguaje,309,1.4,62,14,44,30,13
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,9,matemáticas,322,1.4,66,12,55,26,7
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,9,lenguaje,336,1.1,51,0,37,56,7
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,5,matemáticas,282,1.2,56,49,34,13,5
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,3,lenguaje,306,0,56,14,41,32,14
+2017,105001000876,i.e. javiera londoño-sevilla,oficial,4,3,matemáticas,258,0,81,41,37,14,9
+2017,105001000931,inst educ diego echavarria misas,oficial,5,5,matemáticas,293,0,55,41,37,15,7
+2017,105001000931,inst educ diego echavarria misas,oficial,5,9,matemáticas,306,1.1,62,22,48,28,2
+2017,105001000931,inst educ diego echavarria misas,oficial,5,9,lenguaje,335,1.1,60,4,32,54,10
+2017,105001000931,inst educ diego echavarria misas,oficial,5,3,matemáticas,300,1.4,56,17,42,26,15
+2017,105001000931,inst educ diego echavarria misas,oficial,5,3,lenguaje,325,1.6,60,16,17,40,27
+2017,105001000931,inst educ diego echavarria misas,oficial,5,5,lenguaje,322,0,61,9,38,40,14
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,5,lenguaje,290,1.9,60,19,53,19,9
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,9,matemáticas,294,3,61,27,54,16,4
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,9,lenguaje,317,3,62,10,38,46,6
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,3,matemáticas,298,3,62,21,36,25,18
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,3,lenguaje,300,2.6,54,17,45,25,13
+2017,105001000981,inst educ gilberto alzate avendaño,oficial,4,5,matemáticas,263,1.7,55,66,24,7,3
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,5,lenguaje,321,3,62,9,43,32,16
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,3,lenguaje,296,2,63,21,43,24,13
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,3,matemáticas,297,2,59,20,42,24,14
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,9,matemáticas,285,2.5,56,30,53,17,1
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,9,lenguaje,316,2.6,58,10,41,44,4
+2017,105001000990,inst educ gonzalo restrepo jaramillo,oficial,9,5,matemáticas,287,3,63,45,32,15,8
+2017,105001001023,inst educ antonio ricaurte,oficial,16,5,matemáticas,255,4.4,56,74,18,4,4
+2017,105001001023,inst educ antonio ricaurte,oficial,16,3,lenguaje,302,6.4,59,23,33,30,13
+2017,105001001023,inst educ antonio ricaurte,oficial,16,3,matemáticas,276,5.2,48,29,48,19,4
+2017,105001001023,inst educ antonio ricaurte,oficial,16,9,matemáticas,292,2.7,48,22,64,15,0
+2017,105001001023,inst educ antonio ricaurte,oficial,16,9,lenguaje,309,3.3,57,7,53,37,4
+2017,105001001023,inst educ antonio ricaurte,oficial,16,5,lenguaje,295,4.8,61,22,49,21,8
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,9,matemáticas,264,2.6,45,41,53,6,0
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,5,matemáticas,278,2.2,60,56,30,8,6
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,5,lenguaje,283,2.1,56,27,46,23,5
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,3,lenguaje,288,2.1,56,29,38,23,10
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,3,matemáticas,282,1.9,52,27,41,23,9
+2017,105001001121,inst educ jose roberto vasquez,oficial,3,9,lenguaje,314,3.3,56,9,42,45,4
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,5,matemáticas,282,0,62,53,27,13,7
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,9,matemáticas,293,1.7,49,21,67,11,1
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,3,lenguaje,323,4.3,60,12,27,39,22
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,3,matemáticas,317,3.9,55,12,36,29,24
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,9,lenguaje,305,1.9,54,9,45,43,3
+2017,105001001155,inst educ san juan bautista de la salle,oficial,3,5,lenguaje,309,0,56,11,49,31,10
+2017,105001001163,inst educ la asuncion,oficial,2,3,lenguaje,331,4.5,57,8,29,39,24
+2017,105001001163,inst educ la asuncion,oficial,2,9,lenguaje,348,0,59,0,28,56,16
+2017,105001001163,inst educ la asuncion,oficial,2,9,matemáticas,334,0,62,10,49,34,7
+2017,105001001163,inst educ la asuncion,oficial,2,5,lenguaje,328,3.3,52,4,44,37,15
+2017,105001001163,inst educ la asuncion,oficial,2,5,matemáticas,308,3.3,53,35,31,27,7
+2017,105001001163,inst educ la asuncion,oficial,2,3,matemáticas,315,4.5,57,15,33,30,21
+2017,105001001198,inst educ aures,oficial,7,5,matemáticas,269,2.9,57,63,23,12,3
+2017,105001001198,inst educ aures,oficial,7,3,lenguaje,293,2.7,54,23,42,27,8
+2017,105001001198,inst educ aures,oficial,7,9,matemáticas,284,3.4,62,32,58,8,2
+2017,105001001198,inst educ aures,oficial,7,9,lenguaje,306,3.8,61,11,40,46,3
+2017,105001001198,inst educ aures,oficial,7,5,lenguaje,285,2.9,55,17,60,20,4
+2017,105001001198,inst educ aures,oficial,7,3,matemáticas,273,2.7,51,36,39,17,8
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,5,lenguaje,283,2.2,49,21,58,19,3
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,3,matemáticas,269,1.8,46,36,43,19,2
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,9,lenguaje,286,6.4,67,21,49,26,5
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,5,matemáticas,258,2,45,74,19,7,1
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,3,lenguaje,285,1.8,45,24,51,20,5
+2017,105001001236,i.e. montecarlo guillermo gaviria correa,oficial,3,9,matemáticas,278,5.2,55,32,58,11,0
+2017,105001001252,inst educ cristobal colon,oficial,12,3,lenguaje,306,2.8,60,16,46,24,15
+2017,105001001252,inst educ cristobal colon,oficial,12,5,matemáticas,293,0,73,51,22,14,14
+2017,105001001252,inst educ cristobal colon,oficial,12,5,lenguaje,308,0,67,15,45,25,15
+2017,105001001252,inst educ cristobal colon,oficial,12,9,matemáticas,287,4,47,26,64,11,0
+2017,105001001252,inst educ cristobal colon,oficial,12,9,lenguaje,325,4.8,57,6,39,49,6
+2017,105001001252,inst educ cristobal colon,oficial,12,3,matemáticas,299,2.6,54,16,41,31,12
+2017,105001001279,inst educ ciro mendia,oficial,2,3,matemáticas,311,2.9,57,12,39,22,27
+2017,105001001279,inst educ ciro mendia,oficial,2,5,lenguaje,303,1.3,55,11,57,24,9
+2017,105001001279,inst educ ciro mendia,oficial,2,5,matemáticas,284,1.2,53,44,39,14,3
+2017,105001001279,inst educ ciro mendia,oficial,2,9,lenguaje,289,5.4,67,21,44,32,3
+2017,105001001279,inst educ ciro mendia,oficial,2,9,matemáticas,292,4.6,57,25,58,16,1
+2017,105001001279,inst educ ciro mendia,oficial,2,3,lenguaje,316,2.7,56,11,37,31,21
+2017,105001001317,inst educ madre maria mazarello,oficial,9,9,lenguaje,362,0,44,1,14,75,10
+2017,105001001317,inst educ madre maria mazarello,oficial,9,5,matemáticas,305,1.2,55,33,42,15,10
+2017,105001001317,inst educ madre maria mazarello,oficial,9,3,matemáticas,288,2.3,53,25,36,27,11
+2017,105001001317,inst educ madre maria mazarello,oficial,9,9,matemáticas,337,0,58,7,51,36,7
+2017,105001001317,inst educ madre maria mazarello,oficial,9,5,lenguaje,350,1.1,52,2,26,45,26
+2017,105001001317,inst educ madre maria mazarello,oficial,9,3,lenguaje,324,2.4,55,9,30,39,23
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,3,matemáticas,322,8.1,54,5,38,29,29
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,9,lenguaje,318,12.5,63,19,26,48,7
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,5,lenguaje,342,10.6,52,5,18,41,36
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,9,matemáticas,299,15.3,78,33,37,22,7
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,5,matemáticas,306,10.1,49,27,41,32,0
+2017,105001001368,inst educ alvaro marin velasco,oficial,3,3,lenguaje,293,5.3,35,5,67,24,5
+2017,105001001473,inst educ manuela beltran,oficial,3,5,lenguaje,282,4.1,51,21,61,13,4
+2017,105001001473,inst educ manuela beltran,oficial,3,9,lenguaje,298,2.9,55,12,49,39,0
+2017,105001001473,inst educ manuela beltran,oficial,3,3,lenguaje,281,3.7,48,29,44,23,4
+2017,105001001473,inst educ manuela beltran,oficial,3,9,matemáticas,286,2.4,45,21,69,10,0
+2017,105001001473,inst educ manuela beltran,oficial,3,3,matemáticas,271,3.6,47,35,49,10,5
+2017,105001001473,inst educ manuela beltran,oficial,3,5,matemáticas,247,4.4,54,81,15,1,3
+2017,105001001490,inst educ lola gonzalez,oficial,12,5,matemáticas,308,0,61,29,42,22,8
+2017,105001001490,inst educ lola gonzalez,oficial,12,3,matemáticas,307,2,52,12,37,33,18
+2017,105001001490,inst educ lola gonzalez,oficial,12,5,lenguaje,337,0,61,3,38,37,22
+2017,105001001490,inst educ lola gonzalez,oficial,12,9,matemáticas,294,1.7,61,25,56,16,3
+2017,105001001490,inst educ lola gonzalez,oficial,12,9,lenguaje,319,1.8,63,9,38,46,7
+2017,105001001490,inst educ lola gonzalez,oficial,12,3,lenguaje,318,2.4,61,17,26,36,21
+2017,105001001562,inst educ javiera londoño,oficial,10,5,matemáticas,300,2.1,62,36,40,11,14
+2017,105001001562,inst educ javiera londoño,oficial,10,9,lenguaje,351,2.5,56,4,19,63,15
+2017,105001001562,inst educ javiera londoño,oficial,10,9,matemáticas,329,2.7,60,12,50,30,8
+2017,105001001562,inst educ javiera londoño,oficial,10,5,lenguaje,325,2.4,63,9,39,37,16
+2017,105001001562,inst educ javiera londoño,oficial,10,3,lenguaje,329,3.2,66,7,37,32,25
+2017,105001001562,inst educ javiera londoño,oficial,10,3,matemáticas,324,3.6,73,12,32,30,26
+2017,105001001635,inst educ yermo y parres,oficial,16,5,lenguaje,329,1.8,62,6,38,34,22
+2017,105001001635,inst educ yermo y parres,oficial,16,5,matemáticas,285,1.8,62,53,23,18,6
+2017,105001001635,inst educ yermo y parres,oficial,16,3,matemáticas,302,1.6,50,17,37,31,15
+2017,105001001635,inst educ yermo y parres,oficial,16,9,matemáticas,312,3.5,67,23,45,27,5
+2017,105001001635,inst educ yermo y parres,oficial,16,3,lenguaje,318,1.7,52,11,27,47,17
+2017,105001001635,inst educ yermo y parres,oficial,16,9,lenguaje,337,3.2,62,6,32,54,9
+2017,105001001651,inst educ jose celestino mutis,oficial,8,3,matemáticas,325,4.6,54,7,26,38,29
+2017,105001001651,inst educ jose celestino mutis,oficial,8,3,lenguaje,334,4.3,51,2,28,48,22
+2017,105001001651,inst educ jose celestino mutis,oficial,8,9,lenguaje,320,5.1,65,10,32,48,10
+2017,105001001651,inst educ jose celestino mutis,oficial,8,9,matemáticas,299,4.4,56,21,60,18,2
+2017,105001001651,inst educ jose celestino mutis,oficial,8,5,matemáticas,286,4.2,65,46,34,14,7
+2017,105001001651,inst educ jose celestino mutis,oficial,8,5,lenguaje,310,3.6,56,10,49,25,15
+2017,105001001660,inst educ jose antonio galan,oficial,3,3,lenguaje,283,2.9,40,25,49,23,3
+2017,105001001660,inst educ jose antonio galan,oficial,3,5,matemáticas,269,4.9,58,65,22,4,8
+2017,105001001660,inst educ jose antonio galan,oficial,3,5,lenguaje,291,4.4,52,11,63,21,6
+2017,105001001660,inst educ jose antonio galan,oficial,3,3,matemáticas,287,3.2,45,19,44,30,7
+2017,105001001660,inst educ jose antonio galan,oficial,3,9,matemáticas,306,4.4,60,19,50,31,0
+2017,105001001660,inst educ jose antonio galan,oficial,3,9,lenguaje,317,4.1,56,4,42,48,6
+2017,105001001716,inst educ santa catalina de siena,oficial,14,5,lenguaje,295,2.6,56,19,47,30,4
+2017,105001001716,inst educ santa catalina de siena,oficial,14,3,lenguaje,340,3.9,40,0,23,54,23
+2017,105001001716,inst educ santa catalina de siena,oficial,14,9,matemáticas,247,0,47,59,41,0,0
+2017,105001001716,inst educ santa catalina de siena,oficial,14,9,lenguaje,304,0,51,9,53,38,0
+2017,105001001716,inst educ santa catalina de siena,oficial,14,5,matemáticas,284,2.6,57,56,23,16,5
+2017,105001001716,inst educ santa catalina de siena,oficial,14,3,matemáticas,315,6,62,14,28,30,28
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,3,matemáticas,311,1.7,67,19,29,27,25
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,9,matemáticas,335,5.2,58,7,49,35,9
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,5,matemáticas,314,2.6,63,26,42,20,12
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,5,lenguaje,331,2.7,61,8,34,38,20
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,9,lenguaje,338,5.1,56,5,26,63,5
+2017,105001001791,inst educ monseñor gerardo valencia cano,oficial,7,3,lenguaje,318,1.7,65,18,30,27,25
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,9,matemáticas,247,3.5,42,54,45,1,0
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,9,lenguaje,273,5,60,28,45,27,0
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,5,matemáticas,250,1.4,47,74,23,1,2
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,5,lenguaje,279,1.5,48,22,56,20,2
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,3,matemáticas,258,3.6,46,42,46,9,3
+2017,105001001805,inst educ fe y alegria popular nro. 1,oficial,1,3,lenguaje,280,3.4,43,27,50,19,4
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,3,matemáticas,317,0,52,7,37,33,23
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,5,lenguaje,344,2.1,64,2,34,35,29
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,3,lenguaje,331,0,51,4,31,41,24
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,9,matemáticas,321,3.8,72,18,43,30,10
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,5,matemáticas,307,2.1,65,34,36,18,12
+2017,105001001848,inst educ sor juana ines de la cruz,oficial,5,9,lenguaje,342,3.3,63,6,22,65,6
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,5,lenguaje,316,0.9,56,6,51,29,14
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,9,matemáticas,325,1.5,61,10,56,27,8
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,3,matemáticas,321,2.8,60,8,34,34,24
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,5,matemáticas,289,0.8,52,46,35,15,5
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,9,lenguaje,344,1.5,59,2,28,58,11
+2017,105001001881,i.e. carlos vieco ortiz,oficial,13,3,lenguaje,322,2.7,57,13,29,38,20
+2017,105001002003,inst educ san roberto belarmino,oficial,16,9,matemáticas,292,5,51,20,63,17,0
+2017,105001002003,inst educ san roberto belarmino,oficial,16,3,lenguaje,279,0,63,37,31,21,10
+2017,105001002003,inst educ san roberto belarmino,oficial,16,5,matemáticas,261,0,59,63,26,9,3
+2017,105001002003,inst educ san roberto belarmino,oficial,16,9,lenguaje,322,6.1,62,4,40,47,9
+2017,105001002003,inst educ san roberto belarmino,oficial,16,5,lenguaje,281,0,60,28,47,19,6
+2017,105001002003,inst educ san roberto belarmino,oficial,16,3,matemáticas,273,0,65,36,37,17,10
+2017,105001002011,inst educ federico ozanam,oficial,9,5,lenguaje,306,1.9,63,13,48,28,10
+2017,105001002011,inst educ federico ozanam,oficial,9,9,lenguaje,316,2.2,56,9,37,50,4
+2017,105001002011,inst educ federico ozanam,oficial,9,3,lenguaje,327,2.7,55,7,30,41,22
+2017,105001002011,inst educ federico ozanam,oficial,9,3,matemáticas,304,2.7,55,12,38,33,17
+2017,105001002011,inst educ federico ozanam,oficial,9,9,matemáticas,299,2.5,62,25,51,22,2
+2017,105001002011,inst educ federico ozanam,oficial,9,5,matemáticas,279,1.7,59,55,25,15,5
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,5,lenguaje,326,4.2,63,10,41,31,18
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,9,lenguaje,327,1.8,61,5,35,55,4
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,3,matemáticas,298,3.3,58,21,27,41,11
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,9,matemáticas,308,1.9,65,17,54,26,3
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,3,lenguaje,320,2.9,52,13,27,41,19
+2017,105001002020,inst educ rafael uribe uribe,oficial,12,5,matemáticas,309,4.7,69,34,29,22,15
+2017,105001002038,inst educ jose eusebio caro,oficial,4,3,matemáticas,297,2.6,60,18,37,23,22
+2017,105001002038,inst educ jose eusebio caro,oficial,4,9,lenguaje,327,4.1,54,5,36,52,7
+2017,105001002038,inst educ jose eusebio caro,oficial,4,5,matemáticas,265,3,58,63,27,5,6
+2017,105001002038,inst educ jose eusebio caro,oficial,4,5,lenguaje,292,2.6,52,14,58,25,4
+2017,105001002038,inst educ jose eusebio caro,oficial,4,9,matemáticas,304,4.8,63,20,60,16,5
+2017,105001002038,inst educ jose eusebio caro,oficial,4,3,lenguaje,307,2.6,60,20,32,31,17
+2017,105001002071,i.e. benjamin herrera,oficial,15,3,matemáticas,290,6.2,58,28,46,13,13
+2017,105001002071,i.e. benjamin herrera,oficial,15,9,lenguaje,305,4.2,57,9,53,35,3
+2017,105001002071,i.e. benjamin herrera,oficial,15,5,matemáticas,264,5.1,48,66,28,4,2
+2017,105001002071,i.e. benjamin herrera,oficial,15,5,lenguaje,292,5.9,54,18,58,14,10
+2017,105001002071,i.e. benjamin herrera,oficial,15,9,matemáticas,291,4.5,61,28,57,12,3
+2017,105001002071,i.e. benjamin herrera,oficial,15,3,lenguaje,294,5.9,56,15,50,22,13
+2017,105001002101,inst educ juan de dios cock,oficial,4,9,lenguaje,318,5.6,68,13,33,44,10
+2017,105001002101,inst educ juan de dios cock,oficial,4,5,matemáticas,262,2.7,51,70,22,5,3
+2017,105001002101,inst educ juan de dios cock,oficial,4,5,lenguaje,286,3.2,61,21,51,23,5
+2017,105001002101,inst educ juan de dios cock,oficial,4,9,matemáticas,282,5.8,69,42,45,7,6
+2017,105001002101,inst educ juan de dios cock,oficial,4,3,lenguaje,303,4.3,56,23,30,35,12
+2017,105001002101,inst educ juan de dios cock,oficial,4,3,matemáticas,299,4.4,57,21,33,31,15
+2017,105001002119,i.e. marco fidel suarez,oficial,11,9,lenguaje,321,4.3,59,9,39,48,5
+2017,105001002119,i.e. marco fidel suarez,oficial,11,5,matemáticas,294,2.2,68,46,27,16,11
+2017,105001002119,i.e. marco fidel suarez,oficial,11,5,lenguaje,320,2.1,60,8,44,33,15
+2017,105001002119,i.e. marco fidel suarez,oficial,11,9,matemáticas,310,3.9,54,14,59,26,1
+2017,105001002119,i.e. marco fidel suarez,oficial,11,3,lenguaje,312,2.4,61,18,33,30,19
+2017,105001002119,i.e. marco fidel suarez,oficial,11,3,matemáticas,289,2.7,67,29,29,25,17
+2017,105001002135,inst educ ramon munera lopera,oficial,3,3,lenguaje,272,2,46,36,43,18,3
+2017,105001002135,inst educ ramon munera lopera,oficial,3,3,matemáticas,259,2.2,53,43,39,13,4
+2017,105001002135,inst educ ramon munera lopera,oficial,3,5,lenguaje,279,1.1,51,22,60,14,4
+2017,105001002135,inst educ ramon munera lopera,oficial,3,9,lenguaje,323,5.3,46,4,36,57,2
+2017,105001002135,inst educ ramon munera lopera,oficial,3,5,matemáticas,243,1.2,52,82,14,3,2
+2017,105001002135,inst educ ramon munera lopera,oficial,3,9,matemáticas,283,5.8,51,28,60,13,0
+2017,105001002305,inst educ mariscal robledo,oficial,7,5,matemáticas,291,2,61,44,34,15,7
+2017,105001002305,inst educ mariscal robledo,oficial,7,5,lenguaje,311,2,60,12,45,30,12
+2017,105001002305,inst educ mariscal robledo,oficial,7,9,matemáticas,297,1.9,56,21,60,17,2
+2017,105001002305,inst educ mariscal robledo,oficial,7,3,lenguaje,321,5.2,52,7,35,39,19
+2017,105001002305,inst educ mariscal robledo,oficial,7,9,lenguaje,327,1.8,54,7,30,60,3
+2017,105001002305,inst educ mariscal robledo,oficial,7,3,matemáticas,310,4.9,50,12,37,33,18
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,5,lenguaje,268,3.1,45,28,62,10,1
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,3,lenguaje,278,3,44,31,46,21,3
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,9,matemáticas,261,5.9,48,45,51,5,0
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,3,matemáticas,271,3.2,48,31,46,22,2
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,9,lenguaje,282,7.8,54,19,56,24,1
+2017,105001002348,inst educ fe y alegria santo domingo savio,oficial,1,5,matemáticas,244,2.8,41,82,16,1,1
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,3,lenguaje,277,1.3,52,34,43,17,6
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,5,matemáticas,270,0.9,55,62,29,6,4
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,5,lenguaje,283,0.9,55,22,53,21,4
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,9,matemáticas,273,3.4,50,34,59,7,0
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,3,matemáticas,269,1.3,54,37,38,20,4
+2017,105001002356,inst educ gabriel garcia marquez,oficial,8,9,lenguaje,303,4.4,65,11,52,32,5
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,3,lenguaje,338,1.2,66,12,20,35,33
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,3,matemáticas,334,1.1,61,10,21,35,34
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,5,matemáticas,318,1.5,61,28,30,26,16
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,9,lenguaje,358,1,54,2,18,67,13
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,5,lenguaje,338,1.5,61,6,28,44,23
+2017,105001002461,inst educ lucrecio jaramillo velez,oficial,11,9,matemáticas,358,1.4,74,8,29,47,17
+2017,105001002470,inst educ san vicente de paul,oficial,7,9,lenguaje,333,3.4,58,5,33,52,10
+2017,105001002470,inst educ san vicente de paul,oficial,7,5,lenguaje,323,3.1,63,10,41,31,18
+2017,105001002470,inst educ san vicente de paul,oficial,7,9,matemáticas,292,3.1,53,26,57,17,0
+2017,105001002470,inst educ san vicente de paul,oficial,7,3,matemáticas,312,2.1,64,18,27,32,23
+2017,105001002470,inst educ san vicente de paul,oficial,7,5,matemáticas,308,3.1,65,39,28,18,15
+2017,105001002470,inst educ san vicente de paul,oficial,7,3,lenguaje,316,2.1,66,16,32,31,22
+2017,105001002488,inst educ pedro luis villa,oficial,3,3,matemáticas,296,2.7,56,20,37,30,13
+2017,105001002488,inst educ pedro luis villa,oficial,3,9,lenguaje,313,4.1,57,8,41,45,6
+2017,105001002488,inst educ pedro luis villa,oficial,3,5,lenguaje,292,2.4,62,19,51,22,8
+2017,105001002488,inst educ pedro luis villa,oficial,3,5,matemáticas,278,2.3,62,56,27,10,8
+2017,105001002488,inst educ pedro luis villa,oficial,3,9,matemáticas,290,4.2,59,26,64,8,2
+2017,105001002488,inst educ pedro luis villa,oficial,3,3,lenguaje,303,2.6,56,19,40,29,13
+2017,105001002496,inst educ cristo rey,oficial,15,3,matemáticas,351,5.8,75,10,22,24,44
+2017,105001002496,inst educ cristo rey,oficial,15,9,matemáticas,295,5.3,55,19,61,19,2
+2017,105001002496,inst educ cristo rey,oficial,15,3,lenguaje,321,4.5,58,14,27,37,22
+2017,105001002496,inst educ cristo rey,oficial,15,5,lenguaje,361,3,62,2,25,38,36
+2017,105001002496,inst educ cristo rey,oficial,15,9,lenguaje,319,5.7,59,8,41,47,5
+2017,105001002496,inst educ cristo rey,oficial,15,5,matemáticas,331,2.9,60,21,32,25,21
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,9,lenguaje,322,2.3,57,5,40,51,4
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,9,matemáticas,284,2.1,52,28,59,11,1
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,3,matemáticas,302,1.2,55,17,34,34,16
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,5,lenguaje,320,1.6,61,9,43,31,17
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,5,matemáticas,298,1.7,63,41,32,16,12
+2017,105001002526,inst educ samuel barrientos restrepo,oficial,12,3,lenguaje,308,1.5,61,17,39,26,18
+2017,105001002780,inst educ san francisco de asis,oficial,8,5,lenguaje,291,3.3,54,15,59,18,8
+2017,105001002780,inst educ san francisco de asis,oficial,8,5,matemáticas,281,3,49,53,34,9,4
+2017,105001002780,inst educ san francisco de asis,oficial,8,9,matemáticas,295,0,41,9,81,9,0
+2017,105001002780,inst educ san francisco de asis,oficial,8,3,lenguaje,287,2.6,49,23,53,19,6
+2017,105001002780,inst educ san francisco de asis,oficial,8,3,matemáticas,289,2.5,47,24,43,24,10
+2017,105001002780,inst educ san francisco de asis,oficial,8,9,lenguaje,309,0,47,6,43,51,0
+2017,105001002798,inst educ mater dei,oficial,11,3,lenguaje,335,0,66,9,23,40,28
+2017,105001002798,inst educ mater dei,oficial,11,5,lenguaje,341,0,66,7,35,30,28
+2017,105001002798,inst educ mater dei,oficial,11,5,matemáticas,345,0,72,16,37,16,30
+2017,105001002798,inst educ mater dei,oficial,11,3,matemáticas,338,0,65,7,28,35,30
+2017,105001002798,inst educ mater dei,oficial,11,9,matemáticas,337,3,63,7,49,32,12
+2017,105001002798,inst educ mater dei,oficial,11,9,lenguaje,357,2.5,54,0,22,54,24
+2017,105001002895,inst educ francisco antonio zea,oficial,12,3,matemáticas,316,2,53,7,37,35,21
+2017,105001002895,inst educ francisco antonio zea,oficial,12,5,matemáticas,302,1.1,53,30,39,24,6
+2017,105001002895,inst educ francisco antonio zea,oficial,12,9,matemáticas,312,3.4,68,20,50,21,9
+2017,105001002895,inst educ francisco antonio zea,oficial,12,9,lenguaje,334,2.8,56,4,35,53,9
+2017,105001002895,inst educ francisco antonio zea,oficial,12,3,lenguaje,324,2.3,56,8,31,39,21
+2017,105001002895,inst educ francisco antonio zea,oficial,12,5,lenguaje,317,1.3,52,8,44,40,9
+2017,105001002976,inst educ la piedad,oficial,12,3,matemáticas,274,3.6,50,32,46,14,7
+2017,105001002976,inst educ la piedad,oficial,12,9,lenguaje,309,0,55,6,48,45,1
+2017,105001002976,inst educ la piedad,oficial,12,5,lenguaje,293,0,52,12,57,25,6
+2017,105001002976,inst educ la piedad,oficial,12,9,matemáticas,288,0,55,27,61,11,2
+2017,105001002976,inst educ la piedad,oficial,12,5,matemáticas,257,0,47,67,28,4,1
+2017,105001002976,inst educ la piedad,oficial,12,3,lenguaje,277,3.2,45,35,41,23,2
+2017,105001003123,i.e. fatima nutibara,oficial,16,9,lenguaje,343,4.8,60,3,26,62,8
+2017,105001003123,i.e. fatima nutibara,oficial,16,3,matemáticas,319,7.9,62,9,28,38,25
+2017,105001003123,i.e. fatima nutibara,oficial,16,9,matemáticas,314,5.3,66,16,53,26,5
+2017,105001003123,i.e. fatima nutibara,oficial,16,5,lenguaje,362,0,54,0,21,40,40
+2017,105001003123,i.e. fatima nutibara,oficial,16,3,lenguaje,331,7.5,59,6,31,41,22
+2017,105001003123,i.e. fatima nutibara,oficial,16,5,matemáticas,291,0,62,47,26,18,8
+2017,105001003131,inst educ republica de honduras,oficial,2,5,lenguaje,276,2,50,18,63,17,2
+2017,105001003131,inst educ republica de honduras,oficial,2,3,lenguaje,292,2.3,50,23,43,29,5
+2017,105001003131,inst educ republica de honduras,oficial,2,9,matemáticas,299,0,45,21,60,19,0
+2017,105001003131,inst educ republica de honduras,oficial,2,5,matemáticas,259,2,47,65,29,5,1
+2017,105001003131,inst educ republica de honduras,oficial,2,3,matemáticas,287,1.9,51,22,40,27,11
+2017,105001003131,inst educ republica de honduras,oficial,2,9,lenguaje,302,0,59,15,44,42,0
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,9,matemáticas,269,4.5,51,35,58,7,0
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,5,lenguaje,308,4.6,57,12,48,35,6
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,3,matemáticas,284,6.6,65,21,40,30,9
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,5,matemáticas,295,5.7,70,42,33,17,8
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,3,lenguaje,324,5.3,52,11,26,45,17
+2017,105001003221,institucion educativa manuel jose cayzedo,oficial,9,9,lenguaje,308,4.7,54,9,44,44,2
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,9,lenguaje,350,2.8,52,1,20,65,14
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,5,matemáticas,272,4.8,58,60,26,11,3
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,3,lenguaje,290,2.7,50,20,48,22,9
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,5,lenguaje,288,4.6,57,23,42,31,5
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,9,matemáticas,325,3.3,62,15,48,30,6
+2017,105001003271,inst educ octavio harry - jacqueline kennedy,oficial,16,3,matemáticas,277,2.9,54,31,44,19,6
+2017,105001003280,inst educ maria montessori,oficial,5,3,matemáticas,290,6.1,57,26,39,21,14
+2017,105001003280,inst educ maria montessori,oficial,5,3,lenguaje,296,6.1,56,23,40,26,11
+2017,105001003280,inst educ maria montessori,oficial,5,9,lenguaje,306,6.7,67,16,40,37,6
+2017,105001003280,inst educ maria montessori,oficial,5,9,matemáticas,292,6.3,63,22,57,16,5
+2017,105001003280,inst educ maria montessori,oficial,5,5,lenguaje,282,4.2,53,20,58,19,4
+2017,105001003280,inst educ maria montessori,oficial,5,5,matemáticas,279,5.2,65,49,35,8,7
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,3,matemáticas,294,2.5,54,19,42,27,12
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,5,lenguaje,337,5,59,6,31,42,21
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,9,lenguaje,339,3,47,0,32,61,7
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,9,matemáticas,289,3,47,20,69,11,0
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,5,matemáticas,307,4.4,57,36,35,16,13
+2017,105001003298,inst educ lorenza villegas de santos,oficial,4,3,lenguaje,311,2.6,60,17,29,39,15
+2017,105001003387,inst educ santa rosa de lima,oficial,12,9,lenguaje,289,4.5,60,21,45,32,1
+2017,105001003387,inst educ santa rosa de lima,oficial,12,3,matemáticas,274,4.7,54,38,39,14,9
+2017,105001003387,inst educ santa rosa de lima,oficial,12,3,lenguaje,282,4.8,51,31,44,19,6
+2017,105001003387,inst educ santa rosa de lima,oficial,12,5,lenguaje,291,3.1,61,14,55,23,7
+2017,105001003387,inst educ santa rosa de lima,oficial,12,9,matemáticas,268,4.2,57,50,41,8,1
+2017,105001003387,inst educ santa rosa de lima,oficial,12,5,matemáticas,266,2.8,56,59,31,7,2
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,3,lenguaje,290,1.6,50,24,45,23,8
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,9,matemáticas,291,2.8,58,28,53,16,3
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,5,lenguaje,305,1.1,57,13,51,27,9
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,3,matemáticas,288,1.6,50,24,40,25,12
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,5,matemáticas,278,1,49,54,32,12,2
+2017,105001003425,inst educ jose maria bravo marquez,oficial,4,9,lenguaje,317,2.8,59,9,41,44,5
+2017,105001003441,ins tec industrial pascual bravo,oficial,7,9,lenguaje,344,1,56,2,31,56,12
+2017,105001003441,ins tec industrial pascual bravo,oficial,7,9,matemáticas,330,1.1,59,9,53,31,7
+2017,105001003450,inst educ rosalia suarez,oficial,16,5,matemáticas,333,3.4,79,23,29,21,27
+2017,105001003450,inst educ rosalia suarez,oficial,16,9,lenguaje,338,2.3,54,2,32,56,10
+2017,105001003450,inst educ rosalia suarez,oficial,16,5,lenguaje,355,3.3,69,4,24,38,34
+2017,105001003450,inst educ rosalia suarez,oficial,16,9,matemáticas,310,2.5,58,15,59,23,2
+2017,105001003450,inst educ rosalia suarez,oficial,16,3,matemáticas,329,2.1,62,10,25,31,35
+2017,105001003450,inst educ rosalia suarez,oficial,16,3,lenguaje,338,2.2,64,13,18,37,32
+2017,105001004472,inst educ la presentacion,oficial,15,3,matemáticas,340,2.4,56,5,17,41,38
+2017,105001004472,inst educ la presentacion,oficial,15,9,lenguaje,361,3,54,2,20,61,17
+2017,105001004472,inst educ la presentacion,oficial,15,5,lenguaje,358,2.3,59,1,24,38,36
+2017,105001004472,inst educ la presentacion,oficial,15,5,matemáticas,313,2.1,54,27,40,24,9
+2017,105001004472,inst educ la presentacion,oficial,15,9,matemáticas,362,3.4,59,2,33,50,15
+2017,105001004472,inst educ la presentacion,oficial,15,3,lenguaje,360,2.2,53,1,14,46,39
+2017,105001004791,inst educ santo angel,oficial,15,9,matemáticas,372,2.1,79,4,33,40,23
+2017,105001004791,inst educ santo angel,oficial,15,5,matemáticas,344,0.9,61,17,24,35,24
+2017,105001004791,inst educ santo angel,oficial,15,3,lenguaje,341,1.8,59,6,29,30,35
+2017,105001004791,inst educ santo angel,oficial,15,5,lenguaje,355,0.9,57,4,16,53,28
+2017,105001004791,inst educ santo angel,oficial,15,9,lenguaje,365,1.6,61,2,18,59,21
+2017,105001004791,inst educ santo angel,oficial,15,3,matemáticas,320,1.9,60,12,29,35,24
+2017,105001005291,inst educ campo valdes,oficial,4,9,lenguaje,325,5.6,59,7,31,60,2
+2017,105001005291,inst educ campo valdes,oficial,4,3,lenguaje,292,3.6,46,22,43,30,6
+2017,105001005291,inst educ campo valdes,oficial,4,5,lenguaje,302,4.3,68,19,38,28,16
+2017,105001005291,inst educ campo valdes,oficial,4,5,matemáticas,286,4.2,67,55,21,15,9
+2017,105001005291,inst educ campo valdes,oficial,4,9,matemáticas,312,5.4,57,14,59,22,5
+2017,105001005291,inst educ campo valdes,oficial,4,3,matemáticas,278,4.1,52,30,44,20,7
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,3,matemáticas,301,3.7,57,19,39,25,17
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,3,lenguaje,307,3.4,53,14,40,32,14
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,9,lenguaje,316,5.3,57,8,39,48,5
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,5,lenguaje,306,4.7,58,10,51,30,8
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,5,matemáticas,282,3.9,54,50,34,12,4
+2017,105001005339,inst educ monseñor francisco cristobal toro,oficial,4,9,matemáticas,307,5.6,59,13,64,20,3
+2017,105001005347,inst educ tulio ospina,oficial,10,3,lenguaje,308,3.1,69,18,35,26,21
+2017,105001005347,inst educ tulio ospina,oficial,10,5,lenguaje,315,4.5,61,10,42,35,13
+2017,105001005347,inst educ tulio ospina,oficial,10,9,lenguaje,340,0,48,0,32,58,10
+2017,105001005347,inst educ tulio ospina,oficial,10,5,matemáticas,281,4.2,56,54,28,12,6
+2017,105001005347,inst educ tulio ospina,oficial,10,3,matemáticas,300,3.1,68,21,32,25,22
+2017,105001005347,inst educ tulio ospina,oficial,10,9,matemáticas,306,0,57,19,57,21,2
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,5,lenguaje,277,0.5,52,24,55,18,3
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,9,matemáticas,276,3.5,59,32,57,9,2
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,3,matemáticas,266,0.8,46,42,44,8,6
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,3,lenguaje,281,0.8,46,27,48,21,4
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,5,matemáticas,246,0.6,51,78,16,4,2
+2017,105001005380,i.e. manuel uribe ángel,oficial,2,9,lenguaje,281,4,60,21,53,24,2
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,9,matemáticas,281,3.8,62,33,51,14,2
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,5,matemáticas,268,1.8,59,62,20,15,3
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,3,lenguaje,326,1.9,52,11,26,43,20
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,9,lenguaje,297,3.5,57,14,49,36,1
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,3,matemáticas,288,1.6,45,22,44,26,7
+2017,105001005410,inst educ juan de dios carvajal,oficial,8,5,lenguaje,304,1.8,61,20,42,31,8
+2017,105001005495,inst educ republica de uruguay,oficial,5,3,matemáticas,283,1.6,50,27,46,19,8
+2017,105001005495,inst educ republica de uruguay,oficial,5,3,lenguaje,306,1.6,50,16,35,37,12
+2017,105001005495,inst educ republica de uruguay,oficial,5,9,lenguaje,314,1.9,68,15,38,39,9
+2017,105001005495,inst educ republica de uruguay,oficial,5,5,lenguaje,319,0,54,6,44,39,11
+2017,105001005495,inst educ republica de uruguay,oficial,5,5,matemáticas,261,0,56,69,21,7,3
+2017,105001005495,inst educ republica de uruguay,oficial,5,9,matemáticas,285,1.7,58,28,58,12,2
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,3,lenguaje,295,3.4,44,17,51,28,5
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,5,lenguaje,312,2,49,7,46,41,7
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,5,matemáticas,295,1.9,47,41,37,17,4
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,9,lenguaje,306,2.5,49,7,52,39,3
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,9,matemáticas,288,2.5,50,21,67,11,1
+2017,105001005525,inst educ enrique olaya herrera,oficial,3,3,matemáticas,292,3.5,45,20,41,32,8
+2017,105001005878,inst educ francisco miranda,oficial,4,9,lenguaje,325,4.5,49,1,37,59,2
+2017,105001005878,inst educ francisco miranda,oficial,4,3,matemáticas,279,4,54,30,43,17,10
+2017,105001005878,inst educ francisco miranda,oficial,4,9,matemáticas,287,4.4,48,20,72,7,1
+2017,105001005878,inst educ francisco miranda,oficial,4,3,lenguaje,286,4.2,58,27,46,16,11
+2017,105001005878,inst educ francisco miranda,oficial,4,5,lenguaje,295,1.4,52,15,50,33,3
+2017,105001005878,inst educ francisco miranda,oficial,4,5,matemáticas,278,1.4,53,54,32,12,3
+2017,105001006068,inst educ dinamarca,oficial,5,9,matemáticas,311,1.7,57,13,56,28,3
+2017,105001006068,inst educ dinamarca,oficial,5,5,matemáticas,272,2.6,54,59,29,10,3
+2017,105001006068,inst educ dinamarca,oficial,5,3,matemáticas,301,1.7,54,17,43,25,14
+2017,105001006068,inst educ dinamarca,oficial,5,5,lenguaje,293,2.7,58,18,48,30,4
+2017,105001006068,inst educ dinamarca,oficial,5,3,lenguaje,308,1.9,62,19,36,27,18
+2017,105001006068,inst educ dinamarca,oficial,5,9,lenguaje,331,1.7,57,4,35,55,7
+2017,105001006092,inst educ julio cesar garcia,oficial,5,9,lenguaje,325,3.4,63,6,39,49,6
+2017,105001006092,inst educ julio cesar garcia,oficial,5,5,matemáticas,303,3.1,60,36,39,16,10
+2017,105001006092,inst educ julio cesar garcia,oficial,5,3,lenguaje,329,3.4,61,9,25,43,23
+2017,105001006092,inst educ julio cesar garcia,oficial,5,5,lenguaje,321,2.9,56,9,34,46,11
+2017,105001006092,inst educ julio cesar garcia,oficial,5,9,matemáticas,312,3.9,71,19,55,18,8
+2017,105001006092,inst educ julio cesar garcia,oficial,5,3,matemáticas,311,3.4,60,13,37,31,20
+2017,105001006181,inst educ pedro octavio amado,oficial,16,5,lenguaje,288,2.8,56,20,53,23,5
+2017,105001006181,inst educ pedro octavio amado,oficial,16,3,lenguaje,296,4.3,56,27,34,28,11
+2017,105001006181,inst educ pedro octavio amado,oficial,16,3,matemáticas,292,4.6,60,27,39,20,14
+2017,105001006181,inst educ pedro octavio amado,oficial,16,9,matemáticas,278,3.5,54,33,58,7,2
+2017,105001006181,inst educ pedro octavio amado,oficial,16,5,matemáticas,286,3.2,64,45,37,10,9
+2017,105001006181,inst educ pedro octavio amado,oficial,16,9,lenguaje,302,3.7,57,14,51,32,3
+2017,105001006246,inst educ jorge robledo,oficial,7,5,lenguaje,300,0.9,52,12,53,28,7
+2017,105001006246,inst educ jorge robledo,oficial,7,5,matemáticas,284,0.9,53,51,30,15,4
+2017,105001006246,inst educ jorge robledo,oficial,7,9,lenguaje,317,3.1,57,3,45,47,5
+2017,105001006246,inst educ jorge robledo,oficial,7,9,matemáticas,285,3.5,64,32,55,10,3
+2017,105001006246,inst educ jorge robledo,oficial,7,3,lenguaje,303,3.5,53,16,39,33,13
+2017,105001006246,inst educ jorge robledo,oficial,7,3,matemáticas,289,4,60,30,36,22,12
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,3,matemáticas,277,10,56,19,50,27,4
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,5,matemáticas,264,3,42,65,27,8,0
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,9,matemáticas,288,8.1,50,22,70,9,0
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,5,lenguaje,309,4.3,61,19,42,23,15
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,3,lenguaje,269,11.4,64,39,35,19,8
+2017,105001006483,inst educ rodrigo correa palacio,oficial,5,9,lenguaje,337,9.7,60,0,44,39,17
+2017,105001006556,inst educ juan xxiii,oficial,13,5,lenguaje,315,3.3,59,11,39,38,12
+2017,105001006556,inst educ juan xxiii,oficial,13,9,matemáticas,300,4.2,59,22,57,19,3
+2017,105001006556,inst educ juan xxiii,oficial,13,5,matemáticas,296,2.9,52,31,46,20,4
+2017,105001006556,inst educ juan xxiii,oficial,13,3,matemáticas,289,2.6,48,20,51,22,8
+2017,105001006556,inst educ juan xxiii,oficial,13,9,lenguaje,310,4.5,62,15,38,42,6
+2017,105001006556,inst educ juan xxiii,oficial,13,3,lenguaje,301,2.6,47,14,48,28,10
+2017,105001006718,inst educ asia ignaciana,oficial,2,9,matemáticas,319,1.4,60,12,53,30,4
+2017,105001006718,inst educ asia ignaciana,oficial,2,3,lenguaje,301,1.8,53,19,39,31,11
+2017,105001006718,inst educ asia ignaciana,oficial,2,5,lenguaje,300,1.4,55,11,54,28,7
+2017,105001006718,inst educ asia ignaciana,oficial,2,9,lenguaje,343,1.5,64,6,29,52,13
+2017,105001006718,inst educ asia ignaciana,oficial,2,5,matemáticas,287,1.4,54,45,41,10,5
+2017,105001006718,inst educ asia ignaciana,oficial,2,3,matemáticas,296,2.1,58,22,39,25,14
+2017,105001006980,inst educ concejo de medellin,oficial,12,5,matemáticas,286,1.4,71,57,22,11,10
+2017,105001006980,inst educ concejo de medellin,oficial,12,5,lenguaje,322,1.4,68,12,36,30,22
+2017,105001006980,inst educ concejo de medellin,oficial,12,3,lenguaje,324,4.4,67,15,28,30,28
+2017,105001006980,inst educ concejo de medellin,oficial,12,3,matemáticas,306,3.8,58,17,32,31,20
+2017,105001006980,inst educ concejo de medellin,oficial,12,9,lenguaje,341,3,61,5,24,59,12
+2017,105001006980,inst educ concejo de medellin,oficial,12,9,matemáticas,288,3.2,64,31,52,15,3
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,5,lenguaje,293,5.3,57,21,48,25,7
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,9,lenguaje,321,4.1,60,6,38,45,11
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,5,matemáticas,267,5.4,58,64,23,11,2
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,3,lenguaje,290,5.8,45,19,49,26,7
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,9,matemáticas,301,3.9,57,17,66,15,2
+2017,105001007111,inst educ sebastian de belalcazar,oficial,5,3,matemáticas,285,7.7,60,33,30,28,9
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,5,lenguaje,323,2.2,56,6,43,38,13
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,9,lenguaje,320,6,65,11,36,48,6
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,5,matemáticas,294,2.1,55,40,41,13,6
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,3,lenguaje,305,2.9,52,21,25,43,11
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,3,matemáticas,296,3.1,56,15,49,25,12
+2017,105001007188,inst educ benedikta zur nieden,oficial,12,9,matemáticas,287,4.6,50,26,60,12,1
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,5,lenguaje,295,1.6,52,16,51,27,7
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,3,matemáticas,281,2.7,58,36,33,18,13
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,3,lenguaje,292,2.5,51,25,41,23,11
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,5,matemáticas,266,1.5,49,62,30,7,2
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,9,matemáticas,298,2.3,54,23,60,14,3
+2017,105001007218,inst educ maria de los angeles cano marquez,oficial,1,9,lenguaje,319,2.4,57,8,37,50,5
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,3,lenguaje,298,0,50,20,44,28,9
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,5,matemáticas,285,0,58,41,43,11,5
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,9,lenguaje,326,2.7,55,6,33,55,5
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,5,lenguaje,311,0,52,11,49,32,9
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,3,matemáticas,304,0,56,19,32,29,20
+2017,105001007421,inst educ octavio calderon mejia,oficial,15,9,matemáticas,305,3,61,18,64,12,6
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,9,matemáticas,300,4.3,51,17,65,17,2
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,5,lenguaje,272,0,54,25,60,10,5
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,5,matemáticas,257,0,45,70,24,5,2
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,3,matemáticas,289,4.6,53,19,46,27,8
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,9,lenguaje,308,4.4,52,6,50,43,2
+2017,105001007439,inst educ pedro claver aguirre,oficial,5,3,lenguaje,299,4.1,47,21,46,27,6
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,3,lenguaje,316,2.4,51,6,45,34,15
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,5,lenguaje,302,3.7,60,11,53,29,8
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,9,lenguaje,316,1.7,58,8,42,46,5
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,3,matemáticas,307,2.2,46,8,48,31,14
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,5,matemáticas,282,3.8,62,50,31,16,3
+2017,105001007889,inst educ juvenil nuevo futuro,oficial,6,9,matemáticas,283,1.5,52,29,58,14,0
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,3,lenguaje,339,1.6,56,7,26,35,33
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,5,matemáticas,297,1.3,49,37,44,13,6
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,5,lenguaje,318,1.4,54,10,41,40,9
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,9,lenguaje,352,2.8,55,2,24,61,13
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,3,matemáticas,330,1.6,56,9,21,39,32
+2017,105001007919,col sagrada familia aldea pablo vi,contratacion,1,9,matemáticas,323,3.3,65,11,54,26,9
+2017,105001007978,inst educ pablo neruda,oficial,2,3,lenguaje,280,4.4,48,32,40,26,2
+2017,105001007978,inst educ pablo neruda,oficial,2,3,matemáticas,269,4.2,46,30,53,15,2
+2017,105001007978,inst educ pablo neruda,oficial,2,9,matemáticas,252,5.4,50,56,40,2,2
+2017,105001007978,inst educ pablo neruda,oficial,2,5,matemáticas,267,5.1,54,62,26,10,2
+2017,105001007978,inst educ pablo neruda,oficial,2,9,lenguaje,271,5.2,48,20,62,18,0
+2017,105001007978,inst educ pablo neruda,oficial,2,5,lenguaje,302,4.7,49,10,53,33,3
+2017,105001008150,inst educ el diamante,oficial,7,5,lenguaje,304,3.9,61,14,49,24,13
+2017,105001008150,inst educ el diamante,oficial,7,9,matemáticas,301,4.4,60,21,58,15,6
+2017,105001008150,inst educ el diamante,oficial,7,3,lenguaje,307,3.2,51,12,47,29,12
+2017,105001008150,inst educ el diamante,oficial,7,9,lenguaje,325,5.1,69,12,28,52,8
+2017,105001008150,inst educ el diamante,oficial,7,3,matemáticas,272,4.2,67,33,37,19,10
+2017,105001008150,inst educ el diamante,oficial,7,5,matemáticas,291,4.2,67,53,25,9,13
+2017,105001008249,inst educ bello horizonte,oficial,7,9,matemáticas,275,3.7,57,33,55,12,0
+2017,105001008249,inst educ bello horizonte,oficial,7,5,matemáticas,238,2.2,42,86,14,0,0
+2017,105001008249,inst educ bello horizonte,oficial,7,3,matemáticas,243,5.1,57,52,39,6,3
+2017,105001008249,inst educ bello horizonte,oficial,7,3,lenguaje,292,4.1,46,22,44,28,7
+2017,105001008249,inst educ bello horizonte,oficial,7,5,lenguaje,285,2.7,51,24,55,18,4
+2017,105001008249,inst educ bello horizonte,oficial,7,9,lenguaje,307,3.5,54,9,47,41,3
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,5,lenguaje,302,3.5,59,15,46,30,9
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,9,matemáticas,292,3.9,57,32,49,18,2
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,5,matemáticas,296,3.4,57,40,37,15,8
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,9,lenguaje,296,3.9,57,14,51,34,2
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,3,lenguaje,308,3.6,48,13,41,35,10
+2017,105001008389,inst educ loreto-gabriela gomez carvajal,oficial,9,3,matemáticas,293,3.9,52,25,35,23,16
+2017,105001008486,i.e. capilla del rosario,oficial,16,9,lenguaje,297,5.4,56,17,47,36,0
+2017,105001008486,i.e. capilla del rosario,oficial,16,3,matemáticas,268,4.6,52,35,37,24,4
+2017,105001008486,i.e. capilla del rosario,oficial,16,5,matemáticas,249,0,44,74,25,2,0
+2017,105001008486,i.e. capilla del rosario,oficial,16,3,lenguaje,303,5.1,58,14,43,29,14
+2017,105001008486,i.e. capilla del rosario,oficial,16,9,matemáticas,285,4.6,48,21,70,9,0
+2017,105001008486,i.e. capilla del rosario,oficial,16,5,lenguaje,283,0,59,26,55,9,9
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,9,matemáticas,305,2.3,56,15,61,23,2
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,3,lenguaje,314,2.5,52,11,34,42,14
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,5,lenguaje,310,2.7,62,13,49,24,15
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,5,matemáticas,298,2.7,61,43,27,19,10
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,3,matemáticas,292,2.4,52,21,47,21,11
+2017,105001009652,inst educ san lorenzo de aburra,oficial,3,9,lenguaje,314,2.1,51,4,47,48,2
+2017,105001009695,inst educ san juan bosco,oficial,4,9,matemáticas,318,2.4,51,11,54,35,0
+2017,105001009695,inst educ san juan bosco,oficial,4,3,lenguaje,318,3,56,13,36,29,23
+2017,105001009695,inst educ san juan bosco,oficial,4,3,matemáticas,311,3,57,14,39,29,19
+2017,105001009695,inst educ san juan bosco,oficial,4,9,lenguaje,353,2.8,58,4,23,65,9
+2017,105001009695,inst educ san juan bosco,oficial,4,5,lenguaje,336,2.3,58,7,30,43,20
+2017,105001009695,inst educ san juan bosco,oficial,4,5,matemáticas,305,2.5,65,36,31,21,12
+2017,105001009709,inst educ felix henao botero,oficial,8,9,matemáticas,274,2.7,60,39,52,8,1
+2017,105001009709,inst educ felix henao botero,oficial,8,5,lenguaje,272,2.6,50,27,58,12,3
+2017,105001009709,inst educ felix henao botero,oficial,8,5,matemáticas,261,2.6,52,68,20,11,1
+2017,105001009709,inst educ felix henao botero,oficial,8,3,lenguaje,307,3.6,61,21,35,24,21
+2017,105001009709,inst educ felix henao botero,oficial,8,9,lenguaje,289,2.4,51,18,54,26,1
+2017,105001009709,inst educ felix henao botero,oficial,8,3,matemáticas,293,4.1,65,28,31,27,15
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,5,lenguaje,302,1.8,60,16,47,27,10
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,3,matemáticas,293,4.1,54,22,42,28,9
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,9,lenguaje,309,5.2,63,11,42,41,6
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,9,matemáticas,301,4.5,55,23,50,25,2
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,3,lenguaje,324,5.1,67,13,33,28,27
+2017,105001009865,inst educ hernan toro agudelo,oficial,3,5,matemáticas,281,1.8,59,54,26,16,4
+2017,105001010111,inst educ maestro fernando botero,oficial,6,3,matemáticas,273,2.8,61,34,41,17,9
+2017,105001010111,inst educ maestro fernando botero,oficial,6,5,lenguaje,303,3.9,58,13,54,21,12
+2017,105001010111,inst educ maestro fernando botero,oficial,6,3,lenguaje,306,2.6,56,18,38,30,14
+2017,105001010111,inst educ maestro fernando botero,oficial,6,9,matemáticas,293,3.2,57,26,58,14,2
+2017,105001010111,inst educ maestro fernando botero,oficial,6,9,lenguaje,296,3.5,63,15,46,38,2
+2017,105001010111,inst educ maestro fernando botero,oficial,6,5,matemáticas,284,4.4,64,55,25,13,7
+2017,105001010367,inst educ santos angeles custodios,oficial,15,9,matemáticas,301,7.3,65,21,54,21,5
+2017,105001010367,inst educ santos angeles custodios,oficial,15,3,lenguaje,327,5.6,62,9,35,31,25
+2017,105001010367,inst educ santos angeles custodios,oficial,15,9,lenguaje,322,5.9,53,5,35,58,2
+2017,105001010367,inst educ santos angeles custodios,oficial,15,5,lenguaje,314,3.4,49,6,44,43,6
+2017,105001010367,inst educ santos angeles custodios,oficial,15,3,matemáticas,290,6,64,21,37,23,19
+2017,105001010367,inst educ santos angeles custodios,oficial,15,5,matemáticas,273,4,54,60,30,6,4
+2017,105001010448,inst educ la esperanza,oficial,6,3,matemáticas,288,2.5,42,16,50,27,7
+2017,105001010448,inst educ la esperanza,oficial,6,9,matemáticas,296,4.6,65,33,43,23,1
+2017,105001010448,inst educ la esperanza,oficial,6,3,lenguaje,299,3,49,16,41,33,10
+2017,105001010448,inst educ la esperanza,oficial,6,9,lenguaje,323,4.3,61,8,37,47,8
+2017,105001010448,inst educ la esperanza,oficial,6,5,matemáticas,271,0.5,54,59,30,7,4
+2017,105001010448,inst educ la esperanza,oficial,6,5,lenguaje,306,0.5,61,15,44,31,11
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,5,matemáticas,291,2.2,56,42,37,13,7
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,5,lenguaje,299,2.2,55,13,52,28,8
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,9,matemáticas,291,2.4,58,29,50,18,2
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,9,lenguaje,317,2.4,56,10,35,51,4
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,3,lenguaje,304,2.7,56,18,42,24,16
+2017,105001010588,inst educ fe y alegria la cima,oficial,3,3,matemáticas,304,2.9,62,19,33,27,20
+2017,105001010855,inst educ  ana de castrillon,oficial,10,5,matemáticas,263,5.1,67,67,21,4,8
+2017,105001010855,inst educ  ana de castrillon,oficial,10,9,matemáticas,294,3.2,65,27,50,19,3
+2017,105001010855,inst educ  ana de castrillon,oficial,10,5,lenguaje,288,3.4,45,18,53,26,3
+2017,105001010855,inst educ  ana de castrillon,oficial,10,9,lenguaje,317,2.7,56,8,40,47,6
+2017,105001010855,inst educ  ana de castrillon,oficial,10,3,matemáticas,278,4.5,56,27,40,27,6
+2017,105001010855,inst educ  ana de castrillon,oficial,10,3,lenguaje,295,4.2,52,19,46,24,10
+2017,105001010928,cent educal don bosco,privado,5,5,matemáticas,300,5.6,65,42,25,20,13
+2017,105001010928,cent educal don bosco,privado,5,5,lenguaje,341,5.4,62,5,33,30,32
+2017,105001010928,cent educal don bosco,privado,5,9,matemáticas,339,3.3,68,13,58,15,15
+2017,105001010928,cent educal don bosco,privado,5,3,lenguaje,323,0,65,14,31,31,24
+2017,105001010928,cent educal don bosco,privado,5,9,lenguaje,360,2.7,56,0,23,65,13
+2017,105001010928,cent educal don bosco,privado,5,3,matemáticas,303,0,65,21,31,27,21
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,3,lenguaje,314,2.5,55,11,35,41,13
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,5,lenguaje,327,0,59,5,43,33,19
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,9,matemáticas,299,2.7,59,21,61,16,3
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,5,matemáticas,293,0,65,41,33,19,7
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,9,lenguaje,320,3,65,11,37,49,3
+2017,105001011011,inst educ tomas carrasquilla no. 2,oficial,7,3,matemáticas,308,2.4,53,13,29,43,15
+2017,105001011061,inst educ jose asuncion silva,oficial,5,5,matemáticas,293,2.4,62,43,34,14,9
+2017,105001011061,inst educ jose asuncion silva,oficial,5,3,lenguaje,303,3.2,64,23,33,33,11
+2017,105001011061,inst educ jose asuncion silva,oficial,5,3,matemáticas,296,2.9,59,24,32,29,15
+2017,105001011061,inst educ jose asuncion silva,oficial,5,9,matemáticas,298,2.4,55,21,58,20,1
+2017,105001011061,inst educ jose asuncion silva,oficial,5,9,lenguaje,310,2.6,59,8,49,40,4
+2017,105001011061,inst educ jose asuncion silva,oficial,5,5,lenguaje,301,2.3,60,16,46,29,9
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,5,matemáticas,268,3.8,57,60,27,10,4
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,3,matemáticas,275,3.6,68,31,34,22,13
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,9,matemáticas,292,2.6,51,20,68,11,1
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,9,lenguaje,314,2.9,55,7,48,41,4
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,3,lenguaje,294,3,57,24,36,30,10
+2017,105001011070,inst educ merceditas gomez martinez,oficial,9,5,lenguaje,289,3.5,56,19,54,22,5
+2017,105001011088,inst educ ciudadela las americas,oficial,6,9,lenguaje,288,0,64,19,48,33,0
+2017,105001011088,inst educ ciudadela las americas,oficial,6,5,matemáticas,292,0,57,48,28,14,10
+2017,105001011088,inst educ ciudadela las americas,oficial,6,5,lenguaje,312,0,65,18,40,28,15
+2017,105001011088,inst educ ciudadela las americas,oficial,6,3,lenguaje,291,2.7,44,21,48,26,5
+2017,105001011088,inst educ ciudadela las americas,oficial,6,9,matemáticas,279,0,52,31,55,13,0
+2017,105001011088,inst educ ciudadela las americas,oficial,6,3,matemáticas,280,3,48,23,53,18,6
+2017,105001011363,inst educ doce de octubre,oficial,6,3,matemáticas,291,2,62,27,30,31,12
+2017,105001011363,inst educ doce de octubre,oficial,6,5,matemáticas,283,0.8,51,51,32,13,4
+2017,105001011363,inst educ doce de octubre,oficial,6,3,lenguaje,306,1.8,56,13,45,28,14
+2017,105001011363,inst educ doce de octubre,oficial,6,9,matemáticas,286,2.3,59,30,56,13,1
+2017,105001011363,inst educ doce de octubre,oficial,6,9,lenguaje,310,2.4,59,11,43,41,6
+2017,105001011363,inst educ doce de octubre,oficial,6,5,lenguaje,314,0.9,54,9,49,33,9
+2017,105001011461,inst educ fe y alegria aures,oficial,7,5,lenguaje,296,0,58,17,51,24,9
+2017,105001011461,inst educ fe y alegria aures,oficial,7,3,lenguaje,279,0,43,32,39,24,4
+2017,105001011461,inst educ fe y alegria aures,oficial,7,9,lenguaje,339,3.9,53,2,33,56,9
+2017,105001011461,inst educ fe y alegria aures,oficial,7,3,matemáticas,294,0,46,16,42,34,8
+2017,105001011461,inst educ fe y alegria aures,oficial,7,5,matemáticas,271,0,42,61,34,6,0
+2017,105001011461,inst educ fe y alegria aures,oficial,7,9,matemáticas,340,4.6,63,9,44,40,7
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,3,matemáticas,272,4.4,54,34,45,15,6
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,3,lenguaje,299,4.1,52,18,46,22,15
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,5,lenguaje,312,4,63,15,40,35,11
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,9,matemáticas,273,3,50,37,55,8,1
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,9,lenguaje,317,3.5,57,7,44,45,4
+2017,105001011606,inst educ horacio muñoz suescun,oficial,16,5,matemáticas,284,4.2,63,50,29,16,5
+2017,105001011631,inst educ asamblea departamental,oficial,9,9,matemáticas,290,0.9,67,30,50,16,4
+2017,105001011631,inst educ asamblea departamental,oficial,9,3,lenguaje,337,2.2,52,5,26,43,27
+2017,105001011631,inst educ asamblea departamental,oficial,9,9,lenguaje,316,0.8,62,10,41,44,5
+2017,105001011631,inst educ asamblea departamental,oficial,9,3,matemáticas,306,2.1,51,14,38,31,18
+2017,105001011631,inst educ asamblea departamental,oficial,9,5,lenguaje,329,0,60,6,39,33,21
+2017,105001011631,inst educ asamblea departamental,oficial,9,5,matemáticas,300,0,71,42,28,17,14
+2017,105001011690,inst educ federico carrasquilla,oficial,1,3,matemáticas,277,3.1,51,28,45,20,7
+2017,105001011690,inst educ federico carrasquilla,oficial,1,3,lenguaje,306,3.2,52,15,38,35,12
+2017,105001011690,inst educ federico carrasquilla,oficial,1,5,lenguaje,284,3.2,55,18,59,18,5
+2017,105001011690,inst educ federico carrasquilla,oficial,1,9,lenguaje,320,4.9,55,4,48,44,5
+2017,105001011690,inst educ federico carrasquilla,oficial,1,9,matemáticas,299,5.1,57,20,61,18,1
+2017,105001011690,inst educ federico carrasquilla,oficial,1,5,matemáticas,258,3.2,56,62,30,7,1
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,9,matemáticas,306,2.3,54,14,63,22,2
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,3,matemáticas,286,1.7,50,20,46,25,9
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,3,lenguaje,294,1.7,48,21,46,25,8
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,9,lenguaje,325,2.7,64,8,38,47,8
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,5,matemáticas,296,2.2,69,40,39,11,10
+2017,105001011711,inst educ fe y alegria villa de la candelaria,oficial,7,5,lenguaje,307,2,62,13,45,31,11
+2017,105001011886,inst educ america,oficial,12,9,lenguaje,309,7.7,64,13,39,44,4
+2017,105001011886,inst educ america,oficial,12,3,matemáticas,278,2,46,29,45,19,7
+2017,105001011886,inst educ america,oficial,12,3,lenguaje,282,2.2,52,30,45,18,7
+2017,105001011886,inst educ america,oficial,12,5,lenguaje,279,4,51,24,54,21,2
+2017,105001011886,inst educ america,oficial,12,9,matemáticas,293,7.2,60,25,57,17,1
+2017,105001011886,inst educ america,oficial,12,5,matemáticas,268,4.6,59,63,23,8,6
+2017,105001012076,escuela universidad nacional,oficial,7,5,matemáticas,340,0,65,14,29,36,21
+2017,105001012076,escuela universidad nacional,oficial,7,3,lenguaje,342,0,62,14,14,43,29
+2017,105001012076,escuela universidad nacional,oficial,7,3,matemáticas,332,0,84,14,29,29,29
+2017,105001012076,escuela universidad nacional,oficial,7,5,lenguaje,342,0,49,7,21,50,21
+2017,105001012092,inst educ barrio santander,oficial,6,5,lenguaje,293,6.1,58,18,51,24,6
+2017,105001012092,inst educ barrio santander,oficial,6,9,matemáticas,293,2.2,55,27,57,14,2
+2017,105001012092,inst educ barrio santander,oficial,6,3,matemáticas,273,6.1,51,39,36,18,7
+2017,105001012092,inst educ barrio santander,oficial,6,9,lenguaje,303,2.2,55,11,55,31,3
+2017,105001012092,inst educ barrio santander,oficial,6,3,lenguaje,290,6.6,55,27,39,26,7
+2017,105001012092,inst educ barrio santander,oficial,6,5,matemáticas,268,6.1,58,65,23,9,4
+2017,105001012106,inst educ juan maria cespedes,oficial,16,3,matemáticas,293,2,60,28,29,30,13
+2017,105001012106,inst educ juan maria cespedes,oficial,16,5,matemáticas,303,2.5,83,49,22,11,18
+2017,105001012106,inst educ juan maria cespedes,oficial,16,9,lenguaje,337,1.7,59,4,35,54,8
+2017,105001012106,inst educ juan maria cespedes,oficial,16,9,matemáticas,329,2.1,73,14,48,28,11
+2017,105001012106,inst educ juan maria cespedes,oficial,16,3,lenguaje,325,1.9,64,14,30,31,25
+2017,105001012106,inst educ juan maria cespedes,oficial,16,5,lenguaje,334,1.9,68,9,35,30,26
+2017,105001012165,inst educ guadalupe,oficial,1,9,lenguaje,279,6,59,24,49,28,0
+2017,105001012165,inst educ guadalupe,oficial,1,9,matemáticas,263,3.9,38,40,57,3,0
+2017,105001012165,inst educ guadalupe,oficial,1,3,lenguaje,290,3.9,49,23,44,24,9
+2017,105001012165,inst educ guadalupe,oficial,1,5,matemáticas,252,2.8,48,77,17,5,1
+2017,105001012165,inst educ guadalupe,oficial,1,3,matemáticas,264,4.7,59,37,42,15,7
+2017,105001012165,inst educ guadalupe,oficial,1,5,lenguaje,281,3.3,55,23,53,19,5
+2017,105001012581,inst educ reino de belgica,oficial,3,5,matemáticas,243,2.1,49,80,16,4,1
+2017,105001012581,inst educ reino de belgica,oficial,3,9,matemáticas,285,5.5,56,29,55,15,1
+2017,105001012581,inst educ reino de belgica,oficial,3,3,lenguaje,283,2.4,46,26,50,18,7
+2017,105001012581,inst educ reino de belgica,oficial,3,9,lenguaje,290,6,61,16,49,32,4
+2017,105001012581,inst educ reino de belgica,oficial,3,5,lenguaje,276,2.2,54,27,54,17,4
+2017,105001012581,inst educ reino de belgica,oficial,3,3,matemáticas,264,2.4,50,36,48,14,2
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,9,lenguaje,318,3.7,55,7,43,44,6
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,5,matemáticas,245,2.2,53,78,18,3,1
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,9,matemáticas,303,3.5,53,13,70,15,3
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,3,lenguaje,311,3.6,58,14,42,29,16
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,3,matemáticas,271,4,61,35,44,14,8
+2017,105001012696,inst educ alfonso lopez pumarejo,oficial,10,5,lenguaje,291,2.4,59,19,52,22,7
+2017,105001012700,inst educ san pablo,oficial,1,5,matemáticas,255,0,50,70,24,5,1
+2017,105001012700,inst educ san pablo,oficial,1,9,matemáticas,282,2.8,59,34,51,15,0
+2017,105001012700,inst educ san pablo,oficial,1,5,lenguaje,279,0,51,21,59,16,4
+2017,105001012700,inst educ san pablo,oficial,1,3,lenguaje,277,3.5,49,33,43,20,4
+2017,105001012700,inst educ san pablo,oficial,1,9,lenguaje,304,3,64,13,47,35,5
+2017,105001012700,inst educ san pablo,oficial,1,3,matemáticas,275,3.6,50,33,45,15,8
+2017,105001013013,institucion educativa el picachito,oficial,6,9,lenguaje,314,4.8,58,9,44,44,3
+2017,105001013013,institucion educativa el picachito,oficial,6,3,matemáticas,274,2.7,45,29,50,18,3
+2017,105001013013,institucion educativa el picachito,oficial,6,5,matemáticas,271,2.7,54,60,25,14,1
+2017,105001013013,institucion educativa el picachito,oficial,6,9,matemáticas,312,4.6,55,10,70,17,3
+2017,105001013013,institucion educativa el picachito,oficial,6,5,lenguaje,291,2.7,56,14,60,18,8
+2017,105001013013,institucion educativa el picachito,oficial,6,3,lenguaje,279,3.4,56,32,49,12,8
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,5,lenguaje,310,1.2,57,8,54,30,8
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,3,matemáticas,295,1.8,57,18,39,31,13
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,9,matemáticas,302,4,61,20,50,26,4
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,9,lenguaje,322,4.3,66,10,40,42,8
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,5,matemáticas,289,1.2,57,41,38,16,5
+2017,105001013072,inst educ maestro pedro nel gomez,oficial,5,3,lenguaje,300,1.7,54,15,45,29,11
+2017,105001013145,inst educ santa teresa,oficial,2,9,lenguaje,330,2.2,53,2,40,52,6
+2017,105001013145,inst educ santa teresa,oficial,2,3,lenguaje,311,1.4,53,12,43,32,14
+2017,105001013145,inst educ santa teresa,oficial,2,5,matemáticas,316,2.2,63,27,36,24,13
+2017,105001013145,inst educ santa teresa,oficial,2,3,matemáticas,307,1.4,55,13,40,31,16
+2017,105001013145,inst educ santa teresa,oficial,2,5,lenguaje,340,2,56,3,29,49,19
+2017,105001013145,inst educ santa teresa,oficial,2,9,matemáticas,324,2.8,68,13,51,29,7
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,3,matemáticas,328,2.5,66,13,23,31,33
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,9,lenguaje,342,1.5,57,4,26,60,10
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,9,matemáticas,323,1.5,60,11,54,29,5
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,3,lenguaje,330,2.1,56,8,26,43,23
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,5,lenguaje,332,2.7,64,7,36,35,22
+2017,105001013340,inst educ inem jose felix de restrepo,oficial,14,5,matemáticas,300,2.9,68,41,30,20,10
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,3,lenguaje,317,3.1,44,4,43,38,15
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,5,matemáticas,283,4.5,58,53,28,13,6
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,9,matemáticas,314,6.5,67,15,59,17,9
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,9,lenguaje,332,6.4,66,9,30,49,11
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,3,matemáticas,304,4,56,15,40,25,21
+2017,105001013439,inst educ felix de bedout moreno,oficial,5,5,lenguaje,295,3.8,50,13,57,27,3
+2017,105001013447,inst educ jose horacio betancur,oficial,60,3,matemáticas,289,1.5,49,21,45,27,7
+2017,105001013447,inst educ jose horacio betancur,oficial,60,3,lenguaje,281,1.6,50,32,47,13,8
+2017,105001013447,inst educ jose horacio betancur,oficial,60,5,matemáticas,267,2.7,51,61,29,8,2
+2017,105001013447,inst educ jose horacio betancur,oficial,60,9,matemáticas,293,5.1,49,19,65,16,0
+2017,105001013447,inst educ jose horacio betancur,oficial,60,5,lenguaje,293,2.9,55,16,50,27,7
+2017,105001013447,inst educ jose horacio betancur,oficial,60,9,lenguaje,305,5.7,55,13,36,48,3
+2017,105001013633,inst educ loma hermosa,oficial,60,5,matemáticas,265,4.3,60,67,20,9,4
+2017,105001013633,inst educ loma hermosa,oficial,60,9,matemáticas,,,,0,0,1,0
+2017,105001013633,inst educ loma hermosa,oficial,60,3,matemáticas,,,,1,0,1,1
+2017,105001013633,inst educ loma hermosa,oficial,60,5,lenguaje,291,4,57,16,60,20,4
+2017,105001013633,inst educ loma hermosa,oficial,60,3,lenguaje,,,,1,1,1,0
+2017,105001013633,inst educ loma hermosa,oficial,60,9,lenguaje,,,,0,0,1,0
+2017,105001014052,inst educ nuevo horizonte,oficial,1,5,matemáticas,233,3.5,45,91,8,1,1
+2017,105001014052,inst educ nuevo horizonte,oficial,1,3,matemáticas,286,2.4,45,22,49,20,9
+2017,105001014052,inst educ nuevo horizonte,oficial,1,9,matemáticas,277,5.9,49,35,56,10,0
+2017,105001014052,inst educ nuevo horizonte,oficial,1,5,lenguaje,272,3.5,45,29,55,16,1
+2017,105001014052,inst educ nuevo horizonte,oficial,1,9,lenguaje,304,6.2,52,10,54,35,2
+2017,105001014052,inst educ nuevo horizonte,oficial,1,3,lenguaje,297,2.5,47,17,43,33,7
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,5,lenguaje,309,2.1,56,10,49,31,11
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,3,lenguaje,313,2.6,50,10,44,32,14
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,5,matemáticas,289,2.2,61,45,31,18,7
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,9,matemáticas,298,2.9,56,23,62,14,1
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,3,matemáticas,308,3.6,68,19,35,26,19
+2017,105001014397,inst educ luis lopez de mesa,oficial,7,9,lenguaje,310,3.3,63,13,40,43,4
+2017,105001014851,inst educ jesus rey,oficial,7,5,matemáticas,295,0,65,47,28,11,14
+2017,105001014851,inst educ jesus rey,oficial,7,3,lenguaje,327,2,63,11,24,43,22
+2017,105001014851,inst educ jesus rey,oficial,7,3,matemáticas,308,1.7,49,13,35,35,17
+2017,105001014851,inst educ jesus rey,oficial,7,9,lenguaje,343,0.7,58,3,28,59,11
+2017,105001014851,inst educ jesus rey,oficial,7,5,lenguaje,326,0,66,8,40,34,18
+2017,105001014851,inst educ jesus rey,oficial,7,9,matemáticas,313,0.7,57,15,58,24,3
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,9,matemáticas,285,2.5,48,23,67,9,1
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,3,matemáticas,270,3.7,54,40,36,19,5
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,5,lenguaje,271,1.5,61,29,56,10,5
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,3,lenguaje,275,3.4,51,32,43,22,4
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,9,lenguaje,298,3,58,12,49,37,1
+2017,105001015091,inst educ fe y alegria granizal,oficial,1,5,matemáticas,255,1.5,58,71,21,5,3
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,3,lenguaje,284,2.2,39,28,43,27,2
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,5,lenguaje,298,3.4,57,19,49,24,8
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,9,matemáticas,255,3.5,38,50,50,0,0
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,3,matemáticas,281,2.3,41,25,47,23,5
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,5,matemáticas,266,3.8,63,67,19,8,6
+2017,105001015148,inst educ camilo mora carrasquilla,oficial,7,9,lenguaje,278,5,54,23,52,26,0
+2017,105001015172,inst educ eduardo santos,oficial,13,5,matemáticas,261,3,49,68,25,6,1
+2017,105001015172,inst educ eduardo santos,oficial,13,9,lenguaje,306,4,55,8,48,42,2
+2017,105001015172,inst educ eduardo santos,oficial,13,3,matemáticas,271,3.3,47,33,49,12,6
+2017,105001015172,inst educ eduardo santos,oficial,13,5,lenguaje,278,3.2,51,22,56,20,2
+2017,105001015172,inst educ eduardo santos,oficial,13,3,lenguaje,275,3.3,47,31,51,13,5
+2017,105001015172,inst educ eduardo santos,oficial,13,9,matemáticas,284,3.6,50,28,63,8,1
+2017,105001015211,inst educ la libertad,oficial,8,9,matemáticas,264,5.6,44,35,62,3,0
+2017,105001015211,inst educ la libertad,oficial,8,5,matemáticas,253,4.7,42,78,19,3,0
+2017,105001015211,inst educ la libertad,oficial,8,3,matemáticas,270,5.7,52,38,41,16,6
+2017,105001015211,inst educ la libertad,oficial,8,9,lenguaje,263,6.7,52,27,60,14,0
+2017,105001015211,inst educ la libertad,oficial,8,3,lenguaje,276,4.5,42,22,56,19,3
+2017,105001015211,inst educ la libertad,oficial,8,5,lenguaje,272,5.3,47,25,59,14,2
+2017,105001015831,inst educ vallejuelos,oficial,7,5,matemáticas,231,2.6,48,86,15,0,0
+2017,105001015831,inst educ vallejuelos,oficial,7,3,lenguaje,287,5.8,50,35,35,24,7
+2017,105001015831,inst educ vallejuelos,oficial,7,9,lenguaje,302,4.4,51,6,53,40,2
+2017,105001015831,inst educ vallejuelos,oficial,7,5,lenguaje,262,2.7,50,34,57,8,2
+2017,105001015831,inst educ vallejuelos,oficial,7,9,matemáticas,272,4.4,51,34,57,8,2
+2017,105001015831,inst educ vallejuelos,oficial,7,3,matemáticas,267,6.5,56,44,35,16,6
+2017,105001016420,inst educ tricentenario,oficial,5,9,matemáticas,278,2.9,49,25,67,7,1
+2017,105001016420,inst educ tricentenario,oficial,5,9,lenguaje,309,3.1,53,8,43,46,3
+2017,105001016420,inst educ tricentenario,oficial,5,3,matemáticas,293,2,57,21,43,25,12
+2017,105001016420,inst educ tricentenario,oficial,5,5,lenguaje,299,0,64,18,46,28,8
+2017,105001016420,inst educ tricentenario,oficial,5,3,lenguaje,310,1.7,47,13,35,39,13
+2017,105001016420,inst educ tricentenario,oficial,5,5,matemáticas,283,0,66,53,25,16,6
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,3,lenguaje,304,3.6,55,14,44,24,19
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,9,lenguaje,308,2.9,52,8,46,43,2
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,9,matemáticas,273,3,54,39,52,6,2
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,5,lenguaje,287,1,46,15,59,23,3
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,5,matemáticas,261,1.2,54,67,25,6,2
+2017,105001017132,inst educ fe y alegria san jose,oficial,7,3,matemáticas,274,3.1,47,34,40,20,6
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,3,lenguaje,295,13.1,62,29,33,25,13
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,3,matemáticas,281,16.6,79,38,33,8,21
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,9,matemáticas,282,5,55,29,56,13,2
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,5,lenguaje,308,8,57,10,48,28,14
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,5,matemáticas,251,5.6,40,79,14,7,0
+2017,105001017876,inst educ francisco luis hernandez betancur,oficial,4,9,lenguaje,297,6.5,72,21,29,48,2
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,5,lenguaje,311,4.2,69,14,46,21,20
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,9,matemáticas,324,1.4,66,11,57,25,7
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,3,matemáticas,283,3.6,48,29,42,21,8
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,3,lenguaje,290,3.8,52,22,48,20,10
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,9,lenguaje,326,1.1,54,1,42,52,6
+2017,105001017965,inst educ manuel jose gomez s,oficial,5,5,matemáticas,295,3.7,60,47,26,17,10
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,3,matemáticas,277,2.3,59,31,48,10,10
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,9,matemáticas,280,6.9,64,31,55,11,4
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,5,lenguaje,273,3.5,47,28,56,13,3
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,3,lenguaje,291,2,52,25,47,18,9
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,5,matemáticas,246,3.7,50,75,20,5,0
+2017,105001018759,inst educ fe y alegria el limonar,oficial,80,9,lenguaje,300,6.2,58,15,47,35,4
+2017,105001019011,i.e. stella velez londoño,oficial,13,3,matemáticas,275,1.8,48,32,48,15,6
+2017,105001019011,i.e. stella velez londoño,oficial,13,9,matemáticas,280,3.8,54,29,56,15,0
+2017,105001019011,i.e. stella velez londoño,oficial,13,9,lenguaje,302,4,57,11,49,36,4
+2017,105001019011,i.e. stella velez londoño,oficial,13,5,matemáticas,238,2.9,48,80,17,2,0
+2017,105001019011,i.e. stella velez londoño,oficial,13,3,lenguaje,280,1.6,43,25,52,21,3
+2017,105001019011,i.e. stella velez londoño,oficial,13,5,lenguaje,269,3.2,52,35,51,9,5
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,5,lenguaje,312,2.2,61,13,40,36,11
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,3,matemáticas,303,3.6,48,16,32,36,16
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,3,lenguaje,310,3.2,43,7,41,43,9
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,9,matemáticas,268,6.6,59,35,54,11,0
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,5,matemáticas,288,1.6,44,49,38,7,6
+2017,105001019062,inst educ alfonso mora naranjo,oficial,4,9,lenguaje,297,7.6,68,22,41,33,4
+2017,105001019089,inst educ vida para todos,oficial,8,5,matemáticas,247,3.5,41,80,19,1,0
+2017,105001019089,inst educ vida para todos,oficial,8,3,lenguaje,277,3.4,48,34,45,17,4
+2017,105001019089,inst educ vida para todos,oficial,8,5,lenguaje,274,3.9,46,26,56,18,1
+2017,105001019089,inst educ vida para todos,oficial,8,9,matemáticas,266,4.7,51,43,46,11,0
+2017,105001019089,inst educ vida para todos,oficial,8,3,matemáticas,254,3.8,54,42,46,9,4
+2017,105001019089,inst educ vida para todos,oficial,8,9,lenguaje,289,5.5,60,19,46,33,3
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,5,matemáticas,268,2.2,50,63,26,11,1
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,3,matemáticas,280,1.5,40,25,51,21,3
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,3,lenguaje,278,1.9,50,34,36,23,6
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,9,lenguaje,315,6.3,59,12,35,52,2
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,5,lenguaje,310,2.3,52,11,52,30,7
+2017,105001019143,i.e. jorge eliecer gaitan,oficial,6,9,matemáticas,285,5.5,51,29,58,14,0
+2017,105001019194,inst educ el pedregal,oficial,6,9,matemáticas,297,7.3,75,29,51,14,6
+2017,105001019194,inst educ el pedregal,oficial,6,9,lenguaje,335,6,62,6,43,37,14
+2017,105001019194,inst educ el pedregal,oficial,6,5,lenguaje,293,2.9,55,16,51,29,4
+2017,105001019194,inst educ el pedregal,oficial,6,3,lenguaje,293,4.4,59,28,33,27,12
+2017,105001019194,inst educ el pedregal,oficial,6,3,matemáticas,288,4.5,64,27,32,27,14
+2017,105001019194,inst educ el pedregal,oficial,6,5,matemáticas,275,3.1,59,54,36,6,4
+2017,105001019305,inst educ la avanzada,oficial,1,3,matemáticas,272,3.7,41,33,47,17,3
+2017,105001019305,inst educ la avanzada,oficial,1,9,lenguaje,312,5.7,60,4,57,32,7
+2017,105001019305,inst educ la avanzada,oficial,1,5,matemáticas,265,6.4,42,69,22,8,0
+2017,105001019305,inst educ la avanzada,oficial,1,3,lenguaje,279,3.3,36,23,58,18,2
+2017,105001019305,inst educ la avanzada,oficial,1,9,matemáticas,308,5.3,56,14,64,18,4
+2017,105001019305,inst educ la avanzada,oficial,1,5,lenguaje,277,6.1,40,19,64,14,3
+2017,105001019330,inst educ barrio santa margarita,oficial,7,3,matemáticas,279,2.7,64,25,39,27,9
+2017,105001019330,inst educ barrio santa margarita,oficial,7,9,lenguaje,332,2.9,57,6,36,46,13
+2017,105001019330,inst educ barrio santa margarita,oficial,7,5,matemáticas,295,4.2,70,46,27,17,10
+2017,105001019330,inst educ barrio santa margarita,oficial,7,9,matemáticas,275,2.5,48,32,63,5,1
+2017,105001019330,inst educ barrio santa margarita,oficial,7,3,lenguaje,287,2.8,66,25,44,19,13
+2017,105001019330,inst educ barrio santa margarita,oficial,7,5,lenguaje,301,3.8,64,18,45,23,14
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,5,lenguaje,320,1.5,60,11,42,32,15
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,3,matemáticas,314,2.4,57,10,36,34,20
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,9,lenguaje,305,3.6,53,8,48,42,2
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,9,matemáticas,276,3.4,51,32,60,7,2
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,5,matemáticas,291,1.8,66,45,26,22,8
+2017,105001019429,inst educ luis carlos galan sarmiento,oficial,8,3,lenguaje,317,2.2,54,11,37,32,20
+2017,105001019453,inst educ villa del socorro,oficial,2,5,lenguaje,287,1.9,57,20,56,19,6
+2017,105001019453,inst educ villa del socorro,oficial,2,5,matemáticas,277,2,60,59,27,8,7
+2017,105001019453,inst educ villa del socorro,oficial,2,3,lenguaje,274,1.6,43,32,50,14,4
+2017,105001019453,inst educ villa del socorro,oficial,2,9,lenguaje,315,2.9,54,7,42,48,4
+2017,105001019453,inst educ villa del socorro,oficial,2,3,matemáticas,259,1.7,46,44,44,9,4
+2017,105001019453,inst educ villa del socorro,oficial,2,9,matemáticas,292,3,56,22,60,17,1
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,9,lenguaje,281,5.5,56,22,52,25,2
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,9,matemáticas,260,5.1,52,48,42,9,0
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,5,matemáticas,249,4.5,48,80,14,5,2
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,5,lenguaje,277,4.9,53,22,61,14,4
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,3,lenguaje,272,2.8,44,34,47,16,3
+2017,105001019534,inst educ rodrigo lara bonilla,oficial,3,3,matemáticas,259,3.4,52,48,39,10,4
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,5,matemáticas,281,3.9,62,56,21,18,6
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,9,lenguaje,333,3.4,45,1,33,64,2
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,3,matemáticas,271,5.4,59,36,33,26,5
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,3,lenguaje,313,5.1,56,15,33,36,15
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,5,lenguaje,307,4,63,16,40,32,13
+2017,105001019674,inst educ miraflores - luis eduardo valencia garcia,oficial,9,9,matemáticas,293,4.4,58,21,59,18,2
+2017,105001019798,inst educ alfonso lopez,oficial,5,3,lenguaje,312,3.8,47,7,48,32,13
+2017,105001019798,inst educ alfonso lopez,oficial,5,9,matemáticas,316,5.7,62,24,41,31,3
+2017,105001019798,inst educ alfonso lopez,oficial,5,9,lenguaje,327,4.8,52,3,31,66,0
+2017,105001019798,inst educ alfonso lopez,oficial,5,5,matemáticas,279,3.2,57,54,25,16,5
+2017,105001019798,inst educ alfonso lopez,oficial,5,5,lenguaje,313,3.3,55,10,43,35,13
+2017,105001019798,inst educ alfonso lopez,oficial,5,3,matemáticas,293,3.9,48,21,39,30,9
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,9,lenguaje,325,3.7,64,6,40,47,7
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,3,matemáticas,281,2.4,54,27,41,22,10
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,5,matemáticas,279,5.6,61,53,28,13,6
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,5,lenguaje,292,4.4,51,15,59,22,4
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,9,matemáticas,302,3.2,63,18,61,17,4
+2017,105001019925,inst educ alcaldia de medellin,oficial,16,3,lenguaje,294,1.9,55,24,43,24,10
+2017,105001020028,inst educ el salvador,oficial,10,3,lenguaje,284,3.9,61,33,32,22,13
+2017,105001020028,inst educ el salvador,oficial,10,5,matemáticas,290,3.2,61,49,30,14,7
+2017,105001020028,inst educ el salvador,oficial,10,9,matemáticas,302,3.6,63,20,53,24,3
+2017,105001020028,inst educ el salvador,oficial,10,5,lenguaje,310,2.9,56,10,52,32,6
+2017,105001020028,inst educ el salvador,oficial,10,9,lenguaje,312,3.6,62,9,46,38,8
+2017,105001020028,inst educ el salvador,oficial,10,3,matemáticas,300,3.8,60,19,38,25,18
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,3,matemáticas,266,2,72,29,42,22,7
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,5,matemáticas,285,4.7,55,45,40,11,5
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,3,lenguaje,301,1.5,54,17,42,26,15
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,9,lenguaje,315,6.9,53,7,39,55,0
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,5,lenguaje,315,4.1,48,3,53,34,11
+2017,105001020052,inst educ rafael garcia herreros,oficial,7,9,matemáticas,288,5.8,44,19,71,10,0
+2017,105001020273,inst educ ciudad don bosco,oficial,7,5,matemáticas,286,12.5,66,48,33,7,11
+2017,105001020273,inst educ ciudad don bosco,oficial,7,5,lenguaje,320,13.3,71,11,33,41,15
+2017,105001020273,inst educ ciudad don bosco,oficial,7,3,matemáticas,284,17.7,65,35,35,13,17
+2017,105001020273,inst educ ciudad don bosco,oficial,7,3,lenguaje,299,18.2,67,17,57,4,22
+2017,105001020273,inst educ ciudad don bosco,oficial,7,9,matemáticas,281,8.3,64,21,71,0,7
+2017,105001020273,inst educ ciudad don bosco,oficial,7,9,lenguaje,325,6.3,48,0,43,50,7
+2017,105001021199,inst educ la independencia,oficial,13,3,lenguaje,275,2.3,49,34,47,14,5
+2017,105001021199,inst educ la independencia,oficial,13,5,lenguaje,279,1.5,50,19,62,17,2
+2017,105001021199,inst educ la independencia,oficial,13,3,matemáticas,265,2.1,44,38,48,11,3
+2017,105001021199,inst educ la independencia,oficial,13,9,matemáticas,279,3.4,54,33,56,10,2
+2017,105001021199,inst educ la independencia,oficial,13,5,matemáticas,262,1.6,51,68,25,6,2
+2017,105001021199,inst educ la independencia,oficial,13,9,lenguaje,308,3.4,53,9,48,40,3
+2017,105001021547,inst educ villa flora,oficial,7,9,lenguaje,333,3.3,53,2,34,60,4
+2017,105001021547,inst educ villa flora,oficial,7,3,matemáticas,305,2.8,58,20,32,30,18
+2017,105001021547,inst educ villa flora,oficial,7,9,matemáticas,316,3.8,61,19,47,28,6
+2017,105001021547,inst educ villa flora,oficial,7,5,lenguaje,333,2.4,61,6,37,41,17
+2017,105001021547,inst educ villa flora,oficial,7,5,matemáticas,292,2.3,59,45,35,12,8
+2017,105001021547,inst educ villa flora,oficial,7,3,lenguaje,325,2.7,57,11,28,38,23
+2017,105001021636,inst educ kennedy,oficial,6,9,matemáticas,293,2.7,48,20,68,12,0
+2017,105001021636,inst educ kennedy,oficial,6,3,lenguaje,294,2.4,51,19,47,24,10
+2017,105001021636,inst educ kennedy,oficial,6,3,matemáticas,286,2.1,48,19,50,24,7
+2017,105001021636,inst educ kennedy,oficial,6,9,lenguaje,302,2.7,49,11,47,43,0
+2017,105001021636,inst educ kennedy,oficial,6,5,matemáticas,266,2.2,55,65,26,7,3
+2017,105001021636,inst educ kennedy,oficial,6,5,lenguaje,286,2.1,52,21,56,19,5
+2017,105001021873,inst educ sol de oriente,oficial,8,5,lenguaje,309,2.2,61,12,45,33,10
+2017,105001021873,inst educ sol de oriente,oficial,8,9,matemáticas,280,2.5,45,26,63,11,0
+2017,105001021873,inst educ sol de oriente,oficial,8,3,matemáticas,280,2,58,28,45,17,11
+2017,105001021873,inst educ sol de oriente,oficial,8,5,matemáticas,289,2.1,59,46,35,13,7
+2017,105001021873,inst educ sol de oriente,oficial,8,9,lenguaje,297,3,55,13,51,35,1
+2017,105001021873,inst educ sol de oriente,oficial,8,3,lenguaje,293,2,57,26,37,28,9
+2017,105001022101,inst educ las nieves,oficial,3,9,matemáticas,312,4.3,65,22,44,32,2
+2017,105001022101,inst educ las nieves,oficial,3,9,lenguaje,303,3.9,59,15,46,39,0
+2017,105001022101,inst educ las nieves,oficial,3,5,lenguaje,305,0,57,11,49,29,11
+2017,105001022101,inst educ las nieves,oficial,3,5,matemáticas,286,0,52,49,32,15,3
+2017,105001022101,inst educ las nieves,oficial,3,3,lenguaje,296,0,52,21,43,27,9
+2017,105001022101,inst educ las nieves,oficial,3,3,matemáticas,283,0,47,24,48,22,6
+2017,105001023965,inst educ finca la mesa,oficial,2,9,lenguaje,310,2.8,58,9,44,42,5
+2017,105001023965,inst educ finca la mesa,oficial,2,3,matemáticas,283,2,52,27,43,21,10
+2017,105001023965,inst educ finca la mesa,oficial,2,5,lenguaje,287,1.4,58,21,53,19,7
+2017,105001023965,inst educ finca la mesa,oficial,2,5,matemáticas,277,1.6,65,59,28,7,7
+2017,105001023965,inst educ finca la mesa,oficial,2,9,matemáticas,301,3.3,68,25,53,17,5
+2017,105001023965,inst educ finca la mesa,oficial,2,3,lenguaje,282,2.2,55,30,39,23,8
+2017,105001024073,inst educ casd,oficial,6,5,lenguaje,312,2,47,7,53,33,7
+2017,105001024073,inst educ casd,oficial,6,9,lenguaje,302,3.4,60,12,46,39,2
+2017,105001024073,inst educ casd,oficial,6,9,matemáticas,283,3.2,58,34,51,16,0
+2017,105001024073,inst educ casd,oficial,6,3,lenguaje,312,6.2,63,15,46,18,21
+2017,105001024073,inst educ casd,oficial,6,5,matemáticas,281,2.4,57,49,33,13,4
+2017,105001024073,inst educ casd,oficial,6,3,matemáticas,310,6.1,62,24,24,30,21
+2017,105001025763,inst educ debora arango perez,oficial,70,9,matemáticas,284,8,60,36,48,14,2
+2017,105001025763,inst educ debora arango perez,oficial,70,3,matemáticas,270,2.3,42,35,45,16,4
+2017,105001025763,inst educ debora arango perez,oficial,70,5,lenguaje,304,3.5,48,7,54,31,9
+2017,105001025763,inst educ debora arango perez,oficial,70,3,lenguaje,284,2.2,40,21,55,21,4
+2017,105001025763,inst educ debora arango perez,oficial,70,5,matemáticas,270,4.2,60,59,30,10,1
+2017,105001025763,inst educ debora arango perez,oficial,70,9,lenguaje,285,8.1,61,29,41,26,5
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,3,matemáticas,248,1.1,50,47,43,9,1
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,5,matemáticas,257,2.1,53,68,26,5,2
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,9,lenguaje,303,3.9,50,8,52,40,1
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,5,lenguaje,285,2.3,57,25,48,22,5
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,3,lenguaje,266,1,42,34,50,14,2
+2017,105001025771,inst educ joaquin vallejo arbelaez,oficial,8,9,matemáticas,279,4.6,59,31,58,9,2
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,5,matemáticas,268,2.3,43,63,28,9,1
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,5,lenguaje,287,3,57,21,53,22,5
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,9,matemáticas,294,1.9,56,27,56,16,2
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,9,lenguaje,305,1.8,51,10,47,41,2
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,3,lenguaje,292,2.3,47,17,52,23,8
+2017,105001025780,inst educ pbro antonio jose bernal londoño sj,oficial,5,3,matemáticas,284,2.4,48,23,49,18,10
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,3,lenguaje,310,4.7,58,16,35,33,16
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,5,lenguaje,304,3.4,60,16,46,29,9
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,9,lenguaje,331,5.7,65,6,37,46,11
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,5,matemáticas,284,3.3,59,51,29,16,5
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,9,matemáticas,284,4.9,56,35,50,12,4
+2017,105001025798,inst educ angela restrepo moreno,oficial,80,3,matemáticas,297,4.8,60,20,35,34,12
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,5,matemáticas,271,2.4,53,60,29,10,1
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,3,matemáticas,295,2.9,56,21,42,26,11
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,9,lenguaje,291,2.6,52,15,53,31,1
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,5,lenguaje,283,2.1,49,22,54,21,3
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,3,lenguaje,293,2.7,54,20,47,23,11
+2017,105001025844,inst educ antonio derka - santo domingo,oficial,1,9,matemáticas,277,2.6,51,33,59,7,1
+2017,105001025984,i.e. colegio loyola para la ciencia y la innovación,oficial,5,9,matemáticas,385,3.3,75,3,26,45,26
+2017,105001025984,i.e. colegio loyola para la ciencia y la innovación,oficial,5,9,lenguaje,386,2.5,56,2,10,58,31
+2017,105001025992,i.e. la huerta,oficial,60,5,lenguaje,285,4.1,59,21,56,17,6
+2017,105001025992,i.e. la huerta,oficial,60,3,matemáticas,282,3.6,57,31,40,18,12
+2017,105001025992,i.e. la huerta,oficial,60,3,lenguaje,300,3.3,52,17,45,29,10
+2017,105001025992,i.e. la huerta,oficial,60,9,lenguaje,331,3.5,58,5,29,59,7
+2017,105001025992,i.e. la huerta,oficial,60,9,matemáticas,295,4.1,67,29,49,16,7
+2017,105001025992,i.e. la huerta,oficial,60,5,matemáticas,271,3.9,55,58,26,13,3
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,9,matemáticas,288,2.6,55,23,62,13,2
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,3,matemáticas,277,2.6,52,27,45,22,6
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,5,lenguaje,276,2.1,55,28,50,18,4
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,5,matemáticas,245,1.6,46,80,15,5,0
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,9,lenguaje,310,2.9,60,12,44,39,6
+2017,105001026000,inst educ ciudadela nuevo occidente,oficial,60,3,lenguaje,295,2.5,52,23,38,29,10
+2017,105001026131,i.e. el pinal,oficial,8,5,lenguaje,296,1.2,56,13,55,26,6
+2017,105001026131,i.e. el pinal,oficial,8,3,lenguaje,288,2.5,56,26,47,18,9
+2017,105001026131,i.e. el pinal,oficial,8,9,matemáticas,263,4.3,40,40,55,5,0
+2017,105001026131,i.e. el pinal,oficial,8,3,matemáticas,274,2.2,50,32,47,14,8
+2017,105001026131,i.e. el pinal,oficial,8,9,lenguaje,309,6.5,59,15,34,48,3
+2017,105001026131,i.e. el pinal,oficial,8,5,matemáticas,267,1.4,66,66,20,7,7
+2017,105001026352,inst educ el corazón,oficial,13,9,lenguaje,274,4.6,51,22,58,20,0
+2017,105001026352,inst educ el corazón,oficial,13,9,matemáticas,260,4.5,49,42,51,7,0
+2017,105001026352,inst educ el corazón,oficial,13,3,lenguaje,269,2.1,39,37,46,17,1
+2017,105001026352,inst educ el corazón,oficial,13,5,lenguaje,269,1.1,50,30,55,12,3
+2017,105001026352,inst educ el corazón,oficial,13,3,matemáticas,259,2.4,45,36,54,8,2
+2017,105001026352,inst educ el corazón,oficial,13,5,matemáticas,251,1.2,51,73,21,3,3
+2017,105001026361,inst educ jesus maria valle,oficial,6,3,matemáticas,286,2.3,51,23,47,22,8
+2017,105001026361,inst educ jesus maria valle,oficial,6,9,lenguaje,309,2.8,59,9,46,40,5
+2017,105001026361,inst educ jesus maria valle,oficial,6,9,matemáticas,281,2.8,58,31,52,16,1
+2017,105001026361,inst educ jesus maria valle,oficial,6,3,lenguaje,297,2.3,52,18,44,29,10
+2017,105001026361,inst educ jesus maria valle,oficial,6,5,matemáticas,285,0,56,49,32,14,5
+2017,105001026361,inst educ jesus maria valle,oficial,6,5,lenguaje,295,0,55,20,49,24,7
+2017,105001026514,inst educ san benito,oficial,10,5,lenguaje,288,7.7,67,18,53,24,6
+2017,105001026514,inst educ san benito,oficial,10,9,matemáticas,355,16.7,72,9,36,36,18
+2017,105001026514,inst educ san benito,oficial,10,5,matemáticas,275,7.4,64,50,32,15,3
+2017,105001026514,inst educ san benito,oficial,10,3,lenguaje,263,7.2,40,43,50,4,4
+2017,105001026514,inst educ san benito,oficial,10,9,lenguaje,344,12.1,52,0,18,64,18
+2017,105001026514,inst educ san benito,oficial,10,3,matemáticas,265,9.6,53,39,39,14,7
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,9,matemáticas,291,3.9,56,27,56,17,1
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,3,matemáticas,273,3.1,44,34,47,15,5
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,5,matemáticas,269,1.6,54,62,29,7,3
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,9,lenguaje,306,4.1,59,11,43,42,4
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,3,lenguaje,276,3.1,45,29,54,13,3
+2017,105001026573,ie lusitania- paz de colombia,oficial,60,5,lenguaje,280,1.6,55,24,52,20,4
+2017,105001026581,inst educ la sierra,oficial,8,5,matemáticas,239,1.9,45,85,12,1,3
+2017,105001026581,inst educ la sierra,oficial,8,9,matemáticas,254,4.8,45,60,35,5,0
+2017,105001026581,inst educ la sierra,oficial,8,3,lenguaje,270,3.7,53,44,39,10,8
+2017,105001026581,inst educ la sierra,oficial,8,3,matemáticas,257,3.6,53,46,41,9,4
+2017,105001026581,inst educ la sierra,oficial,8,9,lenguaje,276,5.9,56,29,46,24,2
+2017,105001026581,inst educ la sierra,oficial,8,5,lenguaje,268,2,48,31,53,15,2
+2017,105001026603,inst educ altavista,oficial,70,9,lenguaje,288,3.9,45,9,73,18,0
+2017,105001026603,inst educ altavista,oficial,70,9,matemáticas,263,4.2,49,50,46,5,0
+2017,105001026603,inst educ altavista,oficial,70,3,matemáticas,278,2.6,39,29,42,29,0
+2017,105001026603,inst educ altavista,oficial,70,5,matemáticas,257,3.4,41,64,31,5,0
+2017,105001026603,inst educ altavista,oficial,70,5,lenguaje,278,3.8,45,26,49,26,0
+2017,105001026603,inst educ altavista,oficial,70,3,lenguaje,284,3.2,48,29,39,27,5
+2017,105001026654,inst educ el playon,oficial,2,3,matemáticas,253,0,48,45,47,8,0
+2017,105001026654,inst educ el playon,oficial,2,9,lenguaje,303,0,64,14,43,38,5
+2017,105001026654,inst educ el playon,oficial,2,3,lenguaje,263,0,37,45,47,5,3
+2017,105001026654,inst educ el playon,oficial,2,9,matemáticas,266,0,55,48,41,12,0
+2017,105001026654,inst educ el playon,oficial,2,5,matemáticas,260,0,56,71,16,11,3
+2017,105001026654,inst educ el playon,oficial,2,5,lenguaje,289,0,54,26,42,26,5
+2017,105001026662,inst educ la pastora,oficial,9,5,matemáticas,246,3.1,43,76,22,2,0
+2017,105001026662,inst educ la pastora,oficial,9,9,matemáticas,269,5,54,38,53,10,0
+2017,105001026662,inst educ la pastora,oficial,9,5,lenguaje,276,3.6,50,24,55,18,3
+2017,105001026662,inst educ la pastora,oficial,9,9,lenguaje,287,3.8,41,8,70,23,0
+2017,105001026662,inst educ la pastora,oficial,9,3,lenguaje,279,5.3,47,20,51,26,3
+2017,105001026662,inst educ la pastora,oficial,9,3,matemáticas,275,5.2,46,23,54,17,6
+2017,105001026671,inst educ san nicolas,oficial,1,9,matemáticas,310,4.7,62,14,56,28,3
+2017,105001026671,inst educ san nicolas,oficial,1,5,lenguaje,312,4.3,52,9,55,25,11
+2017,105001026671,inst educ san nicolas,oficial,1,3,matemáticas,284,2.7,47,23,50,20,7
+2017,105001026671,inst educ san nicolas,oficial,1,3,lenguaje,297,2.9,51,15,50,26,10
+2017,105001026671,inst educ san nicolas,oficial,1,5,matemáticas,278,4,50,46,39,14,0
+2017,105001026671,inst educ san nicolas,oficial,1,9,lenguaje,323,4.2,57,3,44,47,6
+2017,105001026689,inst educ blanquizal,oficial,13,3,matemáticas,254,3.6,42,48,44,7,2
+2017,105001026689,inst educ blanquizal,oficial,13,5,lenguaje,271,2.4,49,26,62,9,3
+2017,105001026689,inst educ blanquizal,oficial,13,9,lenguaje,295,7.5,64,17,37,43,3
+2017,105001026689,inst educ blanquizal,oficial,13,9,matemáticas,272,7,60,37,49,14,0
+2017,105001026689,inst educ blanquizal,oficial,13,5,matemáticas,227,2.2,46,92,8,0,0
+2017,105001026689,inst educ blanquizal,oficial,13,3,lenguaje,274,3.9,46,36,44,17,3
+2017,105001026697,inst educ fundadores,oficial,13,3,lenguaje,275,4.8,48,34,41,18,7
+2017,105001026697,inst educ fundadores,oficial,13,3,matemáticas,266,5.6,57,35,41,18,6
+2017,105001026697,inst educ fundadores,oficial,13,9,matemáticas,253,2.9,42,59,37,4,0
+2017,105001026697,inst educ fundadores,oficial,13,5,lenguaje,278,3.1,55,24,54,18,4
+2017,105001026697,inst educ fundadores,oficial,13,5,matemáticas,249,2.7,47,74,23,2,0
+2017,105001026697,inst educ fundadores,oficial,13,9,lenguaje,287,3.8,55,17,54,27,2
+2017,105001026701,inst educ vida y paz,oficial,6,9,matemáticas,262,0,55,50,40,10,0
+2017,105001026701,inst educ vida y paz,oficial,6,9,lenguaje,273,0,62,29,50,21,0
+2017,105001026701,inst educ vida y paz,oficial,6,5,matemáticas,264,0,45,61,32,5,2
+2017,105001026701,inst educ vida y paz,oficial,6,5,lenguaje,290,0,52,19,55,23,3
+2017,105001026701,inst educ vida y paz,oficial,6,3,matemáticas,264,0,39,40,43,18,0
+2017,105001026701,inst educ vida y paz,oficial,6,3,lenguaje,269,0,37,28,55,18,0
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,9,matemáticas,274,5.1,48,37,52,10,0
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,3,matemáticas,252,0,47,48,38,15,0
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,5,matemáticas,258,0,49,71,18,11,0
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,5,lenguaje,275,0,48,25,53,22,0
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,3,lenguaje,265,0,41,42,48,9,1
+2017,105001026719,lic rodrigo arenas betancur en administracion (ac),oficial,7,9,lenguaje,298,5.3,50,6,61,33,0
+2017,205001001389,c.e. media luna,oficial,90,5,lenguaje,316,6.2,61,9,44,41,6
+2017,205001001389,c.e. media luna,oficial,90,5,matemáticas,303,6.4,70,41,24,21,15
+2017,205001001389,c.e. media luna,oficial,90,3,lenguaje,328,4.1,57,6,32,40,22
+2017,205001001389,c.e. media luna,oficial,90,3,matemáticas,332,4.4,66,8,30,34,28
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,9,matemáticas,299,2.4,59,19,61,17,3
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,3,matemáticas,309,2.2,54,15,35,30,21
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,5,lenguaje,321,3.9,57,7,39,43,11
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,3,lenguaje,319,2.1,51,8,36,36,20
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,5,matemáticas,297,3.7,53,36,37,27,1
+2017,205001001672,inst educ monseñor victor wiedemann,oficial,80,9,lenguaje,319,2.2,55,9,34,54,3
+2017,205001001966,cent educ la aldea,oficial,50,3,lenguaje,312,1.8,52,3,47,37,13
+2017,205001001966,cent educ la aldea,oficial,50,5,matemáticas,317,0,70,29,25,32,14
+2017,205001001966,cent educ la aldea,oficial,50,3,matemáticas,313,3,67,17,27,37,20
+2017,205001001966,cent educ la aldea,oficial,50,5,lenguaje,331,0,50,0,46,46,7
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,9,matemáticas,274,3.7,61,36,51,11,1
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,5,lenguaje,271,5.5,57,33,46,15,5
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,3,lenguaje,275,4.1,34,36,52,13,0
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,9,lenguaje,287,3.7,61,19,54,23,4
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,5,matemáticas,250,5,52,74,15,8,3
+2017,205001002199,inst educ carlos alberto calderon,oficial,60,3,matemáticas,264,3.6,30,36,55,10,0
+2017,205001002768,cent educ el salado,oficial,80,3,matemáticas,286,6.5,50,25,47,14,14
+2017,205001002768,cent educ el salado,oficial,80,3,lenguaje,295,5.5,47,19,42,28,11
+2017,205001002768,cent educ el salado,oficial,80,5,lenguaje,289,8.6,53,12,69,12,8
+2017,205001002768,cent educ el salado,oficial,80,5,matemáticas,263,8.8,54,69,19,8,4
+2017,205001006119,cent educ juan andres patino,oficial,90,3,lenguaje,302,3.1,54,21,42,23,14
+2017,205001006119,cent educ juan andres patino,oficial,90,5,matemáticas,309,4.4,66,36,28,25,11
+2017,205001006119,cent educ juan andres patino,oficial,90,3,matemáticas,296,2.1,53,19,54,19,9
+2017,205001006119,cent educ juan andres patino,oficial,90,5,lenguaje,307,4.2,59,14,44,36,6
+2017,205001006224,cent educ permanente mazo,oficial,90,3,matemáticas,283,8.8,49,26,39,26,9
+2017,205001006224,cent educ permanente mazo,oficial,90,3,lenguaje,299,7.7,46,17,44,35,4
+2017,205001006224,cent educ permanente mazo,oficial,90,5,matemáticas,276,6.4,53,52,29,19,0
+2017,205001006224,cent educ permanente mazo,oficial,90,5,lenguaje,295,6,51,10,57,29,5
+2017,205001006232,inst educ  san cristobal,oficial,60,3,lenguaje,300,2.5,57,24,34,30,12
+2017,205001006232,inst educ  san cristobal,oficial,60,3,matemáticas,266,2.8,65,40,33,19,9
+2017,205001006232,inst educ  san cristobal,oficial,60,9,lenguaje,317,2.4,62,8,40,44,7
+2017,205001006232,inst educ  san cristobal,oficial,60,9,matemáticas,299,2.2,57,23,58,16,2
+2017,205001006232,inst educ  san cristobal,oficial,60,5,matemáticas,257,2.6,52,73,20,4,4
+2017,205001006232,inst educ  san cristobal,oficial,60,5,lenguaje,297,2.5,51,12,57,25,6
+2017,205001006526,inst educ marina orth,oficial,70,9,matemáticas,245,5.9,38,50,50,0,0
+2017,205001006526,inst educ marina orth,oficial,70,3,lenguaje,270,5.3,37,32,50,18,0
+2017,205001006526,inst educ marina orth,oficial,70,9,lenguaje,275,7.9,50,25,58,17,0
+2017,205001006526,inst educ marina orth,oficial,70,3,matemáticas,264,5.6,39,41,46,14,0
+2017,205001006526,inst educ marina orth,oficial,70,5,lenguaje,309,5.4,57,13,46,33,8
+2017,205001006526,inst educ marina orth,oficial,70,5,matemáticas,287,5.4,59,51,28,13,8
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,5,matemáticas,265,0,55,59,31,7,3
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,9,lenguaje,313,1.7,54,7,48,42,3
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,3,lenguaje,288,0,50,22,50,22,6
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,3,matemáticas,276,0,56,25,50,16,9
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,9,matemáticas,306,1.6,49,12,62,25,2
+2017,205001007735,inst educ hector rogelio montoya,oficial,50,5,lenguaje,296,0,47,7,59,31,3
+2017,205001009797,inst educ manuel j. betancur,oficial,80,9,lenguaje,332,2,59,5,35,51,10
+2017,205001009797,inst educ manuel j. betancur,oficial,80,3,matemáticas,312,1.9,61,14,26,35,25
+2017,205001009797,inst educ manuel j. betancur,oficial,80,5,matemáticas,302,1.7,63,42,35,14,10
+2017,205001009797,inst educ manuel j. betancur,oficial,80,3,lenguaje,331,1.7,54,8,23,45,25
+2017,205001009797,inst educ manuel j. betancur,oficial,80,9,matemáticas,312,2.1,63,16,56,22,5
+2017,205001009797,inst educ manuel j. betancur,oficial,80,5,lenguaje,323,1.6,60,10,38,36,17
+2017,205001009916,cent educ el manzanillo,oficial,70,3,lenguaje,306,7.2,46,12,42,39,6
+2017,205001009916,cent educ el manzanillo,oficial,70,5,lenguaje,292,4.1,50,24,39,36,0
+2017,205001009916,cent educ el manzanillo,oficial,70,3,matemáticas,304,8.5,60,18,42,30,9
+2017,205001009916,cent educ el manzanillo,oficial,70,5,matemáticas,279,3.7,48,49,39,9,3
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,9,lenguaje,297,4,53,11,55,34,0
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,9,matemáticas,277,4.2,55,31,59,8,1
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,5,lenguaje,303,2.4,58,14,50,26,10
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,3,lenguaje,306,4.4,53,12,45,30,14
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,5,matemáticas,289,2.7,65,47,33,11,9
+2017,205001010264,i.e. presbitero juan j. escobar,oficial,60,3,matemáticas,304,4.8,58,16,37,29,19
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,9,lenguaje,333,3.7,57,6,31,53,10
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,3,matemáticas,281,1.4,57,29,38,21,12
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,5,lenguaje,317,2.7,60,9,46,29,16
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,5,matemáticas,271,2.4,54,59,30,6,4
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,3,lenguaje,307,1.5,62,19,41,24,16
+2017,205001010281,inst educ alfonso upegui orozco,oficial,60,9,matemáticas,274,3.5,54,47,41,10,1
+2017,205001011031,inst educ santa elena,oficial,90,9,lenguaje,349,3.7,57,1,28,53,17
+2017,205001011031,inst educ santa elena,oficial,90,3,matemáticas,301,8.1,58,22,39,11,28
+2017,205001011031,inst educ santa elena,oficial,90,3,lenguaje,308,9.5,69,22,39,17,22
+2017,205001011031,inst educ santa elena,oficial,90,9,matemáticas,363,4.2,64,1,41,41,16
+2017,205001011031,inst educ santa elena,oficial,90,5,matemáticas,310,4.5,57,30,39,17,13
+2017,205001011031,inst educ santa elena,oficial,90,5,lenguaje,342,5.2,66,0,44,35,22
+2017,205001012534,inst educ san antonio de prado,oficial,80,9,lenguaje,342,2.8,55,3,27,58,12
+2017,205001012534,inst educ san antonio de prado,oficial,80,5,lenguaje,302,0.9,62,15,46,30,8
+2017,205001012534,inst educ san antonio de prado,oficial,80,3,lenguaje,293,0.4,57,26,37,26,11
+2017,205001012534,inst educ san antonio de prado,oficial,80,3,matemáticas,281,0.4,64,29,42,19,11
+2017,205001012534,inst educ san antonio de prado,oficial,80,9,matemáticas,325,3.2,65,11,50,32,7
+2017,205001012534,inst educ san antonio de prado,oficial,80,5,matemáticas,271,0.8,53,62,26,9,3
+2017,205001014308,cent educ las playas,oficial,60,3,matemáticas,304,11,63,8,50,25,17
+2017,205001014308,cent educ las playas,oficial,60,5,matemáticas,300,6.4,59,28,41,24,7
+2017,205001014308,cent educ las playas,oficial,60,3,lenguaje,304,9,55,13,46,25,17
+2017,205001014308,cent educ las playas,oficial,60,5,lenguaje,334,6.2,68,3,35,38,24
+2017,205001018745,inst educ el limonar,oficial,80,5,lenguaje,312,3.8,51,8,51,31,10
+2017,205001018745,inst educ el limonar,oficial,80,5,matemáticas,311,4.4,58,30,39,23,8
+2017,205001018745,inst educ el limonar,oficial,80,3,matemáticas,299,6.6,60,24,31,30,16
+2017,205001018745,inst educ el limonar,oficial,80,9,lenguaje,307,8.4,52,7,52,38,2
+2017,205001018745,inst educ el limonar,oficial,80,3,lenguaje,304,6.3,58,18,44,25,13
+2017,205001018745,inst educ el limonar,oficial,80,9,matemáticas,279,8.1,50,33,52,14,0
+2017,205001019318,inst educ san jose obrero,oficial,80,3,matemáticas,280,2.7,55,27,43,23,7
+2017,205001019318,inst educ san jose obrero,oficial,80,5,lenguaje,311,2.5,57,9,47,34,11
+2017,205001019318,inst educ san jose obrero,oficial,80,5,matemáticas,291,2.8,64,46,31,12,11
+2017,205001019318,inst educ san jose obrero,oficial,80,9,lenguaje,327,5.9,65,8,36,47,9
+2017,205001019318,inst educ san jose obrero,oficial,80,3,lenguaje,290,2.6,56,24,43,23,10
+2017,205001019318,inst educ san jose obrero,oficial,80,9,matemáticas,282,5.1,60,32,55,12,1
+2017,205001019989,cent educ travesias el morro,oficial,60,3,lenguaje,309,0,65,20,32,35,14
+2017,205001019989,cent educ travesias el morro,oficial,60,5,matemáticas,279,3.3,65,57,26,10,7
+2017,205001019989,cent educ travesias el morro,oficial,60,5,lenguaje,298,2.9,58,11,59,20,9
+2017,205001019989,cent educ travesias el morro,oficial,60,3,matemáticas,322,0,54,8,30,39,23
+2017,205001021452,cent educ pedregal alto,oficial,60,3,lenguaje,301,7.3,51,13,33,44,9
+2017,205001021452,cent educ pedregal alto,oficial,60,3,matemáticas,297,5.9,42,20,36,33,11
+2017,205001021452,cent educ pedregal alto,oficial,60,5,matemáticas,255,5,53,73,21,2,4
+2017,205001021452,cent educ pedregal alto,oficial,60,5,lenguaje,264,5,54,33,60,4,4
+2017,205001026624,inst educ compartir,oficial,80,5,lenguaje,303,1.5,60,17,47,24,12
+2017,205001026624,inst educ compartir,oficial,80,5,matemáticas,269,1.3,51,59,29,11,1
+2017,205001026624,inst educ compartir,oficial,80,3,lenguaje,297,1.9,56,15,47,27,11
+2017,205001026624,inst educ compartir,oficial,80,3,matemáticas,292,1.6,46,22,42,27,10
+2017,205001026624,inst educ compartir,oficial,80,9,matemáticas,316,4.6,70,17,53,21,9
+2017,205001026624,inst educ compartir,oficial,80,9,lenguaje,339,3.2,49,0,33,62,5
+2017,205001026632,inst educ corvide,oficial,80,3,lenguaje,298,1.2,52,17,42,31,11
+2017,205001026632,inst educ corvide,oficial,80,9,lenguaje,303,4.7,58,12,42,45,2
+2017,205001026632,inst educ corvide,oficial,80,3,matemáticas,283,1.2,53,25,45,22,8
+2017,205001026632,inst educ corvide,oficial,80,9,matemáticas,270,4.2,52,42,50,8,0
+2017,205001026632,inst educ corvide,oficial,80,5,lenguaje,307,2.3,57,14,43,36,7
+2017,205001026632,inst educ corvide,oficial,80,5,matemáticas,268,2.2,56,56,35,7,2
+2017,205001026641,inst educ pradito,oficial,80,5,matemáticas,284,6.4,57,52,27,15,6
+2017,205001026641,inst educ pradito,oficial,80,3,matemáticas,285,4.1,42,24,42,32,3
+2017,205001026641,inst educ pradito,oficial,80,5,lenguaje,310,7.6,68,18,36,27,18
+2017,205001026641,inst educ pradito,oficial,80,9,matemáticas,294,3.8,54,21,66,13,0
+2017,205001026641,inst educ pradito,oficial,80,9,lenguaje,294,3.5,49,8,55,37,0
+2017,205001026641,inst educ pradito,oficial,80,3,lenguaje,293,5.3,54,21,47,21,11
+2017,305001000000,cent educ sagrado nino,privado,9,3,matemáticas,334,0,57,2,34,32,32
+2017,305001000000,cent educ sagrado nino,privado,9,5,lenguaje,344,0,61,8,24,48,20
+2017,305001000000,cent educ sagrado nino,privado,9,3,lenguaje,344,0,52,6,20,38,36
+2017,305001000000,cent educ sagrado nino,privado,9,5,matemáticas,329,0,73,20,44,16,20
+2017,305001000077,el nuevo col the new school,privado,14,3,lenguaje,361,7,74,11,14,36,39
+2017,305001000077,el nuevo col the new school,privado,14,5,lenguaje,362,0,64,3,23,36,39
+2017,305001000077,el nuevo col the new school,privado,14,9,lenguaje,336,0,65,8,28,53,11
+2017,305001000077,el nuevo col the new school,privado,14,3,matemáticas,342,6.4,66,4,32,18,46
+2017,305001000077,el nuevo col the new school,privado,14,5,matemáticas,322,0,69,19,42,19,19
+2017,305001000077,el nuevo col the new school,privado,14,9,matemáticas,324,0,75,22,42,33,3
+2017,305001000093,i.e. prados verdes,privado,10,9,matemáticas,355,12.7,61,0,44,44,11
+2017,305001000093,i.e. prados verdes,privado,10,5,lenguaje,379,0,58,0,15,39,46
+2017,305001000093,i.e. prados verdes,privado,10,9,lenguaje,344,8.9,43,0,11,89,0
+2017,305001000093,i.e. prados verdes,privado,10,3,lenguaje,339,0,83,25,13,25,38
+2017,305001000093,i.e. prados verdes,privado,10,5,matemáticas,305,0,47,23,39,39,0
+2017,305001000093,i.e. prados verdes,privado,10,3,matemáticas,321,0,93,25,13,50,13
+2017,305001000450,col de maria,privado,4,3,matemáticas,351,5.5,76,8,14,35,43
+2017,305001000450,col de maria,privado,4,3,lenguaje,332,4.6,63,14,24,32,30
+2017,305001000450,col de maria,privado,4,9,lenguaje,348,3.7,50,0,27,65,8
+2017,305001000450,col de maria,privado,4,5,matemáticas,310,6,80,44,22,11,22
+2017,305001000450,col de maria,privado,4,9,matemáticas,321,4.3,58,12,54,27,8
+2017,305001000450,col de maria,privado,4,5,lenguaje,330,4.9,65,6,42,31,22
+2017,305001003491,col calasanz femenino,privado,11,3,matemáticas,357,0,59,2,19,23,55
+2017,305001003491,col calasanz femenino,privado,11,5,lenguaje,369,0,56,0,20,40,40
+2017,305001003491,col calasanz femenino,privado,11,5,matemáticas,340,0,64,18,20,40,23
+2017,305001003491,col calasanz femenino,privado,11,3,lenguaje,377,0,58,2,9,28,62
+2017,305001003491,col calasanz femenino,privado,11,9,matemáticas,373,4.8,73,5,29,45,21
+2017,305001003491,col calasanz femenino,privado,11,9,lenguaje,376,3.8,58,0,17,59,24
+2017,305001003505,col santa clara de asis,privado,12,5,matemáticas,341,7.7,72,17,33,28,22
+2017,305001003505,col santa clara de asis,privado,12,3,lenguaje,357,8.4,45,0,10,50,40
+2017,305001003505,col santa clara de asis,privado,12,9,lenguaje,342,4.5,56,0,29,58,13
+2017,305001003505,col santa clara de asis,privado,12,5,lenguaje,374,5.8,54,0,22,39,39
+2017,305001003505,col santa clara de asis,privado,12,3,matemáticas,333,10.8,58,0,30,40,30
+2017,305001003505,col santa clara de asis,privado,12,9,matemáticas,320,5.7,71,17,46,29,8
+2017,305001003513,inst colombo venezolano,privado,12,5,lenguaje,352,4.4,56,5,18,52,25
+2017,305001003513,inst colombo venezolano,privado,12,3,matemáticas,359,4,57,2,16,29,53
+2017,305001003513,inst colombo venezolano,privado,12,9,matemáticas,365,5.1,67,5,41,38,17
+2017,305001003513,inst colombo venezolano,privado,12,9,lenguaje,348,4.7,63,5,29,52,14
+2017,305001003513,inst colombo venezolano,privado,12,3,lenguaje,360,3.9,56,4,14,35,47
+2017,305001003513,inst colombo venezolano,privado,12,5,matemáticas,353,5.1,65,9,32,25,34
+2017,305001003599,colegio san jose de la salle,privado,14,9,matemáticas,380,2.5,76,3,33,41,23
+2017,305001003599,colegio san jose de la salle,privado,14,3,matemáticas,400,2.6,70,3,2,20,75
+2017,305001003599,colegio san jose de la salle,privado,14,9,lenguaje,369,2,59,2,16,58,24
+2017,305001003599,colegio san jose de la salle,privado,14,5,matemáticas,354,1.6,72,14,26,23,37
+2017,305001003599,colegio san jose de la salle,privado,14,3,lenguaje,384,2.1,57,1,10,22,67
+2017,305001003599,colegio san jose de la salle,privado,14,5,lenguaje,368,1.5,65,5,17,35,43
+2017,305001003629,inst pedag claret,privado,4,5,lenguaje,367,4,71,3,21,36,39
+2017,305001003629,inst pedag claret,privado,4,3,lenguaje,332,2,58,8,27,35,31
+2017,305001003629,inst pedag claret,privado,4,5,matemáticas,338,4.2,74,24,27,9,39
+2017,305001003629,inst pedag claret,privado,4,9,lenguaje,350,0,73,4,29,50,17
+2017,305001003629,inst pedag claret,privado,4,9,matemáticas,324,0,58,13,50,33,4
+2017,305001003629,inst pedag claret,privado,4,3,matemáticas,321,2.4,70,14,27,25,35
+2017,305001003696,lic san rafael,privado,16,9,lenguaje,355,0,59,5,14,67,14
+2017,305001003696,lic san rafael,privado,16,5,matemáticas,315,0,67,33,27,23,17
+2017,305001003696,lic san rafael,privado,16,9,matemáticas,321,0,67,16,51,28,5
+2017,305001003696,lic san rafael,privado,16,3,matemáticas,371,0,59,0,13,26,61
+2017,305001003696,lic san rafael,privado,16,3,lenguaje,365,0,55,0,22,35,44
+2017,305001003696,lic san rafael,privado,16,5,lenguaje,338,0,74,10,27,30,33
+2017,305001003734,inst san carlos,privado,16,9,lenguaje,353,0,56,0,27,57,16
+2017,305001003734,inst san carlos,privado,16,5,matemáticas,337,3.2,78,24,22,24,30
+2017,305001003734,inst san carlos,privado,16,3,matemáticas,372,1.2,66,3,11,26,60
+2017,305001003734,inst san carlos,privado,16,5,lenguaje,362,2.4,59,4,20,39,37
+2017,305001003734,inst san carlos,privado,16,9,matemáticas,366,0,67,3,40,39,19
+2017,305001003734,inst san carlos,privado,16,3,lenguaje,372,1.1,60,3,12,31,54
+2017,305001003769,col marymount,privado,14,9,lenguaje,431,0,44,0,0,29,71
+2017,305001003769,col marymount,privado,14,3,lenguaje,440,4,49,0,0,8,92
+2017,305001003769,col marymount,privado,14,3,matemáticas,436,4.7,57,0,0,8,92
+2017,305001003769,col marymount,privado,14,9,matemáticas,438,0,62,0,6,35,60
+2017,305001003769,col marymount,privado,14,5,matemáticas,438,3,63,0,3,14,83
+2017,305001003769,col marymount,privado,14,5,lenguaje,444,2.5,53,0,3,9,89
+2017,305001003785,col milit jose maria cordoba,privado,10,3,lenguaje,330,3.6,72,13,26,33,28
+2017,305001003785,col milit jose maria cordoba,privado,10,9,matemáticas,284,3.9,72,44,36,14,6
+2017,305001003785,col milit jose maria cordoba,privado,10,9,lenguaje,306,3.4,63,14,36,47,3
+2017,305001003785,col milit jose maria cordoba,privado,10,5,lenguaje,329,5.6,61,10,38,31,21
+2017,305001003785,col milit jose maria cordoba,privado,10,3,matemáticas,328,3.4,69,10,26,31,33
+2017,305001003785,col milit jose maria cordoba,privado,10,5,matemáticas,299,5.3,57,38,41,14,7
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,3,matemáticas,338,2.9,62,7,26,28,40
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,5,lenguaje,344,1.9,64,6,24,45,24
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,5,matemáticas,295,1.7,59,39,43,9,10
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,3,lenguaje,357,3,64,5,19,28,48
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,9,matemáticas,336,2.9,80,17,39,29,16
+2017,305001003793,inst salesiano pedro justo berrio,privado,16,9,lenguaje,346,2.3,63,3,29,54,15
+2017,305001003904,inst antioquia,privado,10,9,matemáticas,,,,0,2,3,0
+2017,305001003904,inst antioquia,privado,10,3,matemáticas,,,,0,0,0,1
+2017,305001003904,inst antioquia,privado,10,5,matemáticas,285,0,88,60,10,10,20
+2017,305001003904,inst antioquia,privado,10,3,lenguaje,,,,0,0,1,0
+2017,305001003904,inst antioquia,privado,10,9,lenguaje,,,,0,1,4,0
+2017,305001003904,inst antioquia,privado,10,5,lenguaje,332,0,69,20,20,40,20
+2017,305001003947,cent educal conquistadores,privado,70,3,lenguaje,329,11.6,77,18,18,36,27
+2017,305001003947,cent educal conquistadores,privado,70,5,matemáticas,301,0,64,50,21,21,7
+2017,305001003947,cent educal conquistadores,privado,70,9,matemáticas,317,16.6,102,24,47,24,6
+2017,305001003947,cent educal conquistadores,privado,70,9,lenguaje,330,10.3,63,6,29,59,6
+2017,305001003947,cent educal conquistadores,privado,70,5,lenguaje,324,0,93,14,50,14,21
+2017,305001003947,cent educal conquistadores,privado,70,3,matemáticas,300,8.2,54,27,27,36,9
+2017,305001003955,comunidad colegio jesus maria,privado,11,5,lenguaje,433,1.5,58,0,4,16,80
+2017,305001003955,comunidad colegio jesus maria,privado,11,3,lenguaje,431,1.6,63,1,5,9,84
+2017,305001003955,comunidad colegio jesus maria,privado,11,9,matemáticas,465,3.1,75,0,6,22,72
+2017,305001003955,comunidad colegio jesus maria,privado,11,5,matemáticas,421,1.7,66,1,3,30,66
+2017,305001003955,comunidad colegio jesus maria,privado,11,9,lenguaje,423,1.9,45,0,2,45,54
+2017,305001003955,comunidad colegio jesus maria,privado,11,3,matemáticas,409,1.9,73,1,7,18,74
+2017,305001003963,lic salazar y herrera,privado,12,9,matemáticas,319,1.1,67,14,52,28,6
+2017,305001003963,lic salazar y herrera,privado,12,3,lenguaje,352,1.6,70,6,24,31,39
+2017,305001003963,lic salazar y herrera,privado,12,9,lenguaje,356,0.9,55,2,20,64,15
+2017,305001003963,lic salazar y herrera,privado,12,3,matemáticas,327,1.4,63,8,29,32,31
+2017,305001003963,lic salazar y herrera,privado,12,5,lenguaje,370,1,67,3,22,31,44
+2017,305001003963,lic salazar y herrera,privado,12,5,matemáticas,338,1.1,74,21,28,23,27
+2017,305001004161,col de la presentacion - medellin,privado,12,9,lenguaje,368,4.5,65,3,18,52,27
+2017,305001004161,col de la presentacion - medellin,privado,12,5,matemáticas,338,2.6,67,14,37,30,19
+2017,305001004161,col de la presentacion - medellin,privado,12,9,matemáticas,348,4.7,68,6,44,39,11
+2017,305001004161,col de la presentacion - medellin,privado,12,5,lenguaje,339,2.2,57,3,36,39,23
+2017,305001004161,col de la presentacion - medellin,privado,12,3,lenguaje,337,2.2,52,5,29,32,34
+2017,305001004161,col de la presentacion - medellin,privado,12,3,matemáticas,323,2.4,58,6,31,42,22
+2017,305001004200,col calasanz,privado,12,3,matemáticas,398,1.4,69,2,8,17,74
+2017,305001004200,col calasanz,privado,12,3,lenguaje,402,1.3,61,2,4,17,77
+2017,305001004200,col calasanz,privado,12,9,lenguaje,398,1.7,48,0,3,62,36
+2017,305001004200,col calasanz,privado,12,9,matemáticas,436,2.5,69,0,8,38,54
+2017,305001004200,col calasanz,privado,12,5,matemáticas,385,0,81,10,22,17,51
+2017,305001004200,col calasanz,privado,12,5,lenguaje,390,0,68,1,16,25,58
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,9,lenguaje,351,0,63,2,30,53,16
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,3,lenguaje,331,2.9,59,6,31,39,24
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,5,lenguaje,336,1.6,60,4,41,31,24
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,3,matemáticas,311,2.7,55,14,40,27,19
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,5,matemáticas,301,1.6,59,37,34,23,7
+2017,305001004218,col nuestra senora de lourdes,contratacion,4,9,matemáticas,346,0,68,5,48,34,13
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,5,lenguaje,348,1.3,71,6,29,31,34
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,9,matemáticas,336,2,67,9,51,30,10
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,9,lenguaje,372,1.6,55,1,15,61,24
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,3,lenguaje,354,1.4,64,6,17,31,46
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,3,matemáticas,338,1.4,67,10,17,29,44
+2017,305001004293,colegio de la universidad pontificia bolivariana,privado,11,5,matemáticas,328,1.4,73,28,28,22,23
+2017,305001004315,col santa maria del rosario,privado,14,5,matemáticas,354,6.1,44,4,30,35,30
+2017,305001004315,col santa maria del rosario,privado,14,3,lenguaje,385,0,57,0,13,19,69
+2017,305001004315,col santa maria del rosario,privado,14,3,matemáticas,370,0,48,0,13,25,63
+2017,305001004315,col santa maria del rosario,privado,14,5,lenguaje,370,9.9,71,9,17,26,48
+2017,305001004315,col santa maria del rosario,privado,14,9,lenguaje,377,8.3,54,0,12,59,29
+2017,305001004315,col santa maria del rosario,privado,14,9,matemáticas,368,11.9,77,6,41,29,24
+2017,305001004404,col eucaristico de la milagrosa,privado,9,9,lenguaje,360,0,50,2,14,70,14
+2017,305001004404,col eucaristico de la milagrosa,privado,9,5,matemáticas,313,2,66,37,32,14,18
+2017,305001004404,col eucaristico de la milagrosa,privado,9,3,matemáticas,304,4.2,50,11,50,29,11
+2017,305001004404,col eucaristico de la milagrosa,privado,9,9,matemáticas,337,0,65,11,46,32,11
+2017,305001004404,col eucaristico de la milagrosa,privado,9,5,lenguaje,356,1.5,51,2,19,54,25
+2017,305001004404,col eucaristico de la milagrosa,privado,9,3,lenguaje,346,4.6,54,5,18,42,34
+2017,305001004455,col salesiano el sufragio,privado,10,9,lenguaje,356,1.5,54,1,21,61,18
+2017,305001004455,col salesiano el sufragio,privado,10,5,lenguaje,340,2.7,69,10,24,42,25
+2017,305001004455,col salesiano el sufragio,privado,10,3,lenguaje,343,3.8,50,4,18,45,33
+2017,305001004455,col salesiano el sufragio,privado,10,9,matemáticas,345,1.9,68,8,43,34,14
+2017,305001004455,col salesiano el sufragio,privado,10,5,matemáticas,340,2.8,70,20,25,29,26
+2017,305001004455,col salesiano el sufragio,privado,10,3,matemáticas,327,4.5,59,10,26,34,30
+2017,305001004498,col san ignacio de loyola,privado,11,9,lenguaje,418,1.9,43,0,2,44,54
+2017,305001004498,col san ignacio de loyola,privado,11,3,lenguaje,412,1.2,55,1,3,14,82
+2017,305001004498,col san ignacio de loyola,privado,11,5,matemáticas,400,3,90,10,15,12,62
+2017,305001004498,col san ignacio de loyola,privado,11,5,lenguaje,395,2.7,81,3,16,26,56
+2017,305001004498,col san ignacio de loyola,privado,11,3,matemáticas,404,1.4,63,1,3,16,80
+2017,305001004498,col san ignacio de loyola,privado,11,9,matemáticas,433,3.5,77,1,13,35,52
+2017,305001004501,col sagrados corazones,privado,7,5,matemáticas,313,2.8,73,28,36,23,13
+2017,305001004501,col sagrados corazones,privado,7,3,matemáticas,324,5.2,75,16,26,21,37
+2017,305001004501,col sagrados corazones,privado,7,9,lenguaje,382,0,56,0,8,58,33
+2017,305001004501,col sagrados corazones,privado,7,9,matemáticas,371,0,75,3,39,31,28
+2017,305001004501,col sagrados corazones,privado,7,3,lenguaje,356,4.4,63,8,16,29,47
+2017,305001004501,col sagrados corazones,privado,7,5,lenguaje,359,2.3,60,0,28,43,30
+2017,305001004528,col maria reina del carmelo,contratacion,3,5,matemáticas,296,1.5,64,48,26,16,11
+2017,305001004528,col maria reina del carmelo,contratacion,3,3,lenguaje,340,1.3,57,6,25,31,38
+2017,305001004528,col maria reina del carmelo,contratacion,3,9,matemáticas,336,1.7,63,7,53,33,7
+2017,305001004528,col maria reina del carmelo,contratacion,3,9,lenguaje,344,1.5,55,4,24,60,13
+2017,305001004528,col maria reina del carmelo,contratacion,3,5,lenguaje,327,1.3,56,5,45,27,23
+2017,305001004528,col maria reina del carmelo,contratacion,3,3,matemáticas,321,1.3,59,9,29,39,23
+2017,305001004544,inst tomas carrasquilla,contratacion,9,5,matemáticas,329,3.6,65,21,41,18,21
+2017,305001004544,inst tomas carrasquilla,contratacion,9,9,matemáticas,339,0,86,22,30,33,15
+2017,305001004544,inst tomas carrasquilla,contratacion,9,3,lenguaje,342,7.4,60,8,15,46,31
+2017,305001004544,inst tomas carrasquilla,contratacion,9,9,lenguaje,326,0,54,4,37,56,4
+2017,305001004544,inst tomas carrasquilla,contratacion,9,3,matemáticas,348,8.6,69,4,23,31,42
+2017,305001004544,inst tomas carrasquilla,contratacion,9,5,lenguaje,358,3,54,0,24,53,24
+2017,305001004579,col palermo de san jose,privado,14,9,matemáticas,381,5.2,72,4,26,44,26
+2017,305001004579,col palermo de san jose,privado,14,5,matemáticas,339,8.5,70,21,35,18,27
+2017,305001004579,col palermo de san jose,privado,14,3,lenguaje,349,0,49,0,22,44,33
+2017,305001004579,col palermo de san jose,privado,14,5,lenguaje,369,7,58,3,18,41,38
+2017,305001004579,col palermo de san jose,privado,14,9,lenguaje,394,3.8,53,0,4,59,37
+2017,305001004579,col palermo de san jose,privado,14,3,matemáticas,322,0,65,7,30,33,30
+2017,305001004633,inst jorge robledo,privado,11,3,lenguaje,385,0,59,0,14,24,62
+2017,305001004633,inst jorge robledo,privado,11,9,matemáticas,432,2.1,61,0,7,42,51
+2017,305001004633,inst jorge robledo,privado,11,5,lenguaje,395,2,63,2,13,27,59
+2017,305001004633,inst jorge robledo,privado,11,9,lenguaje,413,1.6,47,0,2,46,53
+2017,305001004633,inst jorge robledo,privado,11,3,matemáticas,384,0,66,0,8,23,69
+2017,305001004633,inst jorge robledo,privado,11,5,matemáticas,365,2,64,6,24,30,40
+2017,305001004668,col gimn los pinares,privado,14,5,lenguaje,422,3.8,59,2,2,12,83
+2017,305001004668,col gimn los pinares,privado,14,5,matemáticas,419,5.1,79,5,5,19,71
+2017,305001004668,col gimn los pinares,privado,14,9,matemáticas,483,11.2,66,0,5,5,91
+2017,305001004668,col gimn los pinares,privado,14,9,lenguaje,415,7.3,43,0,5,38,57
+2017,305001004668,col gimn los pinares,privado,14,3,matemáticas,378,0,74,4,14,19,63
+2017,305001004668,col gimn los pinares,privado,14,3,lenguaje,393,0,70,4,5,23,68
+2017,305001004731,col ateneo horizontes,privado,12,3,lenguaje,293,25.5,73,43,29,0,29
+2017,305001004731,col ateneo horizontes,privado,12,5,lenguaje,318,0,79,24,29,24,24
+2017,305001004731,col ateneo horizontes,privado,12,9,matemáticas,336,0,65,9,55,27,9
+2017,305001004731,col ateneo horizontes,privado,12,3,matemáticas,297,17.5,50,29,14,57,0
+2017,305001004731,col ateneo horizontes,privado,12,5,matemáticas,309,0,71,33,33,19,14
+2017,305001004731,col ateneo horizontes,privado,12,9,lenguaje,322,0,48,0,46,46,9
+2017,305001004811,col divino salvador,privado,9,3,matemáticas,323,3,60,11,26,36,27
+2017,305001004811,col divino salvador,privado,9,5,lenguaje,357,3,64,9,17,41,34
+2017,305001004811,col divino salvador,privado,9,9,matemáticas,358,6.8,79,2,50,23,25
+2017,305001004811,col divino salvador,privado,9,5,matemáticas,340,3.8,83,24,25,25,25
+2017,305001004811,col divino salvador,privado,9,3,lenguaje,330,3.4,68,14,29,29,29
+2017,305001004811,col divino salvador,privado,9,9,lenguaje,354,4.6,54,2,23,61,14
+2017,305001004820,col agustiniano de san nicolas,privado,4,9,lenguaje,364,2.6,50,2,11,72,15
+2017,305001004820,col agustiniano de san nicolas,privado,4,3,matemáticas,334,2.3,58,5,23,41,32
+2017,305001004820,col agustiniano de san nicolas,privado,4,3,lenguaje,347,2.8,70,8,14,37,41
+2017,305001004820,col agustiniano de san nicolas,privado,4,5,matemáticas,309,3,59,36,38,17,10
+2017,305001004820,col agustiniano de san nicolas,privado,4,9,matemáticas,336,3.1,61,13,45,30,11
+2017,305001004820,col agustiniano de san nicolas,privado,4,5,lenguaje,329,3.4,67,11,29,38,23
+2017,305001004854,inst educ alvernia,oficial,4,9,lenguaje,355,3.7,58,2,24,59,15
+2017,305001004854,inst educ alvernia,oficial,4,5,matemáticas,291,2.2,54,40,39,17,5
+2017,305001004854,inst educ alvernia,oficial,4,3,matemáticas,310,0,55,15,35,24,26
+2017,305001004854,inst educ alvernia,oficial,4,3,lenguaje,331,0,63,12,27,34,28
+2017,305001004854,inst educ alvernia,oficial,4,5,lenguaje,309,2.2,55,8,51,34,7
+2017,305001004854,inst educ alvernia,oficial,4,9,matemáticas,311,3.6,56,17,58,24,2
+2017,305001004871,col pablo vi,contratacion,3,9,matemáticas,320,2.9,70,18,51,22,9
+2017,305001004871,col pablo vi,contratacion,3,3,matemáticas,320,1.8,58,10,30,30,30
+2017,305001004871,col pablo vi,contratacion,3,5,matemáticas,304,1.1,61,34,40,14,13
+2017,305001004871,col pablo vi,contratacion,3,3,lenguaje,323,1.7,55,9,33,38,20
+2017,305001004871,col pablo vi,contratacion,3,9,lenguaje,333,2.4,59,7,27,57,9
+2017,305001004871,col pablo vi,contratacion,3,5,lenguaje,322,1.1,62,9,39,38,13
+2017,305001004901,col san juan bosco,privado,16,5,matemáticas,363,0,68,8,29,24,39
+2017,305001004901,col san juan bosco,privado,16,5,lenguaje,386,0,60,0,14,29,57
+2017,305001004901,col san juan bosco,privado,16,9,lenguaje,389,0,62,2,5,59,34
+2017,305001004901,col san juan bosco,privado,16,3,matemáticas,335,0,65,10,20,35,35
+2017,305001004901,col san juan bosco,privado,16,3,lenguaje,355,0,67,6,18,37,39
+2017,305001004901,col san juan bosco,privado,16,9,matemáticas,360,0,77,7,34,39,20
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,9,lenguaje,393,0,50,0,5,56,39
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,5,lenguaje,362,2.9,67,0,30,32,38
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,9,matemáticas,392,0,62,2,14,58,27
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,3,matemáticas,344,2.2,66,7,21,29,43
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,5,matemáticas,340,2.7,63,16,32,30,22
+2017,305001004943,col nuestra senora del rosario de chiquinquira,privado,9,3,lenguaje,346,2.2,64,6,28,28,38
+2017,305001004986,col de la inmaculada,privado,16,5,lenguaje,388,1.1,61,1,7,41,51
+2017,305001004986,col de la inmaculada,privado,16,3,matemáticas,355,1.8,61,6,13,27,54
+2017,305001004986,col de la inmaculada,privado,16,9,matemáticas,379,0,58,0,28,48,24
+2017,305001004986,col de la inmaculada,privado,16,3,lenguaje,382,1.6,55,1,10,26,64
+2017,305001004986,col de la inmaculada,privado,16,9,lenguaje,389,0,51,0,8,60,32
+2017,305001004986,col de la inmaculada,privado,16,5,matemáticas,352,1.2,64,12,32,21,34
+2017,305001004994,col santa teresita,privado,12,9,lenguaje,354,6.4,54,0,19,69,13
+2017,305001004994,col santa teresita,privado,12,5,matemáticas,315,4.5,54,28,25,41,6
+2017,305001004994,col santa teresita,privado,12,3,matemáticas,345,3.9,53,0,15,50,35
+2017,305001004994,col santa teresita,privado,12,3,lenguaje,370,4.5,61,0,15,39,46
+2017,305001004994,col santa teresita,privado,12,9,matemáticas,329,6.4,53,13,50,31,6
+2017,305001004994,col santa teresita,privado,12,5,lenguaje,361,4.2,50,0,13,53,34
+2017,305001005036,col san jose de las vegas,privado,14,9,lenguaje,426,1,45,0,1,41,58
+2017,305001005036,col san jose de las vegas,privado,14,3,lenguaje,424,2.7,56,0,4,17,80
+2017,305001005036,col san jose de las vegas,privado,14,5,matemáticas,398,5.2,64,4,8,33,56
+2017,305001005036,col san jose de las vegas,privado,14,9,matemáticas,433,1.3,63,0,8,37,55
+2017,305001005036,col san jose de las vegas,privado,14,3,matemáticas,408,3.3,67,0,6,18,76
+2017,305001005036,col san jose de las vegas,privado,14,5,lenguaje,412,4.5,56,0,8,21,71
+2017,305001005109,col la anunciacion,privado,9,3,matemáticas,346,1.5,56,4,23,24,49
+2017,305001005109,col la anunciacion,privado,9,3,lenguaje,361,1.7,65,5,16,33,45
+2017,305001005109,col la anunciacion,privado,9,9,lenguaje,378,0,59,0,16,57,28
+2017,305001005109,col la anunciacion,privado,9,9,matemáticas,374,0,66,1,32,36,30
+2017,305001005109,col la anunciacion,privado,9,5,lenguaje,344,0,64,3,34,34,29
+2017,305001005109,col la anunciacion,privado,9,5,matemáticas,309,0,61,29,37,23,11
+2017,305001005125,col madre antonia cerini,privado,14,9,matemáticas,293,8.1,68,31,44,19,6
+2017,305001005125,col madre antonia cerini,privado,14,5,matemáticas,261,9.4,47,69,23,8,0
+2017,305001005125,col madre antonia cerini,privado,14,9,lenguaje,340,6.1,51,0,25,69,6
+2017,305001005125,col madre antonia cerini,privado,14,3,lenguaje,347,23.4,84,11,22,33,33
+2017,305001005125,col madre antonia cerini,privado,14,3,matemáticas,320,25.5,92,22,33,11,33
+2017,305001005125,col madre antonia cerini,privado,14,5,lenguaje,312,11,56,8,46,31,15
+2017,305001005150,esc normal superior antioqueña,privado,9,9,lenguaje,376,2.6,50,0,14,60,27
+2017,305001005150,esc normal superior antioqueña,privado,9,5,lenguaje,377,3.4,59,0,18,39,43
+2017,305001005150,esc normal superior antioqueña,privado,9,3,lenguaje,344,0,66,12,20,29,39
+2017,305001005150,esc normal superior antioqueña,privado,9,5,matemáticas,324,4,70,25,36,21,18
+2017,305001005150,esc normal superior antioqueña,privado,9,3,matemáticas,328,0,64,13,25,25,38
+2017,305001005150,esc normal superior antioqueña,privado,9,9,matemáticas,336,3.6,70,8,54,31,8
+2017,305001005176,col bethlemitas,privado,11,5,lenguaje,384,0,55,2,9,38,52
+2017,305001005176,col bethlemitas,privado,11,9,matemáticas,413,3.8,70,0,13,48,39
+2017,305001005176,col bethlemitas,privado,11,3,lenguaje,372,0,54,2,7,40,50
+2017,305001005176,col bethlemitas,privado,11,3,matemáticas,366,0,61,3,10,30,57
+2017,305001005176,col bethlemitas,privado,11,9,lenguaje,405,2.4,44,0,2,51,48
+2017,305001005176,col bethlemitas,privado,11,5,matemáticas,365,0,69,7,21,32,39
+2017,305001005184,sem menor de la arquidiocesis de medellin,privado,9,9,lenguaje,362,4.9,64,0,24,60,16
+2017,305001005184,sem menor de la arquidiocesis de medellin,privado,9,9,matemáticas,360,5,65,0,52,28,20
+2017,305001005214,col maria auxiliadora,privado,10,3,matemáticas,349,0,67,2,21,36,40
+2017,305001005214,col maria auxiliadora,privado,10,9,lenguaje,387,3.3,56,0,7,64,29
+2017,305001005214,col maria auxiliadora,privado,10,9,matemáticas,388,4,67,0,25,46,29
+2017,305001005214,col maria auxiliadora,privado,10,3,lenguaje,368,0,66,4,13,32,51
+2017,305001005214,col maria auxiliadora,privado,10,5,lenguaje,358,2.2,63,5,18,41,36
+2017,305001005214,col maria auxiliadora,privado,10,5,matemáticas,352,2.4,69,13,27,32,29
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,3,matemáticas,335,2.1,47,0,30,32,39
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,5,matemáticas,312,3.1,56,31,35,20,14
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,9,matemáticas,342,5.1,59,3,48,39,10
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,3,lenguaje,360,2.4,55,2,11,48,39
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,9,lenguaje,372,5.7,65,3,23,55,19
+2017,305001005257,col teresiano nstra sra de la candelaria,privado,12,5,lenguaje,342,3.8,69,12,20,39,29
+2017,305001005265,col latino,contratacion,14,3,lenguaje,382,0,87,17,0,17,67
+2017,305001005265,col latino,contratacion,14,9,lenguaje,323,5.5,58,5,40,45,10
+2017,305001005265,col latino,contratacion,14,5,lenguaje,362,15.9,63,0,30,30,40
+2017,305001005265,col latino,contratacion,14,9,matemáticas,363,5.2,54,5,35,45,15
+2017,305001005265,col latino,contratacion,14,3,matemáticas,447,0,73,0,0,0,100
+2017,305001005265,col latino,contratacion,14,5,matemáticas,438,18.4,73,0,0,30,70
+2017,305001005541,col nuestra madre de las mercedes,privado,13,9,lenguaje,372,3.6,45,0,8,79,13
+2017,305001005541,col nuestra madre de las mercedes,privado,13,9,matemáticas,378,4.2,53,0,25,50,25
+2017,305001005541,col nuestra madre de las mercedes,privado,13,5,matemáticas,363,2.8,59,7,27,29,37
+2017,305001005541,col nuestra madre de las mercedes,privado,13,3,matemáticas,364,2.9,52,3,6,29,62
+2017,305001005541,col nuestra madre de las mercedes,privado,13,5,lenguaje,402,2.8,60,0,7,32,61
+2017,305001005541,col nuestra madre de las mercedes,privado,13,3,lenguaje,392,2.9,51,0,6,18,77
+2017,305001005567,col corazonista,privado,12,5,matemáticas,382,1.8,72,7,24,20,50
+2017,305001005567,col corazonista,privado,12,9,matemáticas,412,1.4,71,1,14,46,39
+2017,305001005567,col corazonista,privado,12,9,lenguaje,404,1.1,52,0,7,49,44
+2017,305001005567,col corazonista,privado,12,3,lenguaje,383,1.7,61,1,13,24,63
+2017,305001005567,col corazonista,privado,12,5,lenguaje,388,1.9,73,2,15,31,51
+2017,305001005567,col corazonista,privado,12,3,matemáticas,376,1.9,67,3,11,26,61
+2017,305001005621,col barbara micarelli,privado,7,5,lenguaje,361,0,69,7,14,38,41
+2017,305001005621,col barbara micarelli,privado,7,9,lenguaje,372,0,60,0,14,71,14
+2017,305001005621,col barbara micarelli,privado,7,3,lenguaje,350,2.7,44,0,23,39,39
+2017,305001005621,col barbara micarelli,privado,7,3,matemáticas,337,2.2,36,0,19,45,36
+2017,305001005621,col barbara micarelli,privado,7,9,matemáticas,360,0,73,0,50,32,18
+2017,305001005621,col barbara micarelli,privado,7,5,matemáticas,334,0,64,21,36,19,24
+2017,305001005893,col el hogar de su niño,contratacion,13,9,matemáticas,314,11.6,62,0,80,10,10
+2017,305001005893,col el hogar de su niño,contratacion,13,5,lenguaje,360,10.1,74,7,21,36,36
+2017,305001005893,col el hogar de su niño,contratacion,13,3,matemáticas,,,,0,0,0,3
+2017,305001005893,col el hogar de su niño,contratacion,13,3,lenguaje,,,,0,0,0,3
+2017,305001005893,col el hogar de su niño,contratacion,13,5,matemáticas,354,10,74,14,29,21,36
+2017,305001005893,col el hogar de su niño,contratacion,13,9,lenguaje,347,8.5,45,0,40,40,20
+2017,305001005907,col emilia riquelme,privado,4,5,matemáticas,313,3.6,61,28,37,17,17
+2017,305001005907,col emilia riquelme,privado,4,9,lenguaje,365,0,66,0,30,48,22
+2017,305001005907,col emilia riquelme,privado,4,3,matemáticas,343,0,60,6,6,53,35
+2017,305001005907,col emilia riquelme,privado,4,5,lenguaje,356,3.4,58,0,35,24,41
+2017,305001005907,col emilia riquelme,privado,4,3,lenguaje,382,0,51,0,9,27,65
+2017,305001005907,col emilia riquelme,privado,4,9,matemáticas,337,0,60,0,63,30,7
+2017,305001005991,gimn los cedros,privado,14,9,matemáticas,356,0,87,10,35,30,25
+2017,305001005991,gimn los cedros,privado,14,9,lenguaje,363,0,59,0,20,60,20
+2017,305001005991,gimn los cedros,privado,14,3,matemáticas,,,,0,0,0,4
+2017,305001005991,gimn los cedros,privado,14,5,lenguaje,413,0,62,0,10,20,70
+2017,305001005991,gimn los cedros,privado,14,5,matemáticas,395,0,76,0,10,60,30
+2017,305001005991,gimn los cedros,privado,14,3,lenguaje,,,,0,0,1,3
+2017,305001006440,esc popular eucaristica zoraida trujillo,privado,6,3,lenguaje,315,6.5,57,18,25,32,25
+2017,305001006440,esc popular eucaristica zoraida trujillo,privado,6,3,matemáticas,304,4.8,42,11,43,36,11
+2017,305001006440,esc popular eucaristica zoraida trujillo,privado,6,5,lenguaje,335,11.5,58,8,31,46,15
+2017,305001006440,esc popular eucaristica zoraida trujillo,privado,6,5,matemáticas,325,8.8,44,8,54,31,8
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,9,matemáticas,294,0,79,31,63,0,6
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,5,matemáticas,263,0,51,57,38,5,0
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,9,lenguaje,314,0,51,0,38,63,0
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,3,lenguaje,320,5.5,41,7,29,50,14
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,5,lenguaje,298,0,71,24,43,19,14
+2017,305001006458,esc popular eucaristica camilo c. restrepo,privado,15,3,matemáticas,303,7.3,54,14,43,29,14
+2017,305001006784,col de la compania de maria,privado,14,5,lenguaje,398,2.4,68,2,9,26,64
+2017,305001006784,col de la compania de maria,privado,14,9,matemáticas,452,5.3,61,0,3,27,70
+2017,305001006784,col de la compania de maria,privado,14,9,lenguaje,417,4.4,51,0,2,48,50
+2017,305001006784,col de la compania de maria,privado,14,3,lenguaje,411,2.3,59,1,4,13,81
+2017,305001006784,col de la compania de maria,privado,14,5,matemáticas,388,2.2,63,4,18,22,56
+2017,305001006784,col de la compania de maria,privado,14,3,matemáticas,404,2.7,68,0,7,15,78
+2017,305001006831,inst musical diego echavarria,privado,14,9,lenguaje,386,0,55,0,7,53,40
+2017,305001006831,inst musical diego echavarria,privado,14,3,lenguaje,391,0,63,8,0,17,75
+2017,305001006831,inst musical diego echavarria,privado,14,9,matemáticas,383,0,70,0,27,47,27
+2017,305001006831,inst musical diego echavarria,privado,14,5,matemáticas,344,4.9,38,0,36,57,7
+2017,305001006831,inst musical diego echavarria,privado,14,5,lenguaje,393,6.7,51,0,7,29,64
+2017,305001006831,inst musical diego echavarria,privado,14,3,matemáticas,356,0,49,0,8,42,50
+2017,305001007306,col san francisco javier,privado,16,3,lenguaje,366,0,59,3,20,25,53
+2017,305001007306,col san francisco javier,privado,16,5,matemáticas,335,4.3,58,8,46,19,27
+2017,305001007306,col san francisco javier,privado,16,5,lenguaje,366,3.6,49,0,12,46,42
+2017,305001007306,col san francisco javier,privado,16,9,matemáticas,353,3.9,63,3,39,48,10
+2017,305001007306,col san francisco javier,privado,16,3,matemáticas,328,0,62,10,30,28,33
+2017,305001007306,col san francisco javier,privado,16,9,lenguaje,359,2.8,44,0,10,77,13
+2017,305001007586,col campestre la colina,privado,14,9,lenguaje,401,6.1,49,0,9,46,46
+2017,305001007586,col campestre la colina,privado,14,9,matemáticas,450,6.8,55,0,0,36,64
+2017,305001007586,col campestre la colina,privado,14,5,lenguaje,382,3.7,66,2,16,31,51
+2017,305001007586,col campestre la colina,privado,14,5,matemáticas,397,4.9,88,8,18,18,55
+2017,305001007586,col campestre la colina,privado,14,3,matemáticas,372,6.6,65,4,8,31,58
+2017,305001007586,col campestre la colina,privado,14,3,lenguaje,394,6.6,64,0,8,27,65
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,9,lenguaje,372,1.6,55,0,18,59,23
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,5,matemáticas,333,0,60,19,35,26,21
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,5,lenguaje,367,0,61,3,19,39,39
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,3,lenguaje,352,3.4,71,10,18,31,41
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,3,matemáticas,317,2.9,60,15,27,32,26
+2017,305001007594,inst educ santa juana de lestonac,oficial,6,9,matemáticas,326,1.5,52,6,59,31,4
+2017,305001007969,col nuestra senora de la providencia,privado,14,3,matemáticas,341,0,105,13,38,13,38
+2017,305001007969,col nuestra senora de la providencia,privado,14,9,matemáticas,323,0,73,9,64,18,9
+2017,305001007969,col nuestra senora de la providencia,privado,14,3,lenguaje,359,0,63,0,25,38,38
+2017,305001007969,col nuestra senora de la providencia,privado,14,5,matemáticas,327,16.3,75,13,63,13,13
+2017,305001007969,col nuestra senora de la providencia,privado,14,5,lenguaje,361,7,32,0,13,75,13
+2017,305001007969,col nuestra senora de la providencia,privado,14,9,lenguaje,312,0,71,18,46,27,9
+2017,305001009848,i.e. guadalupano la salle,privado,9,3,lenguaje,329,9.3,69,22,11,30,37
+2017,305001009848,i.e. guadalupano la salle,privado,9,9,lenguaje,360,0,53,3,17,66,14
+2017,305001009848,i.e. guadalupano la salle,privado,9,3,matemáticas,326,8.3,61,15,15,48,22
+2017,305001009848,i.e. guadalupano la salle,privado,9,9,matemáticas,344,0,68,7,52,35,7
+2017,305001009848,i.e. guadalupano la salle,privado,9,5,matemáticas,271,0,47,67,22,7,4
+2017,305001009848,i.e. guadalupano la salle,privado,9,5,lenguaje,296,0,40,7,59,33,0
+2017,305001010358,col adventista simon bolivar,privado,4,5,matemáticas,331,0,56,21,25,38,17
+2017,305001010358,col adventista simon bolivar,privado,4,9,lenguaje,325,6.1,65,4,43,46,7
+2017,305001010358,col adventista simon bolivar,privado,4,9,matemáticas,329,5.3,57,11,50,36,4
+2017,305001010358,col adventista simon bolivar,privado,4,5,lenguaje,325,0,50,4,38,46,13
+2017,305001010358,col adventista simon bolivar,privado,4,3,matemáticas,356,0,64,4,18,29,50
+2017,305001010358,col adventista simon bolivar,privado,4,3,lenguaje,362,0,51,4,7,43,46
+2017,305001010781,col montessori,privado,14,9,lenguaje,436,0,39,0,0,31,69
+2017,305001010781,col montessori,privado,14,9,matemáticas,496,0,50,0,0,6,94
+2017,305001010781,col montessori,privado,14,3,matemáticas,413,0,70,0,7,17,76
+2017,305001010781,col montessori,privado,14,5,lenguaje,425,1.5,59,0,1,25,74
+2017,305001010781,col montessori,privado,14,3,lenguaje,414,0,57,0,6,14,80
+2017,305001010781,col montessori,privado,14,5,matemáticas,419,1.6,61,1,8,16,75
+2017,305001011516,colegio santa bertilla boscardin,privado,7,9,lenguaje,363,1.6,56,0,19,58,23
+2017,305001011516,colegio santa bertilla boscardin,privado,7,5,matemáticas,337,0,63,16,38,22,24
+2017,305001011516,colegio santa bertilla boscardin,privado,7,5,lenguaje,351,0,67,5,29,27,40
+2017,305001011516,colegio santa bertilla boscardin,privado,7,3,lenguaje,358,2.4,71,9,12,36,43
+2017,305001011516,colegio santa bertilla boscardin,privado,7,3,matemáticas,351,2.2,64,5,13,38,43
+2017,305001011516,colegio santa bertilla boscardin,privado,7,9,matemáticas,355,2,70,8,41,33,19
+2017,305001011583,col san lucas,privado,14,9,matemáticas,324,0,84,11,61,18,11
+2017,305001011583,col san lucas,privado,14,9,lenguaje,344,0,60,4,25,57,14
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,5,matemáticas,303,1.8,69,40,33,15,13
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,9,lenguaje,356,3.6,63,4,24,54,18
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,9,matemáticas,323,4.4,79,18,46,28,8
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,3,lenguaje,344,1.5,68,9,26,26,40
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,5,lenguaje,323,2,73,12,42,27,19
+2017,305001011761,inst ferrini - sede robledo,contratacion,7,3,matemáticas,326,1.3,60,10,28,34,29
+2017,305001011770,inst vicarial jesus maestro,privado,3,9,matemáticas,346,0,67,0,50,25,25
+2017,305001011770,inst vicarial jesus maestro,privado,3,3,matemáticas,314,5,42,6,38,38,19
+2017,305001011770,inst vicarial jesus maestro,privado,3,3,lenguaje,321,6.1,51,0,50,38,13
+2017,305001011770,inst vicarial jesus maestro,privado,3,5,lenguaje,312,0,67,15,46,21,18
+2017,305001011770,inst vicarial jesus maestro,privado,3,9,lenguaje,336,0,53,0,44,38,19
+2017,305001011770,inst vicarial jesus maestro,privado,3,5,matemáticas,283,0,60,58,27,9,6
+2017,305001011877,esc jose gregorio hernandez,privado,5,3,matemáticas,301,5.7,58,27,30,21,21
+2017,305001011877,esc jose gregorio hernandez,privado,5,3,lenguaje,343,5.6,57,9,15,36,39
+2017,305001011877,esc jose gregorio hernandez,privado,5,5,matemáticas,277,4.1,59,57,28,11,4
+2017,305001011877,esc jose gregorio hernandez,privado,5,5,lenguaje,316,4.8,69,13,45,19,23
+2017,305001012156,centro educativo mi dulce hogar,contratacion,3,5,matemáticas,290,0,52,42,42,10,7
+2017,305001012156,centro educativo mi dulce hogar,contratacion,3,3,lenguaje,337,0,56,3,31,39,28
+2017,305001012156,centro educativo mi dulce hogar,contratacion,3,3,matemáticas,317,0,46,11,25,47,17
+2017,305001012156,centro educativo mi dulce hogar,contratacion,3,5,lenguaje,268,0,47,24,63,10,2
+2017,305001012181,col san juan eudes,contratacion,7,3,matemáticas,286,2.2,56,28,34,23,15
+2017,305001012181,col san juan eudes,contratacion,7,9,matemáticas,302,1.9,59,17,59,20,4
+2017,305001012181,col san juan eudes,contratacion,7,5,lenguaje,309,3.1,71,19,37,24,20
+2017,305001012181,col san juan eudes,contratacion,7,3,lenguaje,315,2.3,58,17,36,29,18
+2017,305001012181,col san juan eudes,contratacion,7,5,matemáticas,290,2.7,63,50,23,17,10
+2017,305001012181,col san juan eudes,contratacion,7,9,lenguaje,316,2.1,63,11,40,44,6
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,3,lenguaje,331,1.1,62,13,17,42,28
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,9,lenguaje,344,2.8,58,2,27,59,13
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,5,matemáticas,327,0,64,22,37,22,20
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,9,matemáticas,356,3.4,70,5,41,38,16
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,3,matemáticas,313,1,57,14,26,43,17
+2017,305001012857,colegio vid obra de la congregacion mariana,privado,7,5,lenguaje,347,0,62,6,25,39,30
+2017,305001013195,col manzanares,privado,14,5,lenguaje,324,28.4,56,14,14,57,14
+2017,305001013195,col manzanares,privado,14,3,lenguaje,349,22,67,0,44,22,33
+2017,305001013195,col manzanares,privado,14,5,matemáticas,362,36.1,72,0,43,29,29
+2017,305001013195,col manzanares,privado,14,3,matemáticas,366,31.9,98,0,44,11,44
+2017,305001013195,col manzanares,privado,14,9,lenguaje,325,14.5,75,5,55,30,10
+2017,305001013195,col manzanares,privado,14,9,matemáticas,335,13.2,69,5,55,30,10
+2017,305001013691,col alfred binet,privado,9,3,matemáticas,345,7.8,73,4,21,42,33
+2017,305001013691,col alfred binet,privado,9,3,lenguaje,331,8.2,77,13,33,25,29
+2017,305001013691,col alfred binet,privado,9,5,lenguaje,335,0,59,0,45,41,14
+2017,305001013691,col alfred binet,privado,9,9,matemáticas,377,0,61,0,40,40,20
+2017,305001013691,col alfred binet,privado,9,9,lenguaje,387,0,51,0,10,40,50
+2017,305001013691,col alfred binet,privado,9,5,matemáticas,305,0,57,35,38,17,10
+2017,305001013730,col pestalozzi,privado,16,9,lenguaje,339,0,53,0,27,73,0
+2017,305001013730,col pestalozzi,privado,16,3,lenguaje,373,5.4,36,0,0,40,60
+2017,305001013730,col pestalozzi,privado,16,9,matemáticas,329,0,93,27,36,18,18
+2017,305001013730,col pestalozzi,privado,16,3,matemáticas,384,9.3,63,0,10,20,70
+2017,305001013730,col pestalozzi,privado,16,5,matemáticas,304,0,57,30,30,30,10
+2017,305001013730,col pestalozzi,privado,16,5,lenguaje,313,0,46,10,40,50,0
+2017,305001013829,inst parra paris,privado,12,9,matemáticas,294,0,49,20,60,20,0
+2017,305001013829,inst parra paris,privado,12,9,lenguaje,323,0,37,0,20,80,0
+2017,305001014248,col parroquial san judas tadeo,privado,5,5,matemáticas,319,4.5,57,24,38,24,15
+2017,305001014248,col parroquial san judas tadeo,privado,5,3,lenguaje,323,0,55,14,30,38,19
+2017,305001014248,col parroquial san judas tadeo,privado,5,9,lenguaje,359,6.2,60,6,17,56,22
+2017,305001014248,col parroquial san judas tadeo,privado,5,9,matemáticas,369,6.4,62,0,33,56,11
+2017,305001014248,col parroquial san judas tadeo,privado,5,5,lenguaje,320,4.5,57,6,50,27,18
+2017,305001014248,col parroquial san judas tadeo,privado,5,3,matemáticas,311,0,55,11,35,30,24
+2017,305001014256,col bautista de castilla,privado,5,3,matemáticas,312,12.7,57,9,36,27,27
+2017,305001014256,col bautista de castilla,privado,5,9,matemáticas,283,0,43,13,75,13,0
+2017,305001014256,col bautista de castilla,privado,5,5,matemáticas,301,0,55,22,33,44,0
+2017,305001014256,col bautista de castilla,privado,5,3,lenguaje,306,14.4,65,18,36,36,9
+2017,305001014256,col bautista de castilla,privado,5,9,lenguaje,324,0,54,0,63,38,0
+2017,305001014256,col bautista de castilla,privado,5,5,lenguaje,325,0,41,0,33,56,11
+2017,305001014264,col hispano,privado,11,9,matemáticas,259,17.8,60,40,50,10,0
+2017,305001014264,col hispano,privado,11,9,lenguaje,311,23.2,78,10,40,40,10
+2017,305001015287,inst educ la candelaria,oficial,1,3,lenguaje,294,1.8,51,21,42,28,9
+2017,305001015287,inst educ la candelaria,oficial,1,5,matemáticas,277,2.3,56,57,30,8,5
+2017,305001015287,inst educ la candelaria,oficial,1,9,lenguaje,332,0,57,7,31,55,7
+2017,305001015287,inst educ la candelaria,oficial,1,5,lenguaje,293,2.4,59,17,54,21,8
+2017,305001015287,inst educ la candelaria,oficial,1,9,matemáticas,305,0,60,27,49,22,3
+2017,305001015287,inst educ la candelaria,oficial,1,3,matemáticas,282,1.7,49,27,46,21,7
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,3,lenguaje,305,5.2,53,14,44,33,9
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,9,matemáticas,308,12.8,72,30,33,33,3
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,5,lenguaje,291,7.3,62,19,54,22,5
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,9,lenguaje,301,9.4,54,15,46,36,3
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,3,matemáticas,295,4.7,49,16,45,30,9
+2017,305001015686,inst educ maestro arenas betancur,oficial,5,5,matemáticas,292,6.6,57,42,41,10,7
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,9,lenguaje,359,2.8,53,2,12,75,12
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,5,matemáticas,342,3.2,66,20,23,30,27
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,5,lenguaje,354,2.9,60,4,25,39,32
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,9,matemáticas,345,3,57,8,43,39,10
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,3,lenguaje,327,3.6,59,13,25,36,26
+2017,305001015716,col parroquial ntra señora del buen consejo,privado,5,3,matemáticas,294,4.6,74,21,34,26,19
+2017,305001015775,cent educ integ el pacto,privado,6,3,lenguaje,365,7,45,0,0,58,42
+2017,305001015775,cent educ integ el pacto,privado,6,3,matemáticas,353,8,51,0,8,58,33
+2017,305001015775,cent educ integ el pacto,privado,6,5,matemáticas,334,0,76,33,8,17,42
+2017,305001015775,cent educ integ el pacto,privado,6,5,lenguaje,352,0,72,17,8,50,25
+2017,305001016003,col madrid campestre,privado,7,3,lenguaje,368,9.5,56,0,9,55,36
+2017,305001016003,col madrid campestre,privado,7,3,matemáticas,349,11.2,65,0,27,27,46
+2017,305001016003,col madrid campestre,privado,7,9,lenguaje,351,10.6,61,7,20,60,13
+2017,305001016003,col madrid campestre,privado,7,5,lenguaje,344,16.4,91,12,35,18,35
+2017,305001016003,col madrid campestre,privado,7,9,matemáticas,344,14.9,86,13,47,20,20
+2017,305001016003,col madrid campestre,privado,7,5,matemáticas,336,13.5,76,24,18,29,29
+2017,305001016089,cent educ autonomo,privado,5,3,lenguaje,346,5.9,54,3,15,46,36
+2017,305001016089,cent educ autonomo,privado,5,5,matemáticas,305,4.7,62,29,29,29,13
+2017,305001016089,cent educ autonomo,privado,5,9,lenguaje,364,4.4,55,0,17,67,17
+2017,305001016089,cent educ autonomo,privado,5,9,matemáticas,333,5.4,68,4,58,25,13
+2017,305001016089,cent educ autonomo,privado,5,5,lenguaje,340,3.8,50,4,21,58,17
+2017,305001016089,cent educ autonomo,privado,5,3,matemáticas,342,6.4,59,0,33,24,42
+2017,305001016101,colegio euskadi,privado,14,9,matemáticas,312,16,56,11,56,33,0
+2017,305001016101,colegio euskadi,privado,14,5,matemáticas,345,10.8,69,18,18,46,18
+2017,305001016101,colegio euskadi,privado,14,3,matemáticas,365,20.1,66,0,17,33,50
+2017,305001016101,colegio euskadi,privado,14,3,lenguaje,290,22.9,76,33,50,0,17
+2017,305001016101,colegio euskadi,privado,14,5,lenguaje,350,11.1,71,9,27,27,36
+2017,305001016101,colegio euskadi,privado,14,9,lenguaje,323,13.6,48,0,56,44,0
+2017,305001016127,esc popular eucaristica arzobispo tulio botero salazar,privado,9,5,matemáticas,298,2.1,79,42,25,17,15
+2017,305001016127,esc popular eucaristica arzobispo tulio botero salazar,privado,9,5,lenguaje,332,1.4,65,10,25,42,22
+2017,305001016127,esc popular eucaristica arzobispo tulio botero salazar,privado,9,3,lenguaje,314,1.9,51,9,36,39,16
+2017,305001016127,esc popular eucaristica arzobispo tulio botero salazar,privado,9,3,matemáticas,315,2.1,59,12,33,36,19
+2017,305001016275,col guillermo taborda restrepo,privado,7,5,lenguaje,365,0,69,6,18,35,41
+2017,305001016275,col guillermo taborda restrepo,privado,7,5,matemáticas,330,0,63,18,35,29,18
+2017,305001016275,col guillermo taborda restrepo,privado,7,3,matemáticas,317,0,63,8,46,15,31
+2017,305001016275,col guillermo taborda restrepo,privado,7,3,lenguaje,342,0,40,0,23,54,23
+2017,305001016275,col guillermo taborda restrepo,privado,7,9,matemáticas,320,7.9,66,31,25,38,6
+2017,305001016275,col guillermo taborda restrepo,privado,7,9,lenguaje,340,5.7,48,0,31,63,6
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,5,lenguaje,298,2.2,57,16,50,27,7
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,3,matemáticas,275,2,54,32,44,17,7
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,9,matemáticas,294,2.5,55,27,59,13,1
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,3,lenguaje,295,2,52,22,41,25,11
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,9,lenguaje,306,3,67,13,39,44,5
+2017,305001016542,inst educ el triunfo santa teresa,oficial,6,5,matemáticas,281,2.1,55,48,37,9,6
+2017,305001016798,cent educ los nogales,privado,7,3,lenguaje,359,0,37,0,0,71,29
+2017,305001016798,cent educ los nogales,privado,7,5,matemáticas,,,,1,0,0,3
+2017,305001016798,cent educ los nogales,privado,7,3,matemáticas,393,0,51,0,0,29,71
+2017,305001016798,cent educ los nogales,privado,7,5,lenguaje,,,,1,1,0,2
+2017,305001016861,institucion educativa pedagogico integral,contratacion,16,3,lenguaje,,,,0,0,1,0
+2017,305001016861,institucion educativa pedagogico integral,contratacion,16,9,lenguaje,279,21.9,92,50,0,33,17
+2017,305001016861,institucion educativa pedagogico integral,contratacion,16,3,matemáticas,,,,0,0,0,1
+2017,305001016861,institucion educativa pedagogico integral,contratacion,16,9,matemáticas,291,11.5,49,33,50,17,0
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,5,matemáticas,292,0,44,35,52,8,4
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,3,lenguaje,308,1.5,50,9,41,36,14
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,3,matemáticas,301,1.2,41,9,50,29,12
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,9,lenguaje,333,0,62,11,21,63,5
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,9,matemáticas,326,0,43,5,74,16,5
+2017,305001016984,esc popular eucaristica julio c. hernandez,contratacion,1,5,lenguaje,303,0,45,8,56,29,6
+2017,305001017115,cent educ casa mama margarita,contratacion,10,5,lenguaje,,,,0,0,1,0
+2017,305001017115,cent educ casa mama margarita,contratacion,10,3,lenguaje,,,,0,0,1,4
+2017,305001017115,cent educ casa mama margarita,contratacion,10,5,matemáticas,,,,0,0,0,1
+2017,305001017115,cent educ casa mama margarita,contratacion,10,3,matemáticas,,,,0,1,1,3
+2017,305001017298,col arenys del mar,contratacion,13,9,lenguaje,329,0,42,0,44,52,4
+2017,305001017298,col arenys del mar,contratacion,13,9,matemáticas,317,0,46,4,64,32,0
+2017,305001017298,col arenys del mar,contratacion,13,5,lenguaje,305,4.3,59,8,57,22,14
+2017,305001017298,col arenys del mar,contratacion,13,3,matemáticas,293,5.7,79,38,30,22,11
+2017,305001017298,col arenys del mar,contratacion,13,5,matemáticas,304,4.7,64,35,41,14,11
+2017,305001017298,col arenys del mar,contratacion,13,3,lenguaje,297,3.8,52,11,62,14,14
+2017,305001017590,col padre manyanet,privado,16,3,lenguaje,382,2.9,71,5,11,24,60
+2017,305001017590,col padre manyanet,privado,16,5,lenguaje,389,1.9,58,0,12,32,56
+2017,305001017590,col padre manyanet,privado,16,3,matemáticas,362,2.7,66,3,14,33,50
+2017,305001017590,col padre manyanet,privado,16,9,lenguaje,384,2.7,50,1,7,63,29
+2017,305001017590,col padre manyanet,privado,16,9,matemáticas,395,3.6,67,1,17,51,31
+2017,305001017590,col padre manyanet,privado,16,5,matemáticas,347,2.4,73,19,22,29,30
+2017,305001017719,col graciela vásquez cano,privado,7,9,lenguaje,362,0,57,0,11,68,21
+2017,305001017719,col graciela vásquez cano,privado,7,9,matemáticas,396,0,58,0,16,53,32
+2017,305001017719,col graciela vásquez cano,privado,7,5,matemáticas,309,5.6,61,31,24,35,10
+2017,305001017719,col graciela vásquez cano,privado,7,3,lenguaje,342,6.2,58,4,32,28,36
+2017,305001017719,col graciela vásquez cano,privado,7,3,matemáticas,321,5.4,50,12,32,28,28
+2017,305001017719,col graciela vásquez cano,privado,7,5,lenguaje,333,4.6,50,7,21,66,7
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,3,lenguaje,305,6.9,58,12,43,28,17
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,9,matemáticas,271,4.6,55,39,50,11,0
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,5,matemáticas,252,7.4,49,73,26,2,0
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,3,matemáticas,285,6.3,53,20,47,22,12
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,5,lenguaje,288,8,53,16,57,24,4
+2017,305001018022,inst educ fe y alegria luis amigo,oficial,4,9,lenguaje,306,4.8,57,13,44,43,0
+2017,305001018286,col san gabriel de la dolorosa,privado,15,3,lenguaje,356,0,67,4,29,21,46
+2017,305001018286,col san gabriel de la dolorosa,privado,15,9,matemáticas,351,0,77,13,33,33,20
+2017,305001018286,col san gabriel de la dolorosa,privado,15,3,matemáticas,332,0,74,8,17,46,29
+2017,305001018286,col san gabriel de la dolorosa,privado,15,5,lenguaje,370,0,52,0,7,67,27
+2017,305001018286,col san gabriel de la dolorosa,privado,15,5,matemáticas,340,0,43,7,33,40,20
+2017,305001018286,col san gabriel de la dolorosa,privado,15,9,lenguaje,334,0,49,0,27,67,7
+2017,305001018421,cent educ jesus amigo,contratacion,6,5,matemáticas,296,1.8,56,39,37,16,8
+2017,305001018421,cent educ jesus amigo,contratacion,6,5,lenguaje,317,2.1,64,14,34,38,14
+2017,305001018421,cent educ jesus amigo,contratacion,6,9,lenguaje,334,0,60,5,29,52,14
+2017,305001018421,cent educ jesus amigo,contratacion,6,9,matemáticas,289,0,55,29,48,24,0
+2017,305001018421,cent educ jesus amigo,contratacion,6,3,lenguaje,318,3.4,60,15,30,35,20
+2017,305001018421,cent educ jesus amigo,contratacion,6,3,matemáticas,294,3.9,68,20,39,21,20
+2017,305001018839,inst educ madre laura,oficial,9,3,matemáticas,323,1.9,52,9,27,39,25
+2017,305001018839,inst educ madre laura,oficial,9,3,lenguaje,335,2,54,5,26,44,26
+2017,305001018839,inst educ madre laura,oficial,9,5,lenguaje,325,2.1,70,9,40,26,25
+2017,305001018839,inst educ madre laura,oficial,9,9,matemáticas,315,2,59,10,66,18,6
+2017,305001018839,inst educ madre laura,oficial,9,5,matemáticas,300,1.9,63,45,29,11,15
+2017,305001018839,inst educ madre laura,oficial,9,9,lenguaje,334,1.9,55,1,33,60,6
+2017,305001018898,cent educ senderos infes,privado,7,5,matemáticas,,,,0,0,1,2
+2017,305001018898,cent educ senderos infes,privado,7,5,lenguaje,,,,0,0,2,1
+2017,305001018898,cent educ senderos infes,privado,7,3,matemáticas,377,0,64,0,17,8,75
+2017,305001018898,cent educ senderos infes,privado,7,3,lenguaje,362,0,60,0,25,33,42
+2017,305001019169,inst pedagogico alfa,privado,5,5,matemáticas,346,0,61,17,29,25,29
+2017,305001019169,inst pedagogico alfa,privado,5,3,lenguaje,345,0,50,7,18,32,43
+2017,305001019169,inst pedagogico alfa,privado,5,5,lenguaje,310,0,57,8,50,33,8
+2017,305001019169,inst pedagogico alfa,privado,5,3,matemáticas,357,0,57,0,18,36,46
+2017,305001019509,esc hermana alcira castro osorio,contratacion,1,3,lenguaje,307,1.5,32,2,50,43,5
+2017,305001019509,esc hermana alcira castro osorio,contratacion,1,5,lenguaje,316,1.9,32,0,60,37,3
+2017,305001019509,esc hermana alcira castro osorio,contratacion,1,5,matemáticas,319,2,34,6,67,24,3
+2017,305001019509,esc hermana alcira castro osorio,contratacion,1,3,matemáticas,318,1.6,34,2,28,57,14
+2017,305001019541,col nino jesus,contratacion,3,5,lenguaje,310,2.1,54,12,46,35,8
+2017,305001019541,col nino jesus,contratacion,3,3,matemáticas,332,2.4,62,3,32,35,30
+2017,305001019541,col nino jesus,contratacion,3,5,matemáticas,308,2.3,60,32,39,20,9
+2017,305001019541,col nino jesus,contratacion,3,9,lenguaje,311,4,50,7,48,41,3
+2017,305001019541,col nino jesus,contratacion,3,9,matemáticas,298,3.6,46,16,72,10,2
+2017,305001019541,col nino jesus,contratacion,3,3,lenguaje,327,1.9,49,6,27,49,18
+2017,305001019614,cent educ el principito feliz,privado,10,5,lenguaje,334,0,69,8,42,25,25
+2017,305001019614,cent educ el principito feliz,privado,10,5,matemáticas,339,0,76,25,33,8,33
+2017,305001019614,cent educ el principito feliz,privado,10,3,lenguaje,361,0,71,7,13,40,40
+2017,305001019614,cent educ el principito feliz,privado,10,3,matemáticas,395,0,55,0,0,13,87
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,3,lenguaje,296,1.8,45,20,42,30,9
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,9,matemáticas,298,5.8,64,23,57,18,3
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,5,matemáticas,284,1.4,62,51,31,10,7
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,3,matemáticas,281,1.9,48,28,42,24,7
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,5,lenguaje,296,1.2,55,15,52,26,6
+2017,305001019690,inst educ arzobispo tulio botero salazar,oficial,9,9,lenguaje,311,5.2,57,10,46,39,5
+2017,305001019819,col sapiencia,privado,7,3,matemáticas,339,2,43,2,19,36,43
+2017,305001019819,col sapiencia,privado,7,3,lenguaje,351,2.2,49,2,12,45,41
+2017,305001019819,col sapiencia,privado,7,5,matemáticas,376,0,63,5,23,18,55
+2017,305001019819,col sapiencia,privado,7,5,lenguaje,374,0,74,5,14,41,41
+2017,305001019827,col panamericano colombo sueco,privado,7,9,matemáticas,356,0,68,6,31,49,14
+2017,305001019827,col panamericano colombo sueco,privado,7,3,matemáticas,327,2.1,61,14,19,35,32
+2017,305001019827,col panamericano colombo sueco,privado,7,5,lenguaje,366,0,59,1,24,36,40
+2017,305001019827,col panamericano colombo sueco,privado,7,9,lenguaje,370,0,65,2,14,59,26
+2017,305001019827,col panamericano colombo sueco,privado,7,5,matemáticas,345,0,75,16,25,33,26
+2017,305001019827,col panamericano colombo sueco,privado,7,3,lenguaje,357,1.8,53,5,15,33,47
+2017,305001019975,cent educ integ bucarelly,privado,60,5,matemáticas,352,4.6,78,15,33,15,36
+2017,305001019975,cent educ integ bucarelly,privado,60,9,matemáticas,320,0,83,20,47,27,7
+2017,305001019975,cent educ integ bucarelly,privado,60,3,matemáticas,365,8.1,58,0,12,31,58
+2017,305001019975,cent educ integ bucarelly,privado,60,9,lenguaje,338,0,57,3,33,53,10
+2017,305001019975,cent educ integ bucarelly,privado,60,3,lenguaje,363,7.5,53,0,19,42,39
+2017,305001019975,cent educ integ bucarelly,privado,60,5,lenguaje,338,4.2,71,9,33,27,30
+2017,305001020094,col emaus,contratacion,1,5,lenguaje,327,2.1,69,8,41,31,20
+2017,305001020094,col emaus,contratacion,1,3,matemáticas,305,1.8,50,10,40,35,16
+2017,305001020094,col emaus,contratacion,1,9,lenguaje,363,2.5,62,2,19,60,18
+2017,305001020094,col emaus,contratacion,1,5,matemáticas,303,2.1,68,41,30,17,13
+2017,305001020094,col emaus,contratacion,1,9,matemáticas,320,2.9,71,19,55,18,7
+2017,305001020094,col emaus,contratacion,1,3,lenguaje,318,2.1,60,15,36,29,21
+2017,305001020281,col musical las cometas,privado,7,5,lenguaje,,,,1,2,1,0
+2017,305001020281,col musical las cometas,privado,7,5,matemáticas,,,,1,2,1,0
+2017,305001020281,col musical las cometas,privado,7,3,matemáticas,297,0,30,0,57,43,0
+2017,305001020281,col musical las cometas,privado,7,3,lenguaje,320,0,42,14,29,57,0
+2017,305001020337,col caminos abiertos,privado,13,5,matemáticas,307,0,85,50,13,25,13
+2017,305001020337,col caminos abiertos,privado,13,5,lenguaje,351,0,90,13,25,25,38
+2017,305001020337,col caminos abiertos,privado,13,3,lenguaje,295,19.6,57,20,40,30,10
+2017,305001020337,col caminos abiertos,privado,13,3,matemáticas,330,28.5,83,20,20,30,30
+2017,305001021228,cent educ los pioneros,privado,16,5,matemáticas,339,0,90,29,43,0,29
+2017,305001021228,cent educ los pioneros,privado,16,5,lenguaje,300,0,72,14,43,29,14
+2017,305001021228,cent educ los pioneros,privado,16,3,lenguaje,,,,1,2,2,0
+2017,305001021228,cent educ los pioneros,privado,16,3,matemáticas,,,,0,3,1,1
+2017,305001021244,col antares,privado,10,5,lenguaje,306,6.8,59,13,53,27,7
+2017,305001021244,col antares,privado,10,3,lenguaje,367,10.4,80,14,14,7,64
+2017,305001021244,col antares,privado,10,9,lenguaje,341,5.8,34,0,20,80,0
+2017,305001021244,col antares,privado,10,3,matemáticas,366,9.3,71,7,7,50,36
+2017,305001021244,col antares,privado,10,9,matemáticas,314,12.1,72,13,60,20,7
+2017,305001021244,col antares,privado,10,5,matemáticas,272,4.3,37,60,33,7,0
+2017,305001021261,col gente unida jovenes por la paz - moravia,contratacion,4,3,lenguaje,304,6.4,54,15,40,35,10
+2017,305001021261,col gente unida jovenes por la paz - moravia,contratacion,4,5,matemáticas,305,7.1,59,35,32,24,9
+2017,305001021261,col gente unida jovenes por la paz - moravia,contratacion,4,3,matemáticas,307,7.1,60,20,33,28,20
+2017,305001021261,col gente unida jovenes por la paz - moravia,contratacion,4,5,lenguaje,337,5.7,48,0,32,53,15
+2017,305001021392,cent educ san antonio de padua,privado,6,3,lenguaje,339,0,67,6,13,44,38
+2017,305001021392,cent educ san antonio de padua,privado,6,3,matemáticas,321,0,61,6,25,31,38
+2017,305001021392,cent educ san antonio de padua,privado,6,5,lenguaje,297,0,50,13,53,33,0
+2017,305001021392,cent educ san antonio de padua,privado,6,5,matemáticas,271,0,30,67,33,0,0
+2017,305001021520,cent educ la campiña,privado,7,5,lenguaje,356,0,62,9,9,46,36
+2017,305001021520,cent educ la campiña,privado,7,3,lenguaje,,,,0,0,0,4
+2017,305001021520,cent educ la campiña,privado,7,3,matemáticas,,,,0,0,0,4
+2017,305001021520,cent educ la campiña,privado,7,5,matemáticas,350,0,63,18,9,36,36
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,3,matemáticas,270,3.1,50,41,34,21,5
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,5,matemáticas,265,2.3,57,53,41,4,2
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,9,lenguaje,328,3.6,58,0,39,55,7
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,9,matemáticas,286,2.9,46,19,71,10,0
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,5,lenguaje,277,2.3,58,29,45,27,0
+2017,305001021821,col gente unida jovenes por la paz-santo domingo,contratacion,1,3,lenguaje,286,3.2,52,23,50,21,7
+2017,305001021881,col milit general pedro nel ospina,privado,10,3,lenguaje,321,3.2,49,10,35,35,21
+2017,305001021881,col milit general pedro nel ospina,privado,10,5,matemáticas,325,0,68,26,21,37,16
+2017,305001021881,col milit general pedro nel ospina,privado,10,9,matemáticas,301,6.6,57,21,54,25,0
+2017,305001021881,col milit general pedro nel ospina,privado,10,3,matemáticas,326,4.3,65,7,28,48,17
+2017,305001021881,col milit general pedro nel ospina,privado,10,5,lenguaje,315,0,66,13,42,24,21
+2017,305001021881,col milit general pedro nel ospina,privado,10,9,lenguaje,308,6.7,59,11,50,36,4
+2017,305001022089,cent integl momentos felices,privado,4,5,matemáticas,444,18.3,66,0,0,17,83
+2017,305001022089,cent integl momentos felices,privado,4,5,lenguaje,369,12.8,46,0,17,17,67
+2017,305001022089,cent integl momentos felices,privado,4,3,lenguaje,,,,0,0,1,2
+2017,305001022089,cent integl momentos felices,privado,4,3,matemáticas,,,,0,0,0,3
+2017,305001022135,col coop cacique bitagui,contratacion,1,3,lenguaje,331,0,67,14,24,32,30
+2017,305001022135,col coop cacique bitagui,contratacion,1,5,matemáticas,360,10.8,70,19,9,34,39
+2017,305001022135,col coop cacique bitagui,contratacion,1,9,matemáticas,356,4.3,49,0,48,38,14
+2017,305001022135,col coop cacique bitagui,contratacion,1,5,lenguaje,328,9.9,70,12,36,27,25
+2017,305001022135,col coop cacique bitagui,contratacion,1,9,lenguaje,292,4.3,48,10,62,24,5
+2017,305001022135,col coop cacique bitagui,contratacion,1,3,matemáticas,345,0,83,11,30,8,51
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,3,matemáticas,271,2.2,45,31,48,18,3
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,9,lenguaje,266,4.9,64,30,45,24,0
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,5,matemáticas,267,2.1,50,62,31,2,5
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,9,matemáticas,257,3.7,49,51,44,4,1
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,3,lenguaje,292,2.3,47,23,44,22,10
+2017,305001022232,inst educ  barrio olaya herrera,oficial,7,5,lenguaje,282,2.1,50,18,56,20,6
+2017,305001022291,col el señor col the lord college,privado,14,9,matemáticas,272,23.8,79,33,50,17,0
+2017,305001022291,col el señor col the lord college,privado,14,9,lenguaje,357,13.3,44,0,17,83,0
+2017,305001022291,col el señor col the lord college,privado,14,3,lenguaje,,,,0,1,2,1
+2017,305001022291,col el señor col the lord college,privado,14,5,matemáticas,,,,1,1,0,1
+2017,305001022291,col el señor col the lord college,privado,14,5,lenguaje,,,,0,2,0,1
+2017,305001022291,col el señor col the lord college,privado,14,3,matemáticas,,,,0,0,2,2
+2017,305001022453,cent pedag la magia de aprender,contratacion,3,3,matemáticas,401,0,41,0,0,9,91
+2017,305001022453,cent pedag la magia de aprender,contratacion,3,5,lenguaje,378,0,46,0,12,38,50
+2017,305001022453,cent pedag la magia de aprender,contratacion,3,5,matemáticas,434,0,49,0,0,12,88
+2017,305001022453,cent pedag la magia de aprender,contratacion,3,3,lenguaje,380,0,35,0,5,27,68
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,3,lenguaje,315,4.7,60,18,36,26,20
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,9,matemáticas,296,4.4,66,22,61,13,5
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,9,lenguaje,307,4,60,6,53,34,6
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,3,matemáticas,290,6,77,31,39,22,8
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,5,lenguaje,302,3.3,55,16,45,30,10
+2017,305001022461,col gente unida jovenes por la paz - luz de oriente,contratacion,3,5,matemáticas,268,4.5,75,65,24,5,6
+2017,305001022470,col lujan,privado,11,9,matemáticas,284,0,56,25,50,25,0
+2017,305001022470,col lujan,privado,11,9,lenguaje,315,0,68,0,50,38,13
+2017,305001022496,institución educativa pequeña maria,contratacion,1,5,matemáticas,432,0,62,0,7,13,80
+2017,305001022496,institución educativa pequeña maria,contratacion,1,5,lenguaje,398,0,52,0,7,33,60
+2017,305001022496,institución educativa pequeña maria,contratacion,1,3,lenguaje,351,20.9,58,0,38,25,38
+2017,305001022496,institución educativa pequeña maria,contratacion,1,9,lenguaje,391,0,45,0,0,85,15
+2017,305001022496,institución educativa pequeña maria,contratacion,1,3,matemáticas,333,14.6,40,0,25,38,38
+2017,305001022496,institución educativa pequeña maria,contratacion,1,9,matemáticas,351,0,58,0,54,39,8
+2017,305001022518,col combos comunidad educativa de base,contratacion,10,3,matemáticas,322,23.5,72,25,8,42,25
+2017,305001022518,col combos comunidad educativa de base,contratacion,10,5,matemáticas,243,15.1,46,82,18,0,0
+2017,305001022518,col combos comunidad educativa de base,contratacion,10,5,lenguaje,259,17,51,46,46,9,0
+2017,305001022518,col combos comunidad educativa de base,contratacion,10,3,lenguaje,286,18.5,57,42,17,33,8
+2017,305001022534,col gente unida jovenes por la paz - sede villa cafe,contratacion,16,3,matemáticas,334,0,56,3,28,31,38
+2017,305001022534,col gente unida jovenes por la paz - sede villa cafe,contratacion,16,5,matemáticas,347,0,62,10,33,33,24
+2017,305001022534,col gente unida jovenes por la paz - sede villa cafe,contratacion,16,5,lenguaje,351,0,59,0,29,38,33
+2017,305001022534,col gente unida jovenes por la paz - sede villa cafe,contratacion,16,3,lenguaje,347,0,49,6,16,44,34
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,3,matemáticas,303,7,57,15,42,27,15
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,3,lenguaje,322,8,64,12,35,27,27
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,9,matemáticas,310,6.8,57,16,54,30,0
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,9,lenguaje,338,6.7,56,3,27,60,11
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,5,matemáticas,311,5.2,54,25,45,15,15
+2017,305001022569,col fundadores en administracion (ac),contratacion,13,5,lenguaje,326,5.6,58,5,35,45,15
+2017,305001022640,inst educ el bosque,oficial,4,5,matemáticas,262,2.9,55,64,25,9,1
+2017,305001022640,inst educ el bosque,oficial,4,9,matemáticas,296,3.4,59,21,66,9,4
+2017,305001022640,inst educ el bosque,oficial,4,5,lenguaje,286,2.9,56,20,55,20,6
+2017,305001022640,inst educ el bosque,oficial,4,3,matemáticas,281,3.9,42,25,53,18,5
+2017,305001022640,inst educ el bosque,oficial,4,9,lenguaje,320,2.9,50,4,47,43,6
+2017,305001022640,inst educ el bosque,oficial,4,3,lenguaje,281,4.7,52,34,36,24,6
+2017,305001024125,cent educ momo,privado,5,5,lenguaje,317,0,50,8,42,42,8
+2017,305001024125,cent educ momo,privado,5,5,matemáticas,337,0,60,17,33,25,25
+2017,305001024125,cent educ momo,privado,5,3,matemáticas,348,0,61,5,14,43,38
+2017,305001024125,cent educ momo,privado,5,3,lenguaje,331,0,35,0,38,48,14
+2017,305001024229,corporacion cier,contratacion,60,9,lenguaje,268,15,63,38,35,28,0
+2017,305001024229,corporacion cier,contratacion,60,9,matemáticas,235,12,50,62,38,0,0
+2017,305001024236,centro educativo hogar jesús redentor,contratacion,6,5,matemáticas,318,2.6,68,30,30,24,17
+2017,305001024236,centro educativo hogar jesús redentor,contratacion,6,3,lenguaje,374,3.1,60,2,16,25,58
+2017,305001024236,centro educativo hogar jesús redentor,contratacion,6,3,matemáticas,382,3.1,60,0,8,28,64
+2017,305001024236,centro educativo hogar jesús redentor,contratacion,6,5,lenguaje,327,2.3,60,11,31,42,16
+2017,305001024393,cent educ paraisos de color,privado,4,5,matemáticas,411,11,64,0,13,20,67
+2017,305001024393,cent educ paraisos de color,privado,4,3,lenguaje,374,11,71,6,24,12,59
+2017,305001024393,cent educ paraisos de color,privado,4,5,lenguaje,404,10,57,0,7,20,73
+2017,305001024393,cent educ paraisos de color,privado,4,3,matemáticas,376,12.3,80,0,18,18,65
+2017,305001024419,col antares,privado,7,9,matemáticas,277,3.5,65,38,48,12,2
+2017,305001024419,col antares,privado,7,5,lenguaje,284,0,78,23,50,15,12
+2017,305001024419,col antares,privado,7,5,matemáticas,252,0,56,69,19,12,0
+2017,305001024419,col antares,privado,7,3,lenguaje,350,5.9,59,7,23,30,40
+2017,305001024419,col antares,privado,7,9,lenguaje,315,5.9,67,12,38,43,7
+2017,305001024419,col antares,privado,7,3,matemáticas,356,7.2,74,7,20,33,40
+2017,305001024569,col ciencia y vida,privado,10,9,matemáticas,309,9.7,83,33,37,22,7
+2017,305001024569,col ciencia y vida,privado,10,3,lenguaje,338,0,59,5,24,43,29
+2017,305001024569,col ciencia y vida,privado,10,5,matemáticas,320,0,62,28,28,32,12
+2017,305001024569,col ciencia y vida,privado,10,5,lenguaje,344,0,65,4,28,48,20
+2017,305001024569,col ciencia y vida,privado,10,3,matemáticas,303,0,49,10,43,38,10
+2017,305001024569,col ciencia y vida,privado,10,9,lenguaje,337,7.7,66,7,30,48,15
+2017,305001025118,cent educ sol y luna,privado,4,5,lenguaje,395,0,23,0,0,35,65
+2017,305001025118,cent educ sol y luna,privado,4,3,matemáticas,401,0,61,7,0,7,86
+2017,305001025118,cent educ sol y luna,privado,4,5,matemáticas,382,0,63,9,9,13,70
+2017,305001025118,cent educ sol y luna,privado,4,3,lenguaje,394,0,43,0,0,24,76
+2017,305001025185,col basico camino de paz,contratacion,8,3,lenguaje,308,3,54,17,37,30,17
+2017,305001025185,col basico camino de paz,contratacion,8,5,matemáticas,300,4.9,84,55,17,10,17
+2017,305001025185,col basico camino de paz,contratacion,8,9,lenguaje,312,3,63,9,53,31,7
+2017,305001025185,col basico camino de paz,contratacion,8,9,matemáticas,286,3.1,66,33,50,12,5
+2017,305001025185,col basico camino de paz,contratacion,8,3,matemáticas,297,4,65,21,41,22,17
+2017,305001025185,col basico camino de paz,contratacion,8,5,lenguaje,305,4.7,61,10,57,19,14
+2017,305001025487,cent educ caicedo,privado,8,5,matemáticas,328,15.4,69,18,27,27,27
+2017,305001025487,cent educ caicedo,privado,8,5,lenguaje,373,12.6,57,0,18,36,46
+2017,305001025487,cent educ caicedo,privado,8,3,matemáticas,252,0,37,43,57,0,0
+2017,305001025487,cent educ caicedo,privado,8,3,lenguaje,261,0,60,43,43,14,0
+2017,305001025592,colegio empresarial,contratacion,80,3,lenguaje,340,1.9,63,8,23,35,34
+2017,305001025592,colegio empresarial,contratacion,80,9,lenguaje,370,2.1,56,1,13,66,21
+2017,305001025592,colegio empresarial,contratacion,80,5,lenguaje,345,1.2,68,8,27,35,31
+2017,305001025592,colegio empresarial,contratacion,80,3,matemáticas,323,1.7,54,9,29,32,30
+2017,305001025592,colegio empresarial,contratacion,80,5,matemáticas,331,1.4,75,27,26,26,21
+2017,305001025592,colegio empresarial,contratacion,80,9,matemáticas,352,2.6,68,5,45,37,13
+2017,305001025606,cibercolegio ucn,contratacion,50,9,matemáticas,341,7.6,86,11,46,27,16
+2017,305001025606,cibercolegio ucn,contratacion,50,5,matemáticas,342,8.9,67,17,32,21,30
+2017,305001025606,cibercolegio ucn,contratacion,50,5,lenguaje,365,8.8,66,6,19,36,38
+2017,305001025606,cibercolegio ucn,contratacion,50,3,matemáticas,339,11.6,69,12,16,28,44
+2017,305001025606,cibercolegio ucn,contratacion,50,3,lenguaje,378,11.9,71,4,16,20,60
+2017,305001025606,cibercolegio ucn,contratacion,50,9,lenguaje,355,4.9,56,5,11,73,11
+2017,305001025622,cent educ nuevo amanecer,contratacion,3,3,lenguaje,462,4.1,56,0,1,4,94
+2017,305001025622,cent educ nuevo amanecer,contratacion,3,5,lenguaje,390,0,47,0,2,48,50
+2017,305001025622,cent educ nuevo amanecer,contratacion,3,3,matemáticas,416,3.9,47,0,1,4,94
+2017,305001025622,cent educ nuevo amanecer,contratacion,3,5,matemáticas,417,0,52,0,2,23,75
+2017,305001025711,cent educ revivir,privado,2,5,lenguaje,323,5.6,65,18,14,59,9
+2017,305001025711,cent educ revivir,privado,2,9,lenguaje,317,9.5,41,0,63,38,0
+2017,305001025711,cent educ revivir,privado,2,9,matemáticas,264,12.2,53,38,63,0,0
+2017,305001025711,cent educ revivir,privado,2,5,matemáticas,332,3.8,43,14,27,50,9
+2017,305001025711,cent educ revivir,privado,2,3,lenguaje,364,9,48,0,10,48,43
+2017,305001025711,cent educ revivir,privado,2,3,matemáticas,313,9.1,48,19,14,43,24
+2017,305001025819,col cent fraternal cristiano,privado,10,9,lenguaje,357,0,65,0,27,60,13
+2017,305001025819,col cent fraternal cristiano,privado,10,3,matemáticas,382,0,55,0,0,27,73
+2017,305001025819,col cent fraternal cristiano,privado,10,3,lenguaje,390,0,42,0,0,27,73
+2017,305001025819,col cent fraternal cristiano,privado,10,5,matemáticas,315,0,48,29,43,14,14
+2017,305001025819,col cent fraternal cristiano,privado,10,5,lenguaje,353,0,54,0,14,57,29
+2017,305001025819,col cent fraternal cristiano,privado,10,9,matemáticas,344,0,68,13,40,33,13
+2017,305001025860,cent educ integ campestre senderos de paz,privado,60,5,lenguaje,,,,0,0,1,2
+2017,305001025860,cent educ integ campestre senderos de paz,privado,60,3,matemáticas,,,,0,0,0,5
+2017,305001025860,cent educ integ campestre senderos de paz,privado,60,5,matemáticas,,,,0,0,2,1
+2017,305001025860,cent educ integ campestre senderos de paz,privado,60,3,lenguaje,,,,1,0,1,3
+2017,305001025886,c.e. mi segundo hogar,privado,6,3,lenguaje,308,1.7,49,14,43,30,14
+2017,305001025886,c.e. mi segundo hogar,privado,6,5,lenguaje,301,2,47,11,52,33,4
+2017,305001025886,c.e. mi segundo hogar,privado,6,5,matemáticas,288,1.9,56,52,27,13,7
+2017,305001025886,c.e. mi segundo hogar,privado,6,3,matemáticas,294,2,54,18,39,29,14
+2017,305001025894,c.e. marluc,privado,6,5,matemáticas,,,,3,0,1,0
+2017,305001025894,c.e. marluc,privado,6,5,lenguaje,,,,1,1,1,1
+2017,305001025894,c.e. marluc,privado,6,3,lenguaje,386,0,83,8,8,17,67
+2017,305001025894,c.e. marluc,privado,6,3,matemáticas,415,0,86,0,8,25,67
+2017,305001025932,c.e. escolarte,privado,12,3,matemáticas,,,,0,1,0,1
+2017,305001025932,c.e. escolarte,privado,12,5,lenguaje,,,,1,1,0,0
+2017,305001025932,c.e. escolarte,privado,12,5,matemáticas,,,,2,0,0,0
+2017,305001025932,c.e. escolarte,privado,12,3,lenguaje,,,,0,0,1,1
+2017,305001026041,col heraldos del evangelio,privado,14,9,matemáticas,,,,0,0,2,1
+2017,305001026041,col heraldos del evangelio,privado,14,9,lenguaje,,,,0,0,3,0
+2017,305001026041,col heraldos del evangelio,privado,14,5,matemáticas,,,,0,1,0,1
+2017,305001026041,col heraldos del evangelio,privado,14,5,lenguaje,,,,0,1,0,1
+2017,305001026181,c.e. amiguitos creativos,privado,8,3,lenguaje,385,0,56,0,0,33,67
+2017,305001026181,c.e. amiguitos creativos,privado,8,3,matemáticas,350,0,62,0,17,50,33
+2017,305001026181,c.e. amiguitos creativos,privado,8,5,matemáticas,,,,0,2,1,0
+2017,305001026181,c.e. amiguitos creativos,privado,8,5,lenguaje,,,,0,1,1,1
+2017,305001026301,centro educativo internacional la sabiduría,privado,16,3,matemáticas,347,0,46,0,17,50,33
+2017,305001026301,centro educativo internacional la sabiduría,privado,16,3,lenguaje,348,0,31,0,17,33,50
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,9,matemáticas,,,,0,4,0,0
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,5,lenguaje,308,0,67,12,41,35,12
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,3,lenguaje,345,4.4,44,0,21,42,36
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,9,lenguaje,,,,0,3,1,0
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,3,matemáticas,308,5,51,12,36,30,21
+2017,305001026335,colegio básico santa maria de la cruz,contratacion,3,5,matemáticas,299,0,44,41,29,29,0
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,5,lenguaje,270,10.4,51,37,42,21,0
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,9,matemáticas,227,8.7,39,71,29,0,0
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,9,lenguaje,240,11.1,50,57,33,10,0
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,3,matemáticas,305,0,64,29,29,14,29
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,5,matemáticas,239,13.6,66,68,21,11,0
+2017,305001026343,colegio luis amigo y ferrer,contratacion,7,3,lenguaje,313,0,58,29,14,29,29
+2017,405001013912,esc popular eucaristica santa angela,contratacion,60,3,matemáticas,281,18.9,82,38,25,13,25
+2017,405001013912,esc popular eucaristica santa angela,contratacion,60,5,lenguaje,291,11.7,69,27,46,18,9
+2017,405001013912,esc popular eucaristica santa angela,contratacion,60,3,lenguaje,309,13.6,59,25,38,13,25
+2017,405001013912,esc popular eucaristica santa angela,contratacion,60,5,matemáticas,283,9.1,54,46,36,9,9
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,9,lenguaje,359,3.3,58,0,21,62,18
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,5,lenguaje,324,3,66,7,46,27,20
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,9,matemáticas,364,3.7,66,9,32,35,24
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,3,lenguaje,327,2.7,56,8,29,43,21
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,5,matemáticas,319,3.7,69,33,27,20,20
+2017,405001016946,col coop san antonio de prado (ac),contratacion,80,3,matemáticas,322,2.7,55,7,35,38,21
+2017,405001026500,col edificando vidas,privado,12,3,matemáticas,,,,0,0,0,1
+2017,405001026500,col edificando vidas,privado,12,3,lenguaje,,,,0,0,1,0

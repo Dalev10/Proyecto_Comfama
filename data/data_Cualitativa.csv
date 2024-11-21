@@ -1,0 +1,2151 @@
+establecimiento_educativo,sector_educativo,comuna,grado,area,numero_estudiantes_por_establecimiento
+inst educ jose maria velaz,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ jose maria velaz,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ jose maria velaz,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ jose maria velaz,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ jose maria velaz,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ jose maria velaz,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ barrio santa cruz,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ jose maria bernal,oficial,Belén,Quinto,matemáticas,6
+inst educ jose maria bernal,oficial,Belén,Tercero,lenguaje,6
+inst educ jose maria bernal,oficial,Belén,Noveno,lenguaje,6
+inst educ jose maria bernal,oficial,Belén,Noveno,matemáticas,6
+inst educ jose maria bernal,oficial,Belén,Quinto,lenguaje,6
+inst educ jose maria bernal,oficial,Belén,Tercero,matemáticas,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ camilo torres restrepo,oficial,Aranjuez,Tercero,lenguaje,6
+col la pastora-en administracion (ac),contratacion,Popular,Tercero,lenguaje,4
+col la pastora-en administracion (ac),contratacion,Popular,Tercero,matemáticas,4
+col la pastora-en administracion (ac),contratacion,Popular,Quinto,matemáticas,4
+col la pastora-en administracion (ac),contratacion,Popular,Quinto,lenguaje,4
+inst educ gabriel restrepo moreno,oficial,Manrique,Tercero,matemáticas,6
+inst educ gabriel restrepo moreno,oficial,Manrique,Noveno,matemáticas,6
+inst educ gabriel restrepo moreno,oficial,Manrique,Tercero,lenguaje,6
+inst educ gabriel restrepo moreno,oficial,Manrique,Quinto,matemáticas,6
+inst educ gabriel restrepo moreno,oficial,Manrique,Noveno,lenguaje,6
+inst educ gabriel restrepo moreno,oficial,Manrique,Quinto,lenguaje,6
+inst educ san agustin,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ san agustin,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ san agustin,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ san agustin,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ san agustin,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ san agustin,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ hector abad gomez,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ hector abad gomez,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ hector abad gomez,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ hector abad gomez,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ hector abad gomez,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ hector abad gomez,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ juan de la cruz posada,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Noveno,lenguaje,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Quinto,lenguaje,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Noveno,matemáticas,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Tercero,lenguaje,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Tercero,matemáticas,6
+inst educ jose acevedo y gomez,oficial,Guayabal,Quinto,matemáticas,6
+inst educ la milagrosa,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ la milagrosa,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ la milagrosa,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ la milagrosa,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ la milagrosa,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ la milagrosa,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ la salle de campoamor,oficial,Guayabal,Tercero,lenguaje,6
+inst educ la salle de campoamor,oficial,Guayabal,Quinto,lenguaje,6
+inst educ la salle de campoamor,oficial,Guayabal,Noveno,lenguaje,6
+inst educ la salle de campoamor,oficial,Guayabal,Noveno,matemáticas,6
+inst educ la salle de campoamor,oficial,Guayabal,Quinto,matemáticas,6
+inst educ la salle de campoamor,oficial,Guayabal,Tercero,matemáticas,6
+inst educ ramon giraldo ceballos,oficial,Belén,Quinto,matemáticas,6
+inst educ ramon giraldo ceballos,oficial,Belén,Noveno,lenguaje,6
+inst educ ramon giraldo ceballos,oficial,Belén,Quinto,lenguaje,6
+inst educ ramon giraldo ceballos,oficial,Belén,Tercero,matemáticas,6
+inst educ ramon giraldo ceballos,oficial,Belén,Tercero,lenguaje,6
+inst educ ramon giraldo ceballos,oficial,Belén,Noveno,matemáticas,6
+inst educ caracas,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ caracas,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ caracas,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ caracas,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ caracas,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ caracas,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ escuela normal superior de medellin,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ alfredo cock arango,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ perpetuo socorro,oficial,San Javier,Quinto,matemáticas,6
+inst educ perpetuo socorro,oficial,San Javier,Noveno,matemáticas,6
+inst educ perpetuo socorro,oficial,San Javier,Noveno,lenguaje,6
+inst educ perpetuo socorro,oficial,San Javier,Tercero,matemáticas,6
+inst educ perpetuo socorro,oficial,San Javier,Tercero,lenguaje,6
+inst educ perpetuo socorro,oficial,San Javier,Quinto,lenguaje,6
+inst educ jesus maria - el rosal,oficial,Castilla,Quinto,lenguaje,6
+inst educ jesus maria - el rosal,oficial,Castilla,Noveno,matemáticas,6
+inst educ jesus maria - el rosal,oficial,Castilla,Tercero,matemáticas,6
+inst educ jesus maria - el rosal,oficial,Castilla,Quinto,matemáticas,6
+inst educ jesus maria - el rosal,oficial,Castilla,Noveno,lenguaje,6
+inst educ jesus maria - el rosal,oficial,Castilla,Tercero,lenguaje,6
+inst educ republica de venezuela,oficial,Belén,Quinto,lenguaje,6
+inst educ republica de venezuela,oficial,Belén,Quinto,matemáticas,6
+inst educ republica de venezuela,oficial,Belén,Noveno,matemáticas,6
+inst educ republica de venezuela,oficial,Belén,Tercero,matemáticas,6
+inst educ republica de venezuela,oficial,Belén,Tercero,lenguaje,6
+inst educ republica de venezuela,oficial,Belén,Noveno,lenguaje,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Quinto,lenguaje,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Noveno,matemáticas,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Noveno,lenguaje,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Quinto,matemáticas,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Tercero,lenguaje,6
+i.e. javiera londoño-sevilla,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ diego echavarria misas,oficial,Castilla,Quinto,matemáticas,6
+inst educ diego echavarria misas,oficial,Castilla,Noveno,matemáticas,6
+inst educ diego echavarria misas,oficial,Castilla,Noveno,lenguaje,6
+inst educ diego echavarria misas,oficial,Castilla,Tercero,matemáticas,6
+inst educ diego echavarria misas,oficial,Castilla,Tercero,lenguaje,6
+inst educ diego echavarria misas,oficial,Castilla,Quinto,lenguaje,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ gilberto alzate avendaño,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ gonzalo restrepo jaramillo,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ antonio ricaurte,oficial,Belén,Quinto,matemáticas,6
+inst educ antonio ricaurte,oficial,Belén,Tercero,lenguaje,6
+inst educ antonio ricaurte,oficial,Belén,Tercero,matemáticas,6
+inst educ antonio ricaurte,oficial,Belén,Noveno,matemáticas,6
+inst educ antonio ricaurte,oficial,Belén,Noveno,lenguaje,6
+inst educ antonio ricaurte,oficial,Belén,Quinto,lenguaje,6
+inst educ jose roberto vasquez,oficial,Manrique,Noveno,matemáticas,6
+inst educ jose roberto vasquez,oficial,Manrique,Quinto,matemáticas,6
+inst educ jose roberto vasquez,oficial,Manrique,Quinto,lenguaje,6
+inst educ jose roberto vasquez,oficial,Manrique,Tercero,lenguaje,6
+inst educ jose roberto vasquez,oficial,Manrique,Tercero,matemáticas,6
+inst educ jose roberto vasquez,oficial,Manrique,Noveno,lenguaje,6
+inst educ san juan bautista de la salle,oficial,Manrique,Quinto,matemáticas,6
+inst educ san juan bautista de la salle,oficial,Manrique,Noveno,matemáticas,6
+inst educ san juan bautista de la salle,oficial,Manrique,Tercero,lenguaje,6
+inst educ san juan bautista de la salle,oficial,Manrique,Tercero,matemáticas,6
+inst educ san juan bautista de la salle,oficial,Manrique,Noveno,lenguaje,6
+inst educ san juan bautista de la salle,oficial,Manrique,Quinto,lenguaje,6
+inst educ la asuncion,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ la asuncion,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ la asuncion,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ la asuncion,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ la asuncion,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ la asuncion,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ aures,oficial,Robledo,Quinto,matemáticas,6
+inst educ aures,oficial,Robledo,Tercero,lenguaje,6
+inst educ aures,oficial,Robledo,Noveno,matemáticas,6
+inst educ aures,oficial,Robledo,Noveno,lenguaje,6
+inst educ aures,oficial,Robledo,Quinto,lenguaje,6
+inst educ aures,oficial,Robledo,Tercero,matemáticas,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Quinto,lenguaje,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Tercero,matemáticas,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Noveno,lenguaje,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Quinto,matemáticas,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Tercero,lenguaje,6
+i.e. montecarlo guillermo gaviria correa,oficial,Manrique,Noveno,matemáticas,6
+inst educ cristobal colon,oficial,La América,Tercero,lenguaje,6
+inst educ cristobal colon,oficial,La América,Quinto,matemáticas,6
+inst educ cristobal colon,oficial,La América,Quinto,lenguaje,6
+inst educ cristobal colon,oficial,La América,Noveno,matemáticas,6
+inst educ cristobal colon,oficial,La América,Noveno,lenguaje,6
+inst educ cristobal colon,oficial,La América,Tercero,matemáticas,6
+inst educ ciro mendia,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ ciro mendia,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ ciro mendia,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ ciro mendia,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ ciro mendia,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ ciro mendia,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ madre maria mazarello,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ alvaro marin velasco,oficial,Manrique,Tercero,matemáticas,6
+inst educ alvaro marin velasco,oficial,Manrique,Noveno,lenguaje,6
+inst educ alvaro marin velasco,oficial,Manrique,Quinto,lenguaje,6
+inst educ alvaro marin velasco,oficial,Manrique,Noveno,matemáticas,6
+inst educ alvaro marin velasco,oficial,Manrique,Quinto,matemáticas,6
+inst educ alvaro marin velasco,oficial,Manrique,Tercero,lenguaje,6
+inst educ manuela beltran,oficial,Manrique,Quinto,lenguaje,6
+inst educ manuela beltran,oficial,Manrique,Noveno,lenguaje,6
+inst educ manuela beltran,oficial,Manrique,Tercero,lenguaje,6
+inst educ manuela beltran,oficial,Manrique,Noveno,matemáticas,6
+inst educ manuela beltran,oficial,Manrique,Tercero,matemáticas,6
+inst educ manuela beltran,oficial,Manrique,Quinto,matemáticas,6
+inst educ lola gonzalez,oficial,La América,Quinto,matemáticas,6
+inst educ lola gonzalez,oficial,La América,Tercero,matemáticas,6
+inst educ lola gonzalez,oficial,La América,Quinto,lenguaje,6
+inst educ lola gonzalez,oficial,La América,Noveno,matemáticas,6
+inst educ lola gonzalez,oficial,La América,Noveno,lenguaje,6
+inst educ lola gonzalez,oficial,La América,Tercero,lenguaje,6
+inst educ javiera londoño,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ javiera londoño,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ javiera londoño,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ javiera londoño,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ javiera londoño,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ javiera londoño,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ yermo y parres,oficial,Belén,Quinto,lenguaje,6
+inst educ yermo y parres,oficial,Belén,Quinto,matemáticas,6
+inst educ yermo y parres,oficial,Belén,Tercero,matemáticas,6
+inst educ yermo y parres,oficial,Belén,Noveno,matemáticas,6
+inst educ yermo y parres,oficial,Belén,Tercero,lenguaje,6
+inst educ yermo y parres,oficial,Belén,Noveno,lenguaje,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ jose celestino mutis,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ jose antonio galan,oficial,Manrique,Tercero,lenguaje,6
+inst educ jose antonio galan,oficial,Manrique,Quinto,matemáticas,6
+inst educ jose antonio galan,oficial,Manrique,Quinto,lenguaje,6
+inst educ jose antonio galan,oficial,Manrique,Tercero,matemáticas,6
+inst educ jose antonio galan,oficial,Manrique,Noveno,matemáticas,6
+inst educ jose antonio galan,oficial,Manrique,Noveno,lenguaje,6
+inst educ santa catalina de siena,oficial,El Poblado,Quinto,lenguaje,6
+inst educ santa catalina de siena,oficial,El Poblado,Tercero,lenguaje,6
+inst educ santa catalina de siena,oficial,El Poblado,Noveno,matemáticas,6
+inst educ santa catalina de siena,oficial,El Poblado,Noveno,lenguaje,6
+inst educ santa catalina de siena,oficial,El Poblado,Quinto,matemáticas,6
+inst educ santa catalina de siena,oficial,El Poblado,Tercero,matemáticas,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Tercero,matemáticas,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Noveno,matemáticas,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Quinto,matemáticas,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Quinto,lenguaje,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Noveno,lenguaje,6
+inst educ monseñor gerardo valencia cano,oficial,Robledo,Tercero,lenguaje,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Noveno,matemáticas,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Noveno,lenguaje,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Quinto,matemáticas,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Quinto,lenguaje,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Tercero,matemáticas,6
+inst educ fe y alegria popular nro. 1,oficial,Popular,Tercero,lenguaje,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Tercero,matemáticas,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Quinto,lenguaje,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Tercero,lenguaje,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Noveno,matemáticas,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Quinto,matemáticas,6
+inst educ sor juana ines de la cruz,oficial,Castilla,Noveno,lenguaje,6
+i.e. carlos vieco ortiz,oficial,San Javier,Quinto,lenguaje,6
+i.e. carlos vieco ortiz,oficial,San Javier,Noveno,matemáticas,6
+i.e. carlos vieco ortiz,oficial,San Javier,Tercero,matemáticas,6
+i.e. carlos vieco ortiz,oficial,San Javier,Quinto,matemáticas,6
+i.e. carlos vieco ortiz,oficial,San Javier,Noveno,lenguaje,6
+i.e. carlos vieco ortiz,oficial,San Javier,Tercero,lenguaje,6
+inst educ san roberto belarmino,oficial,Belén,Noveno,matemáticas,6
+inst educ san roberto belarmino,oficial,Belén,Tercero,lenguaje,6
+inst educ san roberto belarmino,oficial,Belén,Quinto,matemáticas,6
+inst educ san roberto belarmino,oficial,Belén,Noveno,lenguaje,6
+inst educ san roberto belarmino,oficial,Belén,Quinto,lenguaje,6
+inst educ san roberto belarmino,oficial,Belén,Tercero,matemáticas,6
+inst educ federico ozanam,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ federico ozanam,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ federico ozanam,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ federico ozanam,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ federico ozanam,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ federico ozanam,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ rafael uribe uribe,oficial,La América,Quinto,lenguaje,6
+inst educ rafael uribe uribe,oficial,La América,Noveno,lenguaje,6
+inst educ rafael uribe uribe,oficial,La América,Tercero,matemáticas,6
+inst educ rafael uribe uribe,oficial,La América,Noveno,matemáticas,6
+inst educ rafael uribe uribe,oficial,La América,Tercero,lenguaje,6
+inst educ rafael uribe uribe,oficial,La América,Quinto,matemáticas,6
+inst educ jose eusebio caro,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ jose eusebio caro,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ jose eusebio caro,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ jose eusebio caro,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ jose eusebio caro,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ jose eusebio caro,oficial,Aranjuez,Tercero,lenguaje,6
+i.e. benjamin herrera,oficial,Guayabal,Tercero,matemáticas,6
+i.e. benjamin herrera,oficial,Guayabal,Noveno,lenguaje,6
+i.e. benjamin herrera,oficial,Guayabal,Quinto,matemáticas,6
+i.e. benjamin herrera,oficial,Guayabal,Quinto,lenguaje,6
+i.e. benjamin herrera,oficial,Guayabal,Noveno,matemáticas,6
+i.e. benjamin herrera,oficial,Guayabal,Tercero,lenguaje,6
+inst educ juan de dios cock,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ juan de dios cock,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ juan de dios cock,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ juan de dios cock,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ juan de dios cock,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ juan de dios cock,oficial,Aranjuez,Tercero,matemáticas,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Noveno,lenguaje,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Quinto,matemáticas,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Quinto,lenguaje,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Noveno,matemáticas,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Tercero,lenguaje,6
+i.e. marco fidel suarez,oficial,Laureles - Estadio,Tercero,matemáticas,6
+inst educ ramon munera lopera,oficial,Manrique,Tercero,lenguaje,6
+inst educ ramon munera lopera,oficial,Manrique,Tercero,matemáticas,6
+inst educ ramon munera lopera,oficial,Manrique,Quinto,lenguaje,6
+inst educ ramon munera lopera,oficial,Manrique,Noveno,lenguaje,6
+inst educ ramon munera lopera,oficial,Manrique,Quinto,matemáticas,6
+inst educ ramon munera lopera,oficial,Manrique,Noveno,matemáticas,6
+inst educ mariscal robledo,oficial,Robledo,Quinto,matemáticas,6
+inst educ mariscal robledo,oficial,Robledo,Quinto,lenguaje,6
+inst educ mariscal robledo,oficial,Robledo,Noveno,matemáticas,6
+inst educ mariscal robledo,oficial,Robledo,Tercero,lenguaje,6
+inst educ mariscal robledo,oficial,Robledo,Noveno,lenguaje,6
+inst educ mariscal robledo,oficial,Robledo,Tercero,matemáticas,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Quinto,lenguaje,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Tercero,lenguaje,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Noveno,matemáticas,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Tercero,matemáticas,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Noveno,lenguaje,6
+inst educ fe y alegria santo domingo savio,oficial,Popular,Quinto,matemáticas,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ gabriel garcia marquez,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Tercero,lenguaje,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Tercero,matemáticas,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Quinto,matemáticas,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Noveno,lenguaje,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Quinto,lenguaje,6
+inst educ lucrecio jaramillo velez,oficial,Laureles - Estadio,Noveno,matemáticas,6
+inst educ san vicente de paul,oficial,Robledo,Noveno,lenguaje,6
+inst educ san vicente de paul,oficial,Robledo,Quinto,lenguaje,6
+inst educ san vicente de paul,oficial,Robledo,Noveno,matemáticas,6
+inst educ san vicente de paul,oficial,Robledo,Tercero,matemáticas,6
+inst educ san vicente de paul,oficial,Robledo,Quinto,matemáticas,6
+inst educ san vicente de paul,oficial,Robledo,Tercero,lenguaje,6
+inst educ pedro luis villa,oficial,Manrique,Tercero,matemáticas,6
+inst educ pedro luis villa,oficial,Manrique,Noveno,lenguaje,6
+inst educ pedro luis villa,oficial,Manrique,Quinto,lenguaje,6
+inst educ pedro luis villa,oficial,Manrique,Quinto,matemáticas,6
+inst educ pedro luis villa,oficial,Manrique,Noveno,matemáticas,6
+inst educ pedro luis villa,oficial,Manrique,Tercero,lenguaje,6
+inst educ cristo rey,oficial,Guayabal,Tercero,matemáticas,6
+inst educ cristo rey,oficial,Guayabal,Noveno,matemáticas,6
+inst educ cristo rey,oficial,Guayabal,Tercero,lenguaje,6
+inst educ cristo rey,oficial,Guayabal,Quinto,lenguaje,6
+inst educ cristo rey,oficial,Guayabal,Noveno,lenguaje,6
+inst educ cristo rey,oficial,Guayabal,Quinto,matemáticas,6
+inst educ samuel barrientos restrepo,oficial,La América,Noveno,lenguaje,6
+inst educ samuel barrientos restrepo,oficial,La América,Noveno,matemáticas,6
+inst educ samuel barrientos restrepo,oficial,La América,Tercero,matemáticas,6
+inst educ samuel barrientos restrepo,oficial,La América,Quinto,lenguaje,6
+inst educ samuel barrientos restrepo,oficial,La América,Quinto,matemáticas,6
+inst educ samuel barrientos restrepo,oficial,La América,Tercero,lenguaje,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ san francisco de asis,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ mater dei,oficial,Laureles - Estadio,Tercero,lenguaje,6
+inst educ mater dei,oficial,Laureles - Estadio,Quinto,lenguaje,6
+inst educ mater dei,oficial,Laureles - Estadio,Quinto,matemáticas,6
+inst educ mater dei,oficial,Laureles - Estadio,Tercero,matemáticas,6
+inst educ mater dei,oficial,Laureles - Estadio,Noveno,matemáticas,6
+inst educ mater dei,oficial,Laureles - Estadio,Noveno,lenguaje,6
+inst educ francisco antonio zea,oficial,La América,Tercero,matemáticas,6
+inst educ francisco antonio zea,oficial,La América,Quinto,matemáticas,6
+inst educ francisco antonio zea,oficial,La América,Noveno,matemáticas,6
+inst educ francisco antonio zea,oficial,La América,Noveno,lenguaje,6
+inst educ francisco antonio zea,oficial,La América,Tercero,lenguaje,6
+inst educ francisco antonio zea,oficial,La América,Quinto,lenguaje,6
+inst educ la piedad,oficial,La América,Tercero,matemáticas,6
+inst educ la piedad,oficial,La América,Noveno,lenguaje,6
+inst educ la piedad,oficial,La América,Quinto,lenguaje,6
+inst educ la piedad,oficial,La América,Noveno,matemáticas,6
+inst educ la piedad,oficial,La América,Quinto,matemáticas,6
+inst educ la piedad,oficial,La América,Tercero,lenguaje,6
+i.e. fatima nutibara,oficial,Belén,Noveno,lenguaje,6
+i.e. fatima nutibara,oficial,Belén,Tercero,matemáticas,6
+i.e. fatima nutibara,oficial,Belén,Noveno,matemáticas,6
+i.e. fatima nutibara,oficial,Belén,Quinto,lenguaje,6
+i.e. fatima nutibara,oficial,Belén,Tercero,lenguaje,6
+i.e. fatima nutibara,oficial,Belén,Quinto,matemáticas,6
+inst educ republica de honduras,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ republica de honduras,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ republica de honduras,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ republica de honduras,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ republica de honduras,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ republica de honduras,oficial,Santa Cruz,Noveno,lenguaje,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Noveno,matemáticas,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Quinto,lenguaje,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Tercero,matemáticas,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Quinto,matemáticas,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Tercero,lenguaje,6
+institucion educativa manuel jose cayzedo,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Noveno,lenguaje,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Quinto,matemáticas,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Tercero,lenguaje,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Quinto,lenguaje,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Noveno,matemáticas,6
+inst educ octavio harry - jacqueline kennedy,oficial,Belén,Tercero,matemáticas,6
+inst educ maria montessori,oficial,Castilla,Tercero,matemáticas,6
+inst educ maria montessori,oficial,Castilla,Tercero,lenguaje,6
+inst educ maria montessori,oficial,Castilla,Noveno,lenguaje,6
+inst educ maria montessori,oficial,Castilla,Noveno,matemáticas,6
+inst educ maria montessori,oficial,Castilla,Quinto,lenguaje,6
+inst educ maria montessori,oficial,Castilla,Quinto,matemáticas,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ lorenza villegas de santos,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ santa rosa de lima,oficial,La América,Noveno,lenguaje,6
+inst educ santa rosa de lima,oficial,La América,Tercero,matemáticas,6
+inst educ santa rosa de lima,oficial,La América,Tercero,lenguaje,6
+inst educ santa rosa de lima,oficial,La América,Quinto,lenguaje,6
+inst educ santa rosa de lima,oficial,La América,Noveno,matemáticas,6
+inst educ santa rosa de lima,oficial,La América,Quinto,matemáticas,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ jose maria bravo marquez,oficial,Aranjuez,Noveno,lenguaje,6
+ins tec industrial pascual bravo,oficial,Robledo,Noveno,lenguaje,2
+ins tec industrial pascual bravo,oficial,Robledo,Noveno,matemáticas,2
+inst educ rosalia suarez,oficial,Belén,Quinto,matemáticas,6
+inst educ rosalia suarez,oficial,Belén,Noveno,lenguaje,6
+inst educ rosalia suarez,oficial,Belén,Quinto,lenguaje,6
+inst educ rosalia suarez,oficial,Belén,Noveno,matemáticas,6
+inst educ rosalia suarez,oficial,Belén,Tercero,matemáticas,6
+inst educ rosalia suarez,oficial,Belén,Tercero,lenguaje,6
+inst educ la presentacion,oficial,Guayabal,Tercero,matemáticas,6
+inst educ la presentacion,oficial,Guayabal,Noveno,lenguaje,6
+inst educ la presentacion,oficial,Guayabal,Quinto,lenguaje,6
+inst educ la presentacion,oficial,Guayabal,Quinto,matemáticas,6
+inst educ la presentacion,oficial,Guayabal,Noveno,matemáticas,6
+inst educ la presentacion,oficial,Guayabal,Tercero,lenguaje,6
+inst educ santo angel,oficial,Guayabal,Noveno,matemáticas,6
+inst educ santo angel,oficial,Guayabal,Quinto,matemáticas,6
+inst educ santo angel,oficial,Guayabal,Tercero,lenguaje,6
+inst educ santo angel,oficial,Guayabal,Quinto,lenguaje,6
+inst educ santo angel,oficial,Guayabal,Noveno,lenguaje,6
+inst educ santo angel,oficial,Guayabal,Tercero,matemáticas,6
+inst educ campo valdes,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ campo valdes,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ campo valdes,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ campo valdes,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ campo valdes,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ campo valdes,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ monseñor francisco cristobal toro,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ tulio ospina,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ tulio ospina,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ tulio ospina,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ tulio ospina,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ tulio ospina,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ tulio ospina,oficial,La Candelaria,Noveno,matemáticas,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Quinto,lenguaje,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Noveno,matemáticas,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Tercero,matemáticas,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Tercero,lenguaje,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Quinto,matemáticas,6
+i.e. manuel uribe ángel,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ juan de dios carvajal,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ republica de uruguay,oficial,Castilla,Tercero,matemáticas,6
+inst educ republica de uruguay,oficial,Castilla,Tercero,lenguaje,6
+inst educ republica de uruguay,oficial,Castilla,Noveno,lenguaje,6
+inst educ republica de uruguay,oficial,Castilla,Quinto,lenguaje,6
+inst educ republica de uruguay,oficial,Castilla,Quinto,matemáticas,6
+inst educ republica de uruguay,oficial,Castilla,Noveno,matemáticas,6
+inst educ enrique olaya herrera,oficial,Manrique,Tercero,lenguaje,6
+inst educ enrique olaya herrera,oficial,Manrique,Quinto,lenguaje,6
+inst educ enrique olaya herrera,oficial,Manrique,Quinto,matemáticas,6
+inst educ enrique olaya herrera,oficial,Manrique,Noveno,lenguaje,6
+inst educ enrique olaya herrera,oficial,Manrique,Noveno,matemáticas,6
+inst educ enrique olaya herrera,oficial,Manrique,Tercero,matemáticas,6
+inst educ francisco miranda,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ francisco miranda,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ francisco miranda,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ francisco miranda,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ francisco miranda,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ francisco miranda,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ dinamarca,oficial,Castilla,Noveno,matemáticas,6
+inst educ dinamarca,oficial,Castilla,Quinto,matemáticas,6
+inst educ dinamarca,oficial,Castilla,Tercero,matemáticas,6
+inst educ dinamarca,oficial,Castilla,Quinto,lenguaje,6
+inst educ dinamarca,oficial,Castilla,Tercero,lenguaje,6
+inst educ dinamarca,oficial,Castilla,Noveno,lenguaje,6
+inst educ julio cesar garcia,oficial,Castilla,Noveno,lenguaje,6
+inst educ julio cesar garcia,oficial,Castilla,Quinto,matemáticas,6
+inst educ julio cesar garcia,oficial,Castilla,Tercero,lenguaje,6
+inst educ julio cesar garcia,oficial,Castilla,Quinto,lenguaje,6
+inst educ julio cesar garcia,oficial,Castilla,Noveno,matemáticas,6
+inst educ julio cesar garcia,oficial,Castilla,Tercero,matemáticas,6
+inst educ pedro octavio amado,oficial,Belén,Quinto,lenguaje,6
+inst educ pedro octavio amado,oficial,Belén,Tercero,lenguaje,6
+inst educ pedro octavio amado,oficial,Belén,Tercero,matemáticas,6
+inst educ pedro octavio amado,oficial,Belén,Noveno,matemáticas,6
+inst educ pedro octavio amado,oficial,Belén,Quinto,matemáticas,6
+inst educ pedro octavio amado,oficial,Belén,Noveno,lenguaje,6
+inst educ jorge robledo,oficial,Robledo,Quinto,lenguaje,6
+inst educ jorge robledo,oficial,Robledo,Quinto,matemáticas,6
+inst educ jorge robledo,oficial,Robledo,Noveno,lenguaje,6
+inst educ jorge robledo,oficial,Robledo,Noveno,matemáticas,6
+inst educ jorge robledo,oficial,Robledo,Tercero,lenguaje,6
+inst educ jorge robledo,oficial,Robledo,Tercero,matemáticas,6
+inst educ rodrigo correa palacio,oficial,Castilla,Tercero,matemáticas,6
+inst educ rodrigo correa palacio,oficial,Castilla,Quinto,matemáticas,6
+inst educ rodrigo correa palacio,oficial,Castilla,Noveno,matemáticas,6
+inst educ rodrigo correa palacio,oficial,Castilla,Quinto,lenguaje,6
+inst educ rodrigo correa palacio,oficial,Castilla,Tercero,lenguaje,6
+inst educ rodrigo correa palacio,oficial,Castilla,Noveno,lenguaje,6
+inst educ juan xxiii,oficial,San Javier,Quinto,lenguaje,6
+inst educ juan xxiii,oficial,San Javier,Noveno,matemáticas,6
+inst educ juan xxiii,oficial,San Javier,Quinto,matemáticas,6
+inst educ juan xxiii,oficial,San Javier,Tercero,matemáticas,6
+inst educ juan xxiii,oficial,San Javier,Noveno,lenguaje,6
+inst educ juan xxiii,oficial,San Javier,Tercero,lenguaje,6
+inst educ asia ignaciana,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ asia ignaciana,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ asia ignaciana,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ asia ignaciana,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ asia ignaciana,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ asia ignaciana,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ concejo de medellin,oficial,La América,Quinto,matemáticas,6
+inst educ concejo de medellin,oficial,La América,Quinto,lenguaje,6
+inst educ concejo de medellin,oficial,La América,Tercero,lenguaje,6
+inst educ concejo de medellin,oficial,La América,Tercero,matemáticas,6
+inst educ concejo de medellin,oficial,La América,Noveno,lenguaje,6
+inst educ concejo de medellin,oficial,La América,Noveno,matemáticas,6
+inst educ sebastian de belalcazar,oficial,Castilla,Quinto,lenguaje,6
+inst educ sebastian de belalcazar,oficial,Castilla,Noveno,lenguaje,6
+inst educ sebastian de belalcazar,oficial,Castilla,Quinto,matemáticas,6
+inst educ sebastian de belalcazar,oficial,Castilla,Tercero,lenguaje,6
+inst educ sebastian de belalcazar,oficial,Castilla,Noveno,matemáticas,6
+inst educ sebastian de belalcazar,oficial,Castilla,Tercero,matemáticas,6
+inst educ benedikta zur nieden,oficial,La América,Quinto,lenguaje,6
+inst educ benedikta zur nieden,oficial,La América,Noveno,lenguaje,6
+inst educ benedikta zur nieden,oficial,La América,Quinto,matemáticas,6
+inst educ benedikta zur nieden,oficial,La América,Tercero,lenguaje,6
+inst educ benedikta zur nieden,oficial,La América,Tercero,matemáticas,6
+inst educ benedikta zur nieden,oficial,La América,Noveno,matemáticas,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Quinto,lenguaje,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Tercero,matemáticas,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Tercero,lenguaje,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Quinto,matemáticas,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Noveno,matemáticas,6
+inst educ maria de los angeles cano marquez,oficial,Popular,Noveno,lenguaje,6
+inst educ octavio calderon mejia,oficial,Guayabal,Tercero,lenguaje,6
+inst educ octavio calderon mejia,oficial,Guayabal,Quinto,matemáticas,6
+inst educ octavio calderon mejia,oficial,Guayabal,Noveno,lenguaje,6
+inst educ octavio calderon mejia,oficial,Guayabal,Quinto,lenguaje,6
+inst educ octavio calderon mejia,oficial,Guayabal,Tercero,matemáticas,6
+inst educ octavio calderon mejia,oficial,Guayabal,Noveno,matemáticas,6
+inst educ pedro claver aguirre,oficial,Castilla,Noveno,matemáticas,6
+inst educ pedro claver aguirre,oficial,Castilla,Quinto,lenguaje,6
+inst educ pedro claver aguirre,oficial,Castilla,Quinto,matemáticas,6
+inst educ pedro claver aguirre,oficial,Castilla,Tercero,matemáticas,6
+inst educ pedro claver aguirre,oficial,Castilla,Noveno,lenguaje,6
+inst educ pedro claver aguirre,oficial,Castilla,Tercero,lenguaje,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ juvenil nuevo futuro,oficial,Doce de Octubre,Noveno,matemáticas,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Tercero,lenguaje,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Quinto,matemáticas,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Quinto,lenguaje,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Noveno,lenguaje,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Tercero,matemáticas,6
+col sagrada familia aldea pablo vi,contratacion,Popular,Noveno,matemáticas,6
+inst educ pablo neruda,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ pablo neruda,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ pablo neruda,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ pablo neruda,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ pablo neruda,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ pablo neruda,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ el diamante,oficial,Robledo,Quinto,lenguaje,6
+inst educ el diamante,oficial,Robledo,Noveno,matemáticas,6
+inst educ el diamante,oficial,Robledo,Tercero,lenguaje,6
+inst educ el diamante,oficial,Robledo,Noveno,lenguaje,6
+inst educ el diamante,oficial,Robledo,Tercero,matemáticas,6
+inst educ el diamante,oficial,Robledo,Quinto,matemáticas,6
+inst educ bello horizonte,oficial,Robledo,Noveno,matemáticas,6
+inst educ bello horizonte,oficial,Robledo,Quinto,matemáticas,6
+inst educ bello horizonte,oficial,Robledo,Tercero,matemáticas,6
+inst educ bello horizonte,oficial,Robledo,Tercero,lenguaje,6
+inst educ bello horizonte,oficial,Robledo,Quinto,lenguaje,6
+inst educ bello horizonte,oficial,Robledo,Noveno,lenguaje,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ loreto-gabriela gomez carvajal,oficial,Buenos Aires,Tercero,matemáticas,6
+i.e. capilla del rosario,oficial,Belén,Noveno,lenguaje,6
+i.e. capilla del rosario,oficial,Belén,Tercero,matemáticas,6
+i.e. capilla del rosario,oficial,Belén,Quinto,matemáticas,6
+i.e. capilla del rosario,oficial,Belén,Tercero,lenguaje,6
+i.e. capilla del rosario,oficial,Belén,Noveno,matemáticas,6
+i.e. capilla del rosario,oficial,Belén,Quinto,lenguaje,6
+inst educ san lorenzo de aburra,oficial,Manrique,Noveno,matemáticas,6
+inst educ san lorenzo de aburra,oficial,Manrique,Tercero,lenguaje,6
+inst educ san lorenzo de aburra,oficial,Manrique,Quinto,lenguaje,6
+inst educ san lorenzo de aburra,oficial,Manrique,Quinto,matemáticas,6
+inst educ san lorenzo de aburra,oficial,Manrique,Tercero,matemáticas,6
+inst educ san lorenzo de aburra,oficial,Manrique,Noveno,lenguaje,6
+inst educ san juan bosco,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ san juan bosco,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ san juan bosco,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ san juan bosco,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ san juan bosco,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ san juan bosco,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ felix henao botero,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ felix henao botero,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ felix henao botero,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ felix henao botero,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ felix henao botero,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ felix henao botero,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ hernan toro agudelo,oficial,Manrique,Quinto,lenguaje,6
+inst educ hernan toro agudelo,oficial,Manrique,Tercero,matemáticas,6
+inst educ hernan toro agudelo,oficial,Manrique,Noveno,lenguaje,6
+inst educ hernan toro agudelo,oficial,Manrique,Noveno,matemáticas,6
+inst educ hernan toro agudelo,oficial,Manrique,Tercero,lenguaje,6
+inst educ hernan toro agudelo,oficial,Manrique,Quinto,matemáticas,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ maestro fernando botero,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ santos angeles custodios,oficial,Guayabal,Noveno,matemáticas,6
+inst educ santos angeles custodios,oficial,Guayabal,Tercero,lenguaje,6
+inst educ santos angeles custodios,oficial,Guayabal,Noveno,lenguaje,6
+inst educ santos angeles custodios,oficial,Guayabal,Quinto,lenguaje,6
+inst educ santos angeles custodios,oficial,Guayabal,Tercero,matemáticas,6
+inst educ santos angeles custodios,oficial,Guayabal,Quinto,matemáticas,6
+inst educ la esperanza,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ la esperanza,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ la esperanza,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ la esperanza,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ la esperanza,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ la esperanza,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ fe y alegria la cima,oficial,Manrique,Quinto,matemáticas,6
+inst educ fe y alegria la cima,oficial,Manrique,Quinto,lenguaje,6
+inst educ fe y alegria la cima,oficial,Manrique,Noveno,matemáticas,6
+inst educ fe y alegria la cima,oficial,Manrique,Noveno,lenguaje,6
+inst educ fe y alegria la cima,oficial,Manrique,Tercero,lenguaje,6
+inst educ fe y alegria la cima,oficial,Manrique,Tercero,matemáticas,6
+inst educ  ana de castrillon,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ  ana de castrillon,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ  ana de castrillon,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ  ana de castrillon,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ  ana de castrillon,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ  ana de castrillon,oficial,La Candelaria,Tercero,lenguaje,6
+cent educal don bosco,privado,Castilla,Quinto,matemáticas,6
+cent educal don bosco,privado,Castilla,Quinto,lenguaje,6
+cent educal don bosco,privado,Castilla,Noveno,matemáticas,6
+cent educal don bosco,privado,Castilla,Tercero,lenguaje,6
+cent educal don bosco,privado,Castilla,Noveno,lenguaje,6
+cent educal don bosco,privado,Castilla,Tercero,matemáticas,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Tercero,lenguaje,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Quinto,lenguaje,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Noveno,matemáticas,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Quinto,matemáticas,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Noveno,lenguaje,6
+inst educ tomas carrasquilla no. 2,oficial,Robledo,Tercero,matemáticas,6
+inst educ jose asuncion silva,oficial,Castilla,Quinto,matemáticas,6
+inst educ jose asuncion silva,oficial,Castilla,Tercero,lenguaje,6
+inst educ jose asuncion silva,oficial,Castilla,Tercero,matemáticas,6
+inst educ jose asuncion silva,oficial,Castilla,Noveno,matemáticas,6
+inst educ jose asuncion silva,oficial,Castilla,Noveno,lenguaje,6
+inst educ jose asuncion silva,oficial,Castilla,Quinto,lenguaje,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ merceditas gomez martinez,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ ciudadela las americas,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ doce de octubre,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ doce de octubre,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ doce de octubre,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ doce de octubre,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ doce de octubre,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ doce de octubre,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ fe y alegria aures,oficial,Robledo,Quinto,lenguaje,6
+inst educ fe y alegria aures,oficial,Robledo,Tercero,lenguaje,6
+inst educ fe y alegria aures,oficial,Robledo,Noveno,lenguaje,6
+inst educ fe y alegria aures,oficial,Robledo,Tercero,matemáticas,6
+inst educ fe y alegria aures,oficial,Robledo,Quinto,matemáticas,6
+inst educ fe y alegria aures,oficial,Robledo,Noveno,matemáticas,6
+inst educ horacio muñoz suescun,oficial,Belén,Tercero,matemáticas,6
+inst educ horacio muñoz suescun,oficial,Belén,Tercero,lenguaje,6
+inst educ horacio muñoz suescun,oficial,Belén,Quinto,lenguaje,6
+inst educ horacio muñoz suescun,oficial,Belén,Noveno,matemáticas,6
+inst educ horacio muñoz suescun,oficial,Belén,Noveno,lenguaje,6
+inst educ horacio muñoz suescun,oficial,Belén,Quinto,matemáticas,6
+inst educ asamblea departamental,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ asamblea departamental,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ asamblea departamental,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ asamblea departamental,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ asamblea departamental,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ asamblea departamental,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ federico carrasquilla,oficial,Popular,Tercero,matemáticas,6
+inst educ federico carrasquilla,oficial,Popular,Tercero,lenguaje,6
+inst educ federico carrasquilla,oficial,Popular,Quinto,lenguaje,6
+inst educ federico carrasquilla,oficial,Popular,Noveno,lenguaje,6
+inst educ federico carrasquilla,oficial,Popular,Noveno,matemáticas,6
+inst educ federico carrasquilla,oficial,Popular,Quinto,matemáticas,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Noveno,matemáticas,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Tercero,matemáticas,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Tercero,lenguaje,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Noveno,lenguaje,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Quinto,matemáticas,6
+inst educ fe y alegria villa de la candelaria,oficial,Robledo,Quinto,lenguaje,6
+inst educ america,oficial,La América,Noveno,lenguaje,6
+inst educ america,oficial,La América,Tercero,matemáticas,6
+inst educ america,oficial,La América,Tercero,lenguaje,6
+inst educ america,oficial,La América,Quinto,lenguaje,6
+inst educ america,oficial,La América,Noveno,matemáticas,6
+inst educ america,oficial,La América,Quinto,matemáticas,6
+escuela universidad nacional,oficial,Robledo,Quinto,matemáticas,4
+escuela universidad nacional,oficial,Robledo,Tercero,lenguaje,4
+escuela universidad nacional,oficial,Robledo,Tercero,matemáticas,4
+escuela universidad nacional,oficial,Robledo,Quinto,lenguaje,4
+inst educ barrio santander,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ barrio santander,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ barrio santander,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ barrio santander,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ barrio santander,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ barrio santander,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ juan maria cespedes,oficial,Belén,Tercero,matemáticas,6
+inst educ juan maria cespedes,oficial,Belén,Quinto,matemáticas,6
+inst educ juan maria cespedes,oficial,Belén,Noveno,lenguaje,6
+inst educ juan maria cespedes,oficial,Belén,Noveno,matemáticas,6
+inst educ juan maria cespedes,oficial,Belén,Tercero,lenguaje,6
+inst educ juan maria cespedes,oficial,Belén,Quinto,lenguaje,6
+inst educ guadalupe,oficial,Popular,Noveno,lenguaje,6
+inst educ guadalupe,oficial,Popular,Noveno,matemáticas,6
+inst educ guadalupe,oficial,Popular,Tercero,lenguaje,6
+inst educ guadalupe,oficial,Popular,Quinto,matemáticas,6
+inst educ guadalupe,oficial,Popular,Tercero,matemáticas,6
+inst educ guadalupe,oficial,Popular,Quinto,lenguaje,6
+inst educ reino de belgica,oficial,Manrique,Quinto,matemáticas,6
+inst educ reino de belgica,oficial,Manrique,Noveno,matemáticas,6
+inst educ reino de belgica,oficial,Manrique,Tercero,lenguaje,6
+inst educ reino de belgica,oficial,Manrique,Noveno,lenguaje,6
+inst educ reino de belgica,oficial,Manrique,Quinto,lenguaje,6
+inst educ reino de belgica,oficial,Manrique,Tercero,matemáticas,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ alfonso lopez pumarejo,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ san pablo,oficial,Popular,Quinto,matemáticas,6
+inst educ san pablo,oficial,Popular,Noveno,matemáticas,6
+inst educ san pablo,oficial,Popular,Quinto,lenguaje,6
+inst educ san pablo,oficial,Popular,Tercero,lenguaje,6
+inst educ san pablo,oficial,Popular,Noveno,lenguaje,6
+inst educ san pablo,oficial,Popular,Tercero,matemáticas,6
+institucion educativa el picachito,oficial,Doce de Octubre,Noveno,lenguaje,6
+institucion educativa el picachito,oficial,Doce de Octubre,Tercero,matemáticas,6
+institucion educativa el picachito,oficial,Doce de Octubre,Quinto,matemáticas,6
+institucion educativa el picachito,oficial,Doce de Octubre,Noveno,matemáticas,6
+institucion educativa el picachito,oficial,Doce de Octubre,Quinto,lenguaje,6
+institucion educativa el picachito,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Quinto,lenguaje,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Tercero,matemáticas,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Noveno,matemáticas,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Noveno,lenguaje,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Quinto,matemáticas,6
+inst educ maestro pedro nel gomez,oficial,Castilla,Tercero,lenguaje,6
+inst educ santa teresa,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ santa teresa,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ santa teresa,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ santa teresa,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ santa teresa,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ santa teresa,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Tercero,matemáticas,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Noveno,lenguaje,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Noveno,matemáticas,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Tercero,lenguaje,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Quinto,lenguaje,6
+inst educ inem jose felix de restrepo,oficial,El Poblado,Quinto,matemáticas,6
+inst educ felix de bedout moreno,oficial,Castilla,Tercero,lenguaje,6
+inst educ felix de bedout moreno,oficial,Castilla,Quinto,matemáticas,6
+inst educ felix de bedout moreno,oficial,Castilla,Noveno,matemáticas,6
+inst educ felix de bedout moreno,oficial,Castilla,Noveno,lenguaje,6
+inst educ felix de bedout moreno,oficial,Castilla,Tercero,matemáticas,6
+inst educ felix de bedout moreno,oficial,Castilla,Quinto,lenguaje,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Tercero,lenguaje,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ jose horacio betancur,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ loma hermosa,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ loma hermosa,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ loma hermosa,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ loma hermosa,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ loma hermosa,oficial,San Cristóbal,Tercero,lenguaje,6
+inst educ loma hermosa,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ nuevo horizonte,oficial,Popular,Quinto,matemáticas,6
+inst educ nuevo horizonte,oficial,Popular,Tercero,matemáticas,6
+inst educ nuevo horizonte,oficial,Popular,Noveno,matemáticas,6
+inst educ nuevo horizonte,oficial,Popular,Quinto,lenguaje,6
+inst educ nuevo horizonte,oficial,Popular,Noveno,lenguaje,6
+inst educ nuevo horizonte,oficial,Popular,Tercero,lenguaje,6
+inst educ luis lopez de mesa,oficial,Robledo,Quinto,lenguaje,6
+inst educ luis lopez de mesa,oficial,Robledo,Tercero,lenguaje,6
+inst educ luis lopez de mesa,oficial,Robledo,Quinto,matemáticas,6
+inst educ luis lopez de mesa,oficial,Robledo,Noveno,matemáticas,6
+inst educ luis lopez de mesa,oficial,Robledo,Tercero,matemáticas,6
+inst educ luis lopez de mesa,oficial,Robledo,Noveno,lenguaje,6
+inst educ jesus rey,oficial,Robledo,Quinto,matemáticas,6
+inst educ jesus rey,oficial,Robledo,Tercero,lenguaje,6
+inst educ jesus rey,oficial,Robledo,Tercero,matemáticas,6
+inst educ jesus rey,oficial,Robledo,Noveno,lenguaje,6
+inst educ jesus rey,oficial,Robledo,Quinto,lenguaje,6
+inst educ jesus rey,oficial,Robledo,Noveno,matemáticas,6
+inst educ fe y alegria granizal,oficial,Popular,Noveno,matemáticas,6
+inst educ fe y alegria granizal,oficial,Popular,Tercero,matemáticas,6
+inst educ fe y alegria granizal,oficial,Popular,Quinto,lenguaje,6
+inst educ fe y alegria granizal,oficial,Popular,Tercero,lenguaje,6
+inst educ fe y alegria granizal,oficial,Popular,Noveno,lenguaje,6
+inst educ fe y alegria granizal,oficial,Popular,Quinto,matemáticas,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Tercero,lenguaje,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Quinto,lenguaje,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Noveno,matemáticas,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Tercero,matemáticas,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Quinto,matemáticas,6
+inst educ camilo mora carrasquilla,oficial,Robledo,Noveno,lenguaje,6
+inst educ eduardo santos,oficial,San Javier,Quinto,matemáticas,6
+inst educ eduardo santos,oficial,San Javier,Noveno,lenguaje,6
+inst educ eduardo santos,oficial,San Javier,Tercero,matemáticas,6
+inst educ eduardo santos,oficial,San Javier,Quinto,lenguaje,6
+inst educ eduardo santos,oficial,San Javier,Tercero,lenguaje,6
+inst educ eduardo santos,oficial,San Javier,Noveno,matemáticas,6
+inst educ la libertad,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ la libertad,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ la libertad,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ la libertad,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ la libertad,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ la libertad,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ vallejuelos,oficial,Robledo,Quinto,matemáticas,6
+inst educ vallejuelos,oficial,Robledo,Tercero,lenguaje,6
+inst educ vallejuelos,oficial,Robledo,Noveno,lenguaje,6
+inst educ vallejuelos,oficial,Robledo,Quinto,lenguaje,6
+inst educ vallejuelos,oficial,Robledo,Noveno,matemáticas,6
+inst educ vallejuelos,oficial,Robledo,Tercero,matemáticas,6
+inst educ tricentenario,oficial,Castilla,Noveno,matemáticas,6
+inst educ tricentenario,oficial,Castilla,Noveno,lenguaje,6
+inst educ tricentenario,oficial,Castilla,Tercero,matemáticas,6
+inst educ tricentenario,oficial,Castilla,Quinto,lenguaje,6
+inst educ tricentenario,oficial,Castilla,Tercero,lenguaje,6
+inst educ tricentenario,oficial,Castilla,Quinto,matemáticas,6
+inst educ fe y alegria san jose,oficial,Robledo,Tercero,lenguaje,6
+inst educ fe y alegria san jose,oficial,Robledo,Noveno,lenguaje,6
+inst educ fe y alegria san jose,oficial,Robledo,Noveno,matemáticas,6
+inst educ fe y alegria san jose,oficial,Robledo,Quinto,lenguaje,6
+inst educ fe y alegria san jose,oficial,Robledo,Quinto,matemáticas,6
+inst educ fe y alegria san jose,oficial,Robledo,Tercero,matemáticas,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ francisco luis hernandez betancur,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ manuel jose gomez s,oficial,Castilla,Quinto,lenguaje,6
+inst educ manuel jose gomez s,oficial,Castilla,Noveno,matemáticas,6
+inst educ manuel jose gomez s,oficial,Castilla,Tercero,matemáticas,6
+inst educ manuel jose gomez s,oficial,Castilla,Tercero,lenguaje,6
+inst educ manuel jose gomez s,oficial,Castilla,Noveno,lenguaje,6
+inst educ manuel jose gomez s,oficial,Castilla,Quinto,matemáticas,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ fe y alegria el limonar,oficial,San Antonio de Prado,Noveno,lenguaje,6
+i.e. stella velez londoño,oficial,San Javier,Tercero,matemáticas,6
+i.e. stella velez londoño,oficial,San Javier,Noveno,matemáticas,6
+i.e. stella velez londoño,oficial,San Javier,Noveno,lenguaje,6
+i.e. stella velez londoño,oficial,San Javier,Quinto,matemáticas,6
+i.e. stella velez londoño,oficial,San Javier,Tercero,lenguaje,6
+i.e. stella velez londoño,oficial,San Javier,Quinto,lenguaje,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ alfonso mora naranjo,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ vida para todos,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ vida para todos,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ vida para todos,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ vida para todos,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ vida para todos,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ vida para todos,oficial,Villa Hermosa,Noveno,lenguaje,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Quinto,matemáticas,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Tercero,matemáticas,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Tercero,lenguaje,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Noveno,lenguaje,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Quinto,lenguaje,6
+i.e. jorge eliecer gaitan,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ el pedregal,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ el pedregal,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ el pedregal,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ el pedregal,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ el pedregal,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ el pedregal,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ la avanzada,oficial,Popular,Tercero,matemáticas,6
+inst educ la avanzada,oficial,Popular,Noveno,lenguaje,6
+inst educ la avanzada,oficial,Popular,Quinto,matemáticas,6
+inst educ la avanzada,oficial,Popular,Tercero,lenguaje,6
+inst educ la avanzada,oficial,Popular,Noveno,matemáticas,6
+inst educ la avanzada,oficial,Popular,Quinto,lenguaje,6
+inst educ barrio santa margarita,oficial,Robledo,Tercero,matemáticas,6
+inst educ barrio santa margarita,oficial,Robledo,Noveno,lenguaje,6
+inst educ barrio santa margarita,oficial,Robledo,Quinto,matemáticas,6
+inst educ barrio santa margarita,oficial,Robledo,Noveno,matemáticas,6
+inst educ barrio santa margarita,oficial,Robledo,Tercero,lenguaje,6
+inst educ barrio santa margarita,oficial,Robledo,Quinto,lenguaje,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ luis carlos galan sarmiento,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ villa del socorro,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ villa del socorro,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ villa del socorro,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ villa del socorro,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ villa del socorro,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ villa del socorro,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Noveno,lenguaje,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Noveno,matemáticas,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Quinto,matemáticas,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Quinto,lenguaje,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Tercero,lenguaje,6
+inst educ rodrigo lara bonilla,oficial,Manrique,Tercero,matemáticas,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ miraflores - luis eduardo valencia garcia,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ alfonso lopez,oficial,Castilla,Tercero,lenguaje,6
+inst educ alfonso lopez,oficial,Castilla,Noveno,matemáticas,6
+inst educ alfonso lopez,oficial,Castilla,Noveno,lenguaje,6
+inst educ alfonso lopez,oficial,Castilla,Quinto,matemáticas,6
+inst educ alfonso lopez,oficial,Castilla,Quinto,lenguaje,6
+inst educ alfonso lopez,oficial,Castilla,Tercero,matemáticas,6
+inst educ alcaldia de medellin,oficial,Belén,Noveno,lenguaje,6
+inst educ alcaldia de medellin,oficial,Belén,Tercero,matemáticas,6
+inst educ alcaldia de medellin,oficial,Belén,Quinto,matemáticas,6
+inst educ alcaldia de medellin,oficial,Belén,Quinto,lenguaje,6
+inst educ alcaldia de medellin,oficial,Belén,Noveno,matemáticas,6
+inst educ alcaldia de medellin,oficial,Belén,Tercero,lenguaje,6
+inst educ el salvador,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ el salvador,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ el salvador,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ el salvador,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ el salvador,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ el salvador,oficial,La Candelaria,Tercero,matemáticas,6
+inst educ rafael garcia herreros,oficial,Robledo,Tercero,matemáticas,6
+inst educ rafael garcia herreros,oficial,Robledo,Quinto,matemáticas,6
+inst educ rafael garcia herreros,oficial,Robledo,Tercero,lenguaje,6
+inst educ rafael garcia herreros,oficial,Robledo,Noveno,lenguaje,6
+inst educ rafael garcia herreros,oficial,Robledo,Quinto,lenguaje,6
+inst educ rafael garcia herreros,oficial,Robledo,Noveno,matemáticas,6
+inst educ ciudad don bosco,oficial,Robledo,Quinto,matemáticas,6
+inst educ ciudad don bosco,oficial,Robledo,Quinto,lenguaje,6
+inst educ ciudad don bosco,oficial,Robledo,Tercero,matemáticas,6
+inst educ ciudad don bosco,oficial,Robledo,Tercero,lenguaje,6
+inst educ ciudad don bosco,oficial,Robledo,Noveno,matemáticas,6
+inst educ ciudad don bosco,oficial,Robledo,Noveno,lenguaje,6
+inst educ la independencia,oficial,San Javier,Tercero,lenguaje,6
+inst educ la independencia,oficial,San Javier,Quinto,lenguaje,6
+inst educ la independencia,oficial,San Javier,Tercero,matemáticas,6
+inst educ la independencia,oficial,San Javier,Noveno,matemáticas,6
+inst educ la independencia,oficial,San Javier,Quinto,matemáticas,6
+inst educ la independencia,oficial,San Javier,Noveno,lenguaje,6
+inst educ villa flora,oficial,Robledo,Noveno,lenguaje,6
+inst educ villa flora,oficial,Robledo,Tercero,matemáticas,6
+inst educ villa flora,oficial,Robledo,Noveno,matemáticas,6
+inst educ villa flora,oficial,Robledo,Quinto,lenguaje,6
+inst educ villa flora,oficial,Robledo,Quinto,matemáticas,6
+inst educ villa flora,oficial,Robledo,Tercero,lenguaje,6
+inst educ kennedy,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ kennedy,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ kennedy,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ kennedy,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ kennedy,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ kennedy,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ sol de oriente,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ sol de oriente,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ sol de oriente,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ sol de oriente,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ sol de oriente,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ sol de oriente,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ las nieves,oficial,Manrique,Noveno,matemáticas,6
+inst educ las nieves,oficial,Manrique,Noveno,lenguaje,6
+inst educ las nieves,oficial,Manrique,Quinto,lenguaje,6
+inst educ las nieves,oficial,Manrique,Quinto,matemáticas,6
+inst educ las nieves,oficial,Manrique,Tercero,lenguaje,6
+inst educ las nieves,oficial,Manrique,Tercero,matemáticas,6
+inst educ finca la mesa,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ finca la mesa,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ finca la mesa,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ finca la mesa,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ finca la mesa,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ finca la mesa,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ casd,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ casd,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ casd,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ casd,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ casd,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ casd,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ debora arango perez,oficial,Altavista,Noveno,matemáticas,6
+inst educ debora arango perez,oficial,Altavista,Tercero,matemáticas,6
+inst educ debora arango perez,oficial,Altavista,Quinto,lenguaje,6
+inst educ debora arango perez,oficial,Altavista,Tercero,lenguaje,6
+inst educ debora arango perez,oficial,Altavista,Quinto,matemáticas,6
+inst educ debora arango perez,oficial,Altavista,Noveno,lenguaje,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ joaquin vallejo arbelaez,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Quinto,matemáticas,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Quinto,lenguaje,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Noveno,matemáticas,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Noveno,lenguaje,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Tercero,lenguaje,6
+inst educ pbro antonio jose bernal londoño sj,oficial,Castilla,Tercero,matemáticas,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ angela restrepo moreno,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ antonio derka - santo domingo,oficial,Popular,Quinto,matemáticas,6
+inst educ antonio derka - santo domingo,oficial,Popular,Tercero,matemáticas,6
+inst educ antonio derka - santo domingo,oficial,Popular,Noveno,lenguaje,6
+inst educ antonio derka - santo domingo,oficial,Popular,Quinto,lenguaje,6
+inst educ antonio derka - santo domingo,oficial,Popular,Tercero,lenguaje,6
+inst educ antonio derka - santo domingo,oficial,Popular,Noveno,matemáticas,6
+i.e. colegio loyola para la ciencia y la innovación,oficial,Castilla,Noveno,matemáticas,2
+i.e. colegio loyola para la ciencia y la innovación,oficial,Castilla,Noveno,lenguaje,2
+i.e. la huerta,oficial,San Cristóbal,Quinto,lenguaje,6
+i.e. la huerta,oficial,San Cristóbal,Tercero,matemáticas,6
+i.e. la huerta,oficial,San Cristóbal,Tercero,lenguaje,6
+i.e. la huerta,oficial,San Cristóbal,Noveno,lenguaje,6
+i.e. la huerta,oficial,San Cristóbal,Noveno,matemáticas,6
+i.e. la huerta,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ ciudadela nuevo occidente,oficial,San Cristóbal,Tercero,lenguaje,6
+i.e. el pinal,oficial,Villa Hermosa,Quinto,lenguaje,6
+i.e. el pinal,oficial,Villa Hermosa,Tercero,lenguaje,6
+i.e. el pinal,oficial,Villa Hermosa,Noveno,matemáticas,6
+i.e. el pinal,oficial,Villa Hermosa,Tercero,matemáticas,6
+i.e. el pinal,oficial,Villa Hermosa,Noveno,lenguaje,6
+i.e. el pinal,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ el corazón,oficial,San Javier,Noveno,lenguaje,6
+inst educ el corazón,oficial,San Javier,Noveno,matemáticas,6
+inst educ el corazón,oficial,San Javier,Tercero,lenguaje,6
+inst educ el corazón,oficial,San Javier,Quinto,lenguaje,6
+inst educ el corazón,oficial,San Javier,Tercero,matemáticas,6
+inst educ el corazón,oficial,San Javier,Quinto,matemáticas,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ jesus maria valle,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ san benito,oficial,La Candelaria,Quinto,lenguaje,6
+inst educ san benito,oficial,La Candelaria,Noveno,matemáticas,6
+inst educ san benito,oficial,La Candelaria,Quinto,matemáticas,6
+inst educ san benito,oficial,La Candelaria,Tercero,lenguaje,6
+inst educ san benito,oficial,La Candelaria,Noveno,lenguaje,6
+inst educ san benito,oficial,La Candelaria,Tercero,matemáticas,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Noveno,matemáticas,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Tercero,matemáticas,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Quinto,matemáticas,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Noveno,lenguaje,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Tercero,lenguaje,6
+ie lusitania- paz de colombia,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ la sierra,oficial,Villa Hermosa,Quinto,matemáticas,6
+inst educ la sierra,oficial,Villa Hermosa,Noveno,matemáticas,6
+inst educ la sierra,oficial,Villa Hermosa,Tercero,lenguaje,6
+inst educ la sierra,oficial,Villa Hermosa,Tercero,matemáticas,6
+inst educ la sierra,oficial,Villa Hermosa,Noveno,lenguaje,6
+inst educ la sierra,oficial,Villa Hermosa,Quinto,lenguaje,6
+inst educ altavista,oficial,Altavista,Noveno,lenguaje,6
+inst educ altavista,oficial,Altavista,Noveno,matemáticas,6
+inst educ altavista,oficial,Altavista,Tercero,matemáticas,6
+inst educ altavista,oficial,Altavista,Quinto,matemáticas,6
+inst educ altavista,oficial,Altavista,Quinto,lenguaje,6
+inst educ altavista,oficial,Altavista,Tercero,lenguaje,6
+inst educ el playon,oficial,Santa Cruz,Tercero,matemáticas,6
+inst educ el playon,oficial,Santa Cruz,Noveno,lenguaje,6
+inst educ el playon,oficial,Santa Cruz,Tercero,lenguaje,6
+inst educ el playon,oficial,Santa Cruz,Noveno,matemáticas,6
+inst educ el playon,oficial,Santa Cruz,Quinto,matemáticas,6
+inst educ el playon,oficial,Santa Cruz,Quinto,lenguaje,6
+inst educ la pastora,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ la pastora,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ la pastora,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ la pastora,oficial,Buenos Aires,Noveno,lenguaje,6
+inst educ la pastora,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ la pastora,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ san nicolas,oficial,Popular,Noveno,matemáticas,6
+inst educ san nicolas,oficial,Popular,Quinto,lenguaje,6
+inst educ san nicolas,oficial,Popular,Tercero,matemáticas,6
+inst educ san nicolas,oficial,Popular,Tercero,lenguaje,6
+inst educ san nicolas,oficial,Popular,Quinto,matemáticas,6
+inst educ san nicolas,oficial,Popular,Noveno,lenguaje,6
+inst educ blanquizal,oficial,San Javier,Tercero,matemáticas,6
+inst educ blanquizal,oficial,San Javier,Quinto,lenguaje,6
+inst educ blanquizal,oficial,San Javier,Noveno,lenguaje,6
+inst educ blanquizal,oficial,San Javier,Noveno,matemáticas,6
+inst educ blanquizal,oficial,San Javier,Quinto,matemáticas,6
+inst educ blanquizal,oficial,San Javier,Tercero,lenguaje,6
+inst educ fundadores,oficial,San Javier,Tercero,lenguaje,6
+inst educ fundadores,oficial,San Javier,Tercero,matemáticas,6
+inst educ fundadores,oficial,San Javier,Noveno,matemáticas,6
+inst educ fundadores,oficial,San Javier,Quinto,lenguaje,6
+inst educ fundadores,oficial,San Javier,Quinto,matemáticas,6
+inst educ fundadores,oficial,San Javier,Noveno,lenguaje,6
+inst educ vida y paz,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ vida y paz,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ vida y paz,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ vida y paz,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ vida y paz,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ vida y paz,oficial,Doce de Octubre,Tercero,lenguaje,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Noveno,matemáticas,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Tercero,matemáticas,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Quinto,matemáticas,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Quinto,lenguaje,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Tercero,lenguaje,6
+lic rodrigo arenas betancur en administracion (ac),oficial,Robledo,Noveno,lenguaje,6
+c.e. media luna,oficial,Santa Elena,Quinto,lenguaje,4
+c.e. media luna,oficial,Santa Elena,Quinto,matemáticas,4
+c.e. media luna,oficial,Santa Elena,Tercero,lenguaje,4
+c.e. media luna,oficial,Santa Elena,Tercero,matemáticas,4
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ monseñor victor wiedemann,oficial,San Antonio de Prado,Noveno,lenguaje,6
+cent educ la aldea,oficial,San Sebastián de Palmitas,Tercero,lenguaje,4
+cent educ la aldea,oficial,San Sebastián de Palmitas,Quinto,matemáticas,4
+cent educ la aldea,oficial,San Sebastián de Palmitas,Tercero,matemáticas,4
+cent educ la aldea,oficial,San Sebastián de Palmitas,Quinto,lenguaje,4
+inst educ carlos alberto calderon,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ carlos alberto calderon,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ carlos alberto calderon,oficial,San Cristóbal,Tercero,lenguaje,6
+inst educ carlos alberto calderon,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ carlos alberto calderon,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ carlos alberto calderon,oficial,San Cristóbal,Tercero,matemáticas,6
+cent educ el salado,oficial,San Antonio de Prado,Tercero,matemáticas,4
+cent educ el salado,oficial,San Antonio de Prado,Tercero,lenguaje,4
+cent educ el salado,oficial,San Antonio de Prado,Quinto,lenguaje,4
+cent educ el salado,oficial,San Antonio de Prado,Quinto,matemáticas,4
+cent educ juan andres patino,oficial,Santa Elena,Tercero,lenguaje,4
+cent educ juan andres patino,oficial,Santa Elena,Quinto,matemáticas,4
+cent educ juan andres patino,oficial,Santa Elena,Tercero,matemáticas,4
+cent educ juan andres patino,oficial,Santa Elena,Quinto,lenguaje,4
+cent educ permanente mazo,oficial,Santa Elena,Tercero,matemáticas,4
+cent educ permanente mazo,oficial,Santa Elena,Tercero,lenguaje,4
+cent educ permanente mazo,oficial,Santa Elena,Quinto,matemáticas,4
+cent educ permanente mazo,oficial,Santa Elena,Quinto,lenguaje,4
+inst educ  san cristobal,oficial,San Cristóbal,Tercero,lenguaje,6
+inst educ  san cristobal,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ  san cristobal,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ  san cristobal,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ  san cristobal,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ  san cristobal,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ marina orth,oficial,Altavista,Noveno,matemáticas,6
+inst educ marina orth,oficial,Altavista,Tercero,lenguaje,6
+inst educ marina orth,oficial,Altavista,Noveno,lenguaje,6
+inst educ marina orth,oficial,Altavista,Tercero,matemáticas,6
+inst educ marina orth,oficial,Altavista,Quinto,lenguaje,6
+inst educ marina orth,oficial,Altavista,Quinto,matemáticas,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Quinto,matemáticas,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Noveno,lenguaje,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Tercero,lenguaje,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Tercero,matemáticas,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Noveno,matemáticas,6
+inst educ hector rogelio montoya,oficial,San Sebastián de Palmitas,Quinto,lenguaje,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ manuel j. betancur,oficial,San Antonio de Prado,Quinto,lenguaje,6
+cent educ el manzanillo,oficial,Altavista,Tercero,lenguaje,4
+cent educ el manzanillo,oficial,Altavista,Quinto,lenguaje,4
+cent educ el manzanillo,oficial,Altavista,Tercero,matemáticas,4
+cent educ el manzanillo,oficial,Altavista,Quinto,matemáticas,4
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Noveno,lenguaje,6
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Noveno,matemáticas,6
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Quinto,lenguaje,6
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Tercero,lenguaje,6
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Quinto,matemáticas,6
+i.e. presbitero juan j. escobar,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Noveno,lenguaje,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Tercero,matemáticas,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Quinto,lenguaje,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Quinto,matemáticas,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Tercero,lenguaje,6
+inst educ alfonso upegui orozco,oficial,San Cristóbal,Noveno,matemáticas,6
+inst educ santa elena,oficial,Santa Elena,Noveno,lenguaje,6
+inst educ santa elena,oficial,Santa Elena,Tercero,matemáticas,6
+inst educ santa elena,oficial,Santa Elena,Tercero,lenguaje,6
+inst educ santa elena,oficial,Santa Elena,Noveno,matemáticas,6
+inst educ santa elena,oficial,Santa Elena,Quinto,matemáticas,6
+inst educ santa elena,oficial,Santa Elena,Quinto,lenguaje,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ san antonio de prado,oficial,San Antonio de Prado,Quinto,matemáticas,6
+cent educ las playas,oficial,San Cristóbal,Tercero,matemáticas,4
+cent educ las playas,oficial,San Cristóbal,Quinto,matemáticas,4
+cent educ las playas,oficial,San Cristóbal,Tercero,lenguaje,4
+cent educ las playas,oficial,San Cristóbal,Quinto,lenguaje,4
+inst educ el limonar,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ el limonar,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ el limonar,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ el limonar,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ el limonar,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ el limonar,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ san jose obrero,oficial,San Antonio de Prado,Noveno,matemáticas,6
+cent educ travesias el morro,oficial,San Cristóbal,Tercero,lenguaje,4
+cent educ travesias el morro,oficial,San Cristóbal,Quinto,matemáticas,4
+cent educ travesias el morro,oficial,San Cristóbal,Quinto,lenguaje,4
+cent educ travesias el morro,oficial,San Cristóbal,Tercero,matemáticas,4
+cent educ pedregal alto,oficial,San Cristóbal,Tercero,lenguaje,4
+cent educ pedregal alto,oficial,San Cristóbal,Tercero,matemáticas,4
+cent educ pedregal alto,oficial,San Cristóbal,Quinto,matemáticas,4
+cent educ pedregal alto,oficial,San Cristóbal,Quinto,lenguaje,4
+inst educ compartir,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ compartir,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ compartir,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ compartir,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ compartir,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ compartir,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ corvide,oficial,San Antonio de Prado,Tercero,lenguaje,6
+inst educ corvide,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ corvide,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ corvide,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ corvide,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ corvide,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ pradito,oficial,San Antonio de Prado,Quinto,matemáticas,6
+inst educ pradito,oficial,San Antonio de Prado,Tercero,matemáticas,6
+inst educ pradito,oficial,San Antonio de Prado,Quinto,lenguaje,6
+inst educ pradito,oficial,San Antonio de Prado,Noveno,matemáticas,6
+inst educ pradito,oficial,San Antonio de Prado,Noveno,lenguaje,6
+inst educ pradito,oficial,San Antonio de Prado,Tercero,lenguaje,6
+cent educ sagrado nino,privado,Buenos Aires,Tercero,matemáticas,4
+cent educ sagrado nino,privado,Buenos Aires,Quinto,lenguaje,4
+cent educ sagrado nino,privado,Buenos Aires,Tercero,lenguaje,4
+cent educ sagrado nino,privado,Buenos Aires,Quinto,matemáticas,4
+el nuevo col the new school,privado,El Poblado,Tercero,lenguaje,6
+el nuevo col the new school,privado,El Poblado,Quinto,lenguaje,6
+el nuevo col the new school,privado,El Poblado,Noveno,lenguaje,6
+el nuevo col the new school,privado,El Poblado,Tercero,matemáticas,6
+el nuevo col the new school,privado,El Poblado,Quinto,matemáticas,6
+el nuevo col the new school,privado,El Poblado,Noveno,matemáticas,6
+i.e. prados verdes,privado,La Candelaria,Noveno,matemáticas,6
+i.e. prados verdes,privado,La Candelaria,Quinto,lenguaje,6
+i.e. prados verdes,privado,La Candelaria,Noveno,lenguaje,6
+i.e. prados verdes,privado,La Candelaria,Tercero,lenguaje,6
+i.e. prados verdes,privado,La Candelaria,Quinto,matemáticas,6
+i.e. prados verdes,privado,La Candelaria,Tercero,matemáticas,6
+col de maria,privado,Aranjuez,Tercero,matemáticas,6
+col de maria,privado,Aranjuez,Tercero,lenguaje,6
+col de maria,privado,Aranjuez,Noveno,lenguaje,6
+col de maria,privado,Aranjuez,Quinto,matemáticas,6
+col de maria,privado,Aranjuez,Noveno,matemáticas,6
+col de maria,privado,Aranjuez,Quinto,lenguaje,6
+col calasanz femenino,privado,Laureles - Estadio,Tercero,matemáticas,6
+col calasanz femenino,privado,Laureles - Estadio,Quinto,lenguaje,6
+col calasanz femenino,privado,Laureles - Estadio,Quinto,matemáticas,6
+col calasanz femenino,privado,Laureles - Estadio,Tercero,lenguaje,6
+col calasanz femenino,privado,Laureles - Estadio,Noveno,matemáticas,6
+col calasanz femenino,privado,Laureles - Estadio,Noveno,lenguaje,6
+col santa clara de asis,privado,La América,Quinto,matemáticas,6
+col santa clara de asis,privado,La América,Tercero,lenguaje,6
+col santa clara de asis,privado,La América,Noveno,lenguaje,6
+col santa clara de asis,privado,La América,Quinto,lenguaje,6
+col santa clara de asis,privado,La América,Tercero,matemáticas,6
+col santa clara de asis,privado,La América,Noveno,matemáticas,6
+inst colombo venezolano,privado,La América,Quinto,lenguaje,6
+inst colombo venezolano,privado,La América,Tercero,matemáticas,6
+inst colombo venezolano,privado,La América,Noveno,matemáticas,6
+inst colombo venezolano,privado,La América,Noveno,lenguaje,6
+inst colombo venezolano,privado,La América,Tercero,lenguaje,6
+inst colombo venezolano,privado,La América,Quinto,matemáticas,6
+colegio san jose de la salle,privado,El Poblado,Noveno,matemáticas,6
+colegio san jose de la salle,privado,El Poblado,Tercero,matemáticas,6
+colegio san jose de la salle,privado,El Poblado,Noveno,lenguaje,6
+colegio san jose de la salle,privado,El Poblado,Quinto,matemáticas,6
+colegio san jose de la salle,privado,El Poblado,Tercero,lenguaje,6
+colegio san jose de la salle,privado,El Poblado,Quinto,lenguaje,6
+inst pedag claret,privado,Aranjuez,Quinto,lenguaje,6
+inst pedag claret,privado,Aranjuez,Tercero,lenguaje,6
+inst pedag claret,privado,Aranjuez,Quinto,matemáticas,6
+inst pedag claret,privado,Aranjuez,Noveno,lenguaje,6
+inst pedag claret,privado,Aranjuez,Noveno,matemáticas,6
+inst pedag claret,privado,Aranjuez,Tercero,matemáticas,6
+lic san rafael,privado,Belén,Noveno,lenguaje,6
+lic san rafael,privado,Belén,Quinto,matemáticas,6
+lic san rafael,privado,Belén,Noveno,matemáticas,6
+lic san rafael,privado,Belén,Tercero,matemáticas,6
+lic san rafael,privado,Belén,Tercero,lenguaje,6
+lic san rafael,privado,Belén,Quinto,lenguaje,6
+inst san carlos,privado,Belén,Noveno,lenguaje,6
+inst san carlos,privado,Belén,Quinto,matemáticas,6
+inst san carlos,privado,Belén,Tercero,matemáticas,6
+inst san carlos,privado,Belén,Quinto,lenguaje,6
+inst san carlos,privado,Belén,Noveno,matemáticas,6
+inst san carlos,privado,Belén,Tercero,lenguaje,6
+col marymount,privado,El Poblado,Noveno,lenguaje,6
+col marymount,privado,El Poblado,Tercero,lenguaje,6
+col marymount,privado,El Poblado,Tercero,matemáticas,6
+col marymount,privado,El Poblado,Noveno,matemáticas,6
+col marymount,privado,El Poblado,Quinto,matemáticas,6
+col marymount,privado,El Poblado,Quinto,lenguaje,6
+col milit jose maria cordoba,privado,La Candelaria,Tercero,lenguaje,6
+col milit jose maria cordoba,privado,La Candelaria,Noveno,matemáticas,6
+col milit jose maria cordoba,privado,La Candelaria,Noveno,lenguaje,6
+col milit jose maria cordoba,privado,La Candelaria,Quinto,lenguaje,6
+col milit jose maria cordoba,privado,La Candelaria,Tercero,matemáticas,6
+col milit jose maria cordoba,privado,La Candelaria,Quinto,matemáticas,6
+inst salesiano pedro justo berrio,privado,Belén,Tercero,matemáticas,6
+inst salesiano pedro justo berrio,privado,Belén,Quinto,lenguaje,6
+inst salesiano pedro justo berrio,privado,Belén,Quinto,matemáticas,6
+inst salesiano pedro justo berrio,privado,Belén,Tercero,lenguaje,6
+inst salesiano pedro justo berrio,privado,Belén,Noveno,matemáticas,6
+inst salesiano pedro justo berrio,privado,Belén,Noveno,lenguaje,6
+inst antioquia,privado,La Candelaria,Noveno,matemáticas,6
+inst antioquia,privado,La Candelaria,Tercero,matemáticas,6
+inst antioquia,privado,La Candelaria,Quinto,matemáticas,6
+inst antioquia,privado,La Candelaria,Tercero,lenguaje,6
+inst antioquia,privado,La Candelaria,Noveno,lenguaje,6
+inst antioquia,privado,La Candelaria,Quinto,lenguaje,6
+cent educal conquistadores,privado,Altavista,Tercero,lenguaje,6
+cent educal conquistadores,privado,Altavista,Quinto,matemáticas,6
+cent educal conquistadores,privado,Altavista,Noveno,matemáticas,6
+cent educal conquistadores,privado,Altavista,Noveno,lenguaje,6
+cent educal conquistadores,privado,Altavista,Quinto,lenguaje,6
+cent educal conquistadores,privado,Altavista,Tercero,matemáticas,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Quinto,lenguaje,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Tercero,lenguaje,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Noveno,matemáticas,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Quinto,matemáticas,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Noveno,lenguaje,6
+comunidad colegio jesus maria,privado,Laureles - Estadio,Tercero,matemáticas,6
+lic salazar y herrera,privado,La América,Noveno,matemáticas,6
+lic salazar y herrera,privado,La América,Tercero,lenguaje,6
+lic salazar y herrera,privado,La América,Noveno,lenguaje,6
+lic salazar y herrera,privado,La América,Tercero,matemáticas,6
+lic salazar y herrera,privado,La América,Quinto,lenguaje,6
+lic salazar y herrera,privado,La América,Quinto,matemáticas,6
+col de la presentacion - medellin,privado,La América,Noveno,lenguaje,6
+col de la presentacion - medellin,privado,La América,Quinto,matemáticas,6
+col de la presentacion - medellin,privado,La América,Noveno,matemáticas,6
+col de la presentacion - medellin,privado,La América,Quinto,lenguaje,6
+col de la presentacion - medellin,privado,La América,Tercero,lenguaje,6
+col de la presentacion - medellin,privado,La América,Tercero,matemáticas,6
+col calasanz,privado,La América,Tercero,matemáticas,6
+col calasanz,privado,La América,Tercero,lenguaje,6
+col calasanz,privado,La América,Noveno,lenguaje,6
+col calasanz,privado,La América,Noveno,matemáticas,6
+col calasanz,privado,La América,Quinto,matemáticas,6
+col calasanz,privado,La América,Quinto,lenguaje,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Noveno,lenguaje,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Tercero,lenguaje,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Quinto,lenguaje,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Tercero,matemáticas,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Quinto,matemáticas,6
+col nuestra senora de lourdes,contratacion,Aranjuez,Noveno,matemáticas,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Quinto,lenguaje,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Noveno,matemáticas,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Noveno,lenguaje,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Tercero,lenguaje,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Tercero,matemáticas,6
+colegio de la universidad pontificia bolivariana,privado,Laureles - Estadio,Quinto,matemáticas,6
+col santa maria del rosario,privado,El Poblado,Quinto,matemáticas,6
+col santa maria del rosario,privado,El Poblado,Tercero,lenguaje,6
+col santa maria del rosario,privado,El Poblado,Tercero,matemáticas,6
+col santa maria del rosario,privado,El Poblado,Quinto,lenguaje,6
+col santa maria del rosario,privado,El Poblado,Noveno,lenguaje,6
+col santa maria del rosario,privado,El Poblado,Noveno,matemáticas,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Noveno,lenguaje,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Quinto,matemáticas,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Tercero,matemáticas,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Noveno,matemáticas,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Quinto,lenguaje,6
+col eucaristico de la milagrosa,privado,Buenos Aires,Tercero,lenguaje,6
+col salesiano el sufragio,privado,La Candelaria,Noveno,lenguaje,6
+col salesiano el sufragio,privado,La Candelaria,Quinto,lenguaje,6
+col salesiano el sufragio,privado,La Candelaria,Tercero,lenguaje,6
+col salesiano el sufragio,privado,La Candelaria,Noveno,matemáticas,6
+col salesiano el sufragio,privado,La Candelaria,Quinto,matemáticas,6
+col salesiano el sufragio,privado,La Candelaria,Tercero,matemáticas,6
+col san ignacio de loyola,privado,Laureles - Estadio,Noveno,lenguaje,6
+col san ignacio de loyola,privado,Laureles - Estadio,Tercero,lenguaje,6
+col san ignacio de loyola,privado,Laureles - Estadio,Quinto,matemáticas,6
+col san ignacio de loyola,privado,Laureles - Estadio,Quinto,lenguaje,6
+col san ignacio de loyola,privado,Laureles - Estadio,Tercero,matemáticas,6
+col san ignacio de loyola,privado,Laureles - Estadio,Noveno,matemáticas,6
+col sagrados corazones,privado,Robledo,Quinto,matemáticas,6
+col sagrados corazones,privado,Robledo,Tercero,matemáticas,6
+col sagrados corazones,privado,Robledo,Noveno,lenguaje,6
+col sagrados corazones,privado,Robledo,Noveno,matemáticas,6
+col sagrados corazones,privado,Robledo,Tercero,lenguaje,6
+col sagrados corazones,privado,Robledo,Quinto,lenguaje,6
+col maria reina del carmelo,contratacion,Manrique,Quinto,matemáticas,6
+col maria reina del carmelo,contratacion,Manrique,Tercero,lenguaje,6
+col maria reina del carmelo,contratacion,Manrique,Noveno,matemáticas,6
+col maria reina del carmelo,contratacion,Manrique,Noveno,lenguaje,6
+col maria reina del carmelo,contratacion,Manrique,Quinto,lenguaje,6
+col maria reina del carmelo,contratacion,Manrique,Tercero,matemáticas,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Quinto,matemáticas,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Noveno,matemáticas,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Tercero,lenguaje,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Noveno,lenguaje,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Tercero,matemáticas,6
+inst tomas carrasquilla,contratacion,Buenos Aires,Quinto,lenguaje,6
+col palermo de san jose,privado,El Poblado,Noveno,matemáticas,6
+col palermo de san jose,privado,El Poblado,Quinto,matemáticas,6
+col palermo de san jose,privado,El Poblado,Tercero,lenguaje,6
+col palermo de san jose,privado,El Poblado,Quinto,lenguaje,6
+col palermo de san jose,privado,El Poblado,Noveno,lenguaje,6
+col palermo de san jose,privado,El Poblado,Tercero,matemáticas,6
+inst jorge robledo,privado,Laureles - Estadio,Tercero,lenguaje,6
+inst jorge robledo,privado,Laureles - Estadio,Noveno,matemáticas,6
+inst jorge robledo,privado,Laureles - Estadio,Quinto,lenguaje,6
+inst jorge robledo,privado,Laureles - Estadio,Noveno,lenguaje,6
+inst jorge robledo,privado,Laureles - Estadio,Tercero,matemáticas,6
+inst jorge robledo,privado,Laureles - Estadio,Quinto,matemáticas,6
+col gimn los pinares,privado,El Poblado,Quinto,lenguaje,6
+col gimn los pinares,privado,El Poblado,Quinto,matemáticas,6
+col gimn los pinares,privado,El Poblado,Noveno,matemáticas,6
+col gimn los pinares,privado,El Poblado,Noveno,lenguaje,6
+col gimn los pinares,privado,El Poblado,Tercero,matemáticas,6
+col gimn los pinares,privado,El Poblado,Tercero,lenguaje,6
+col ateneo horizontes,privado,La América,Tercero,lenguaje,6
+col ateneo horizontes,privado,La América,Quinto,lenguaje,6
+col ateneo horizontes,privado,La América,Noveno,matemáticas,6
+col ateneo horizontes,privado,La América,Tercero,matemáticas,6
+col ateneo horizontes,privado,La América,Quinto,matemáticas,6
+col ateneo horizontes,privado,La América,Noveno,lenguaje,6
+col divino salvador,privado,Buenos Aires,Tercero,matemáticas,6
+col divino salvador,privado,Buenos Aires,Quinto,lenguaje,6
+col divino salvador,privado,Buenos Aires,Noveno,matemáticas,6
+col divino salvador,privado,Buenos Aires,Quinto,matemáticas,6
+col divino salvador,privado,Buenos Aires,Tercero,lenguaje,6
+col divino salvador,privado,Buenos Aires,Noveno,lenguaje,6
+col agustiniano de san nicolas,privado,Aranjuez,Noveno,lenguaje,6
+col agustiniano de san nicolas,privado,Aranjuez,Tercero,matemáticas,6
+col agustiniano de san nicolas,privado,Aranjuez,Tercero,lenguaje,6
+col agustiniano de san nicolas,privado,Aranjuez,Quinto,matemáticas,6
+col agustiniano de san nicolas,privado,Aranjuez,Noveno,matemáticas,6
+col agustiniano de san nicolas,privado,Aranjuez,Quinto,lenguaje,6
+inst educ alvernia,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ alvernia,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ alvernia,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ alvernia,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ alvernia,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ alvernia,oficial,Aranjuez,Noveno,matemáticas,6
+col pablo vi,contratacion,Manrique,Noveno,matemáticas,6
+col pablo vi,contratacion,Manrique,Tercero,matemáticas,6
+col pablo vi,contratacion,Manrique,Quinto,matemáticas,6
+col pablo vi,contratacion,Manrique,Tercero,lenguaje,6
+col pablo vi,contratacion,Manrique,Noveno,lenguaje,6
+col pablo vi,contratacion,Manrique,Quinto,lenguaje,6
+col san juan bosco,privado,Belén,Quinto,matemáticas,6
+col san juan bosco,privado,Belén,Quinto,lenguaje,6
+col san juan bosco,privado,Belén,Noveno,lenguaje,6
+col san juan bosco,privado,Belén,Tercero,matemáticas,6
+col san juan bosco,privado,Belén,Tercero,lenguaje,6
+col san juan bosco,privado,Belén,Noveno,matemáticas,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Noveno,lenguaje,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Quinto,lenguaje,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Noveno,matemáticas,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Tercero,matemáticas,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Quinto,matemáticas,6
+col nuestra senora del rosario de chiquinquira,privado,Buenos Aires,Tercero,lenguaje,6
+col de la inmaculada,privado,Belén,Quinto,lenguaje,6
+col de la inmaculada,privado,Belén,Tercero,matemáticas,6
+col de la inmaculada,privado,Belén,Noveno,matemáticas,6
+col de la inmaculada,privado,Belén,Tercero,lenguaje,6
+col de la inmaculada,privado,Belén,Noveno,lenguaje,6
+col de la inmaculada,privado,Belén,Quinto,matemáticas,6
+col santa teresita,privado,La América,Noveno,lenguaje,6
+col santa teresita,privado,La América,Quinto,matemáticas,6
+col santa teresita,privado,La América,Tercero,matemáticas,6
+col santa teresita,privado,La América,Tercero,lenguaje,6
+col santa teresita,privado,La América,Noveno,matemáticas,6
+col santa teresita,privado,La América,Quinto,lenguaje,6
+col san jose de las vegas,privado,El Poblado,Noveno,lenguaje,6
+col san jose de las vegas,privado,El Poblado,Tercero,lenguaje,6
+col san jose de las vegas,privado,El Poblado,Quinto,matemáticas,6
+col san jose de las vegas,privado,El Poblado,Noveno,matemáticas,6
+col san jose de las vegas,privado,El Poblado,Tercero,matemáticas,6
+col san jose de las vegas,privado,El Poblado,Quinto,lenguaje,6
+col la anunciacion,privado,Buenos Aires,Tercero,matemáticas,6
+col la anunciacion,privado,Buenos Aires,Tercero,lenguaje,6
+col la anunciacion,privado,Buenos Aires,Noveno,lenguaje,6
+col la anunciacion,privado,Buenos Aires,Noveno,matemáticas,6
+col la anunciacion,privado,Buenos Aires,Quinto,lenguaje,6
+col la anunciacion,privado,Buenos Aires,Quinto,matemáticas,6
+col madre antonia cerini,privado,El Poblado,Noveno,matemáticas,6
+col madre antonia cerini,privado,El Poblado,Quinto,matemáticas,6
+col madre antonia cerini,privado,El Poblado,Noveno,lenguaje,6
+col madre antonia cerini,privado,El Poblado,Tercero,lenguaje,6
+col madre antonia cerini,privado,El Poblado,Tercero,matemáticas,6
+col madre antonia cerini,privado,El Poblado,Quinto,lenguaje,6
+esc normal superior antioqueña,privado,Buenos Aires,Noveno,lenguaje,6
+esc normal superior antioqueña,privado,Buenos Aires,Quinto,lenguaje,6
+esc normal superior antioqueña,privado,Buenos Aires,Tercero,lenguaje,6
+esc normal superior antioqueña,privado,Buenos Aires,Quinto,matemáticas,6
+esc normal superior antioqueña,privado,Buenos Aires,Tercero,matemáticas,6
+esc normal superior antioqueña,privado,Buenos Aires,Noveno,matemáticas,6
+col bethlemitas,privado,Laureles - Estadio,Quinto,lenguaje,6
+col bethlemitas,privado,Laureles - Estadio,Noveno,matemáticas,6
+col bethlemitas,privado,Laureles - Estadio,Tercero,lenguaje,6
+col bethlemitas,privado,Laureles - Estadio,Tercero,matemáticas,6
+col bethlemitas,privado,Laureles - Estadio,Noveno,lenguaje,6
+col bethlemitas,privado,Laureles - Estadio,Quinto,matemáticas,6
+sem menor de la arquidiocesis de medellin,privado,Buenos Aires,Noveno,lenguaje,2
+sem menor de la arquidiocesis de medellin,privado,Buenos Aires,Noveno,matemáticas,2
+col maria auxiliadora,privado,La Candelaria,Tercero,matemáticas,6
+col maria auxiliadora,privado,La Candelaria,Noveno,lenguaje,6
+col maria auxiliadora,privado,La Candelaria,Noveno,matemáticas,6
+col maria auxiliadora,privado,La Candelaria,Tercero,lenguaje,6
+col maria auxiliadora,privado,La Candelaria,Quinto,lenguaje,6
+col maria auxiliadora,privado,La Candelaria,Quinto,matemáticas,6
+col teresiano nstra sra de la candelaria,privado,La América,Tercero,matemáticas,6
+col teresiano nstra sra de la candelaria,privado,La América,Quinto,matemáticas,6
+col teresiano nstra sra de la candelaria,privado,La América,Noveno,matemáticas,6
+col teresiano nstra sra de la candelaria,privado,La América,Tercero,lenguaje,6
+col teresiano nstra sra de la candelaria,privado,La América,Noveno,lenguaje,6
+col teresiano nstra sra de la candelaria,privado,La América,Quinto,lenguaje,6
+col latino,contratacion,El Poblado,Tercero,lenguaje,6
+col latino,contratacion,El Poblado,Noveno,lenguaje,6
+col latino,contratacion,El Poblado,Quinto,lenguaje,6
+col latino,contratacion,El Poblado,Noveno,matemáticas,6
+col latino,contratacion,El Poblado,Tercero,matemáticas,6
+col latino,contratacion,El Poblado,Quinto,matemáticas,6
+col nuestra madre de las mercedes,privado,San Javier,Noveno,lenguaje,6
+col nuestra madre de las mercedes,privado,San Javier,Noveno,matemáticas,6
+col nuestra madre de las mercedes,privado,San Javier,Quinto,matemáticas,6
+col nuestra madre de las mercedes,privado,San Javier,Tercero,matemáticas,6
+col nuestra madre de las mercedes,privado,San Javier,Quinto,lenguaje,6
+col nuestra madre de las mercedes,privado,San Javier,Tercero,lenguaje,6
+col corazonista,privado,La América,Quinto,matemáticas,6
+col corazonista,privado,La América,Noveno,matemáticas,6
+col corazonista,privado,La América,Noveno,lenguaje,6
+col corazonista,privado,La América,Tercero,lenguaje,6
+col corazonista,privado,La América,Quinto,lenguaje,6
+col corazonista,privado,La América,Tercero,matemáticas,6
+col barbara micarelli,privado,Robledo,Quinto,lenguaje,6
+col barbara micarelli,privado,Robledo,Noveno,lenguaje,6
+col barbara micarelli,privado,Robledo,Tercero,lenguaje,6
+col barbara micarelli,privado,Robledo,Tercero,matemáticas,6
+col barbara micarelli,privado,Robledo,Noveno,matemáticas,6
+col barbara micarelli,privado,Robledo,Quinto,matemáticas,6
+col el hogar de su niño,contratacion,San Javier,Noveno,matemáticas,6
+col el hogar de su niño,contratacion,San Javier,Quinto,lenguaje,6
+col el hogar de su niño,contratacion,San Javier,Tercero,matemáticas,6
+col el hogar de su niño,contratacion,San Javier,Tercero,lenguaje,6
+col el hogar de su niño,contratacion,San Javier,Quinto,matemáticas,6
+col el hogar de su niño,contratacion,San Javier,Noveno,lenguaje,6
+col emilia riquelme,privado,Aranjuez,Quinto,matemáticas,6
+col emilia riquelme,privado,Aranjuez,Noveno,lenguaje,6
+col emilia riquelme,privado,Aranjuez,Tercero,matemáticas,6
+col emilia riquelme,privado,Aranjuez,Quinto,lenguaje,6
+col emilia riquelme,privado,Aranjuez,Tercero,lenguaje,6
+col emilia riquelme,privado,Aranjuez,Noveno,matemáticas,6
+gimn los cedros,privado,El Poblado,Noveno,matemáticas,6
+gimn los cedros,privado,El Poblado,Noveno,lenguaje,6
+gimn los cedros,privado,El Poblado,Tercero,matemáticas,6
+gimn los cedros,privado,El Poblado,Quinto,lenguaje,6
+gimn los cedros,privado,El Poblado,Quinto,matemáticas,6
+gimn los cedros,privado,El Poblado,Tercero,lenguaje,6
+esc popular eucaristica zoraida trujillo,privado,Doce de Octubre,Tercero,lenguaje,4
+esc popular eucaristica zoraida trujillo,privado,Doce de Octubre,Tercero,matemáticas,4
+esc popular eucaristica zoraida trujillo,privado,Doce de Octubre,Quinto,lenguaje,4
+esc popular eucaristica zoraida trujillo,privado,Doce de Octubre,Quinto,matemáticas,4
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Noveno,matemáticas,6
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Quinto,matemáticas,6
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Noveno,lenguaje,6
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Tercero,lenguaje,6
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Quinto,lenguaje,6
+esc popular eucaristica camilo c. restrepo,privado,Guayabal,Tercero,matemáticas,6
+col de la compania de maria,privado,El Poblado,Quinto,lenguaje,6
+col de la compania de maria,privado,El Poblado,Noveno,matemáticas,6
+col de la compania de maria,privado,El Poblado,Noveno,lenguaje,6
+col de la compania de maria,privado,El Poblado,Tercero,lenguaje,6
+col de la compania de maria,privado,El Poblado,Quinto,matemáticas,6
+col de la compania de maria,privado,El Poblado,Tercero,matemáticas,6
+inst musical diego echavarria,privado,El Poblado,Noveno,lenguaje,6
+inst musical diego echavarria,privado,El Poblado,Tercero,lenguaje,6
+inst musical diego echavarria,privado,El Poblado,Noveno,matemáticas,6
+inst musical diego echavarria,privado,El Poblado,Quinto,matemáticas,6
+inst musical diego echavarria,privado,El Poblado,Quinto,lenguaje,6
+inst musical diego echavarria,privado,El Poblado,Tercero,matemáticas,6
+col san francisco javier,privado,Belén,Tercero,lenguaje,6
+col san francisco javier,privado,Belén,Quinto,matemáticas,6
+col san francisco javier,privado,Belén,Quinto,lenguaje,6
+col san francisco javier,privado,Belén,Noveno,matemáticas,6
+col san francisco javier,privado,Belén,Tercero,matemáticas,6
+col san francisco javier,privado,Belén,Noveno,lenguaje,6
+col campestre la colina,privado,El Poblado,Noveno,lenguaje,6
+col campestre la colina,privado,El Poblado,Noveno,matemáticas,6
+col campestre la colina,privado,El Poblado,Quinto,lenguaje,6
+col campestre la colina,privado,El Poblado,Quinto,matemáticas,6
+col campestre la colina,privado,El Poblado,Tercero,matemáticas,6
+col campestre la colina,privado,El Poblado,Tercero,lenguaje,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Quinto,matemáticas,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ santa juana de lestonac,oficial,Doce de Octubre,Noveno,matemáticas,6
+col nuestra senora de la providencia,privado,El Poblado,Tercero,matemáticas,6
+col nuestra senora de la providencia,privado,El Poblado,Noveno,matemáticas,6
+col nuestra senora de la providencia,privado,El Poblado,Tercero,lenguaje,6
+col nuestra senora de la providencia,privado,El Poblado,Quinto,matemáticas,6
+col nuestra senora de la providencia,privado,El Poblado,Quinto,lenguaje,6
+col nuestra senora de la providencia,privado,El Poblado,Noveno,lenguaje,6
+i.e. guadalupano la salle,privado,Buenos Aires,Tercero,lenguaje,6
+i.e. guadalupano la salle,privado,Buenos Aires,Noveno,lenguaje,6
+i.e. guadalupano la salle,privado,Buenos Aires,Tercero,matemáticas,6
+i.e. guadalupano la salle,privado,Buenos Aires,Noveno,matemáticas,6
+i.e. guadalupano la salle,privado,Buenos Aires,Quinto,matemáticas,6
+i.e. guadalupano la salle,privado,Buenos Aires,Quinto,lenguaje,6
+col adventista simon bolivar,privado,Aranjuez,Quinto,matemáticas,6
+col adventista simon bolivar,privado,Aranjuez,Noveno,lenguaje,6
+col adventista simon bolivar,privado,Aranjuez,Noveno,matemáticas,6
+col adventista simon bolivar,privado,Aranjuez,Quinto,lenguaje,6
+col adventista simon bolivar,privado,Aranjuez,Tercero,matemáticas,6
+col adventista simon bolivar,privado,Aranjuez,Tercero,lenguaje,6
+col montessori,privado,El Poblado,Noveno,lenguaje,6
+col montessori,privado,El Poblado,Noveno,matemáticas,6
+col montessori,privado,El Poblado,Tercero,matemáticas,6
+col montessori,privado,El Poblado,Quinto,lenguaje,6
+col montessori,privado,El Poblado,Tercero,lenguaje,6
+col montessori,privado,El Poblado,Quinto,matemáticas,6
+colegio santa bertilla boscardin,privado,Robledo,Noveno,lenguaje,6
+colegio santa bertilla boscardin,privado,Robledo,Quinto,matemáticas,6
+colegio santa bertilla boscardin,privado,Robledo,Quinto,lenguaje,6
+colegio santa bertilla boscardin,privado,Robledo,Tercero,lenguaje,6
+colegio santa bertilla boscardin,privado,Robledo,Tercero,matemáticas,6
+colegio santa bertilla boscardin,privado,Robledo,Noveno,matemáticas,6
+col san lucas,privado,El Poblado,Noveno,matemáticas,2
+col san lucas,privado,El Poblado,Noveno,lenguaje,2
+inst ferrini - sede robledo,contratacion,Robledo,Quinto,matemáticas,6
+inst ferrini - sede robledo,contratacion,Robledo,Noveno,lenguaje,6
+inst ferrini - sede robledo,contratacion,Robledo,Noveno,matemáticas,6
+inst ferrini - sede robledo,contratacion,Robledo,Tercero,lenguaje,6
+inst ferrini - sede robledo,contratacion,Robledo,Quinto,lenguaje,6
+inst ferrini - sede robledo,contratacion,Robledo,Tercero,matemáticas,6
+inst vicarial jesus maestro,privado,Manrique,Noveno,matemáticas,6
+inst vicarial jesus maestro,privado,Manrique,Tercero,matemáticas,6
+inst vicarial jesus maestro,privado,Manrique,Tercero,lenguaje,6
+inst vicarial jesus maestro,privado,Manrique,Quinto,lenguaje,6
+inst vicarial jesus maestro,privado,Manrique,Noveno,lenguaje,6
+inst vicarial jesus maestro,privado,Manrique,Quinto,matemáticas,6
+esc jose gregorio hernandez,privado,Castilla,Tercero,matemáticas,4
+esc jose gregorio hernandez,privado,Castilla,Tercero,lenguaje,4
+esc jose gregorio hernandez,privado,Castilla,Quinto,matemáticas,4
+esc jose gregorio hernandez,privado,Castilla,Quinto,lenguaje,4
+centro educativo mi dulce hogar,contratacion,Manrique,Quinto,matemáticas,4
+centro educativo mi dulce hogar,contratacion,Manrique,Tercero,lenguaje,4
+centro educativo mi dulce hogar,contratacion,Manrique,Tercero,matemáticas,4
+centro educativo mi dulce hogar,contratacion,Manrique,Quinto,lenguaje,4
+col san juan eudes,contratacion,Robledo,Tercero,matemáticas,6
+col san juan eudes,contratacion,Robledo,Noveno,matemáticas,6
+col san juan eudes,contratacion,Robledo,Quinto,lenguaje,6
+col san juan eudes,contratacion,Robledo,Tercero,lenguaje,6
+col san juan eudes,contratacion,Robledo,Quinto,matemáticas,6
+col san juan eudes,contratacion,Robledo,Noveno,lenguaje,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Tercero,lenguaje,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Noveno,lenguaje,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Quinto,matemáticas,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Noveno,matemáticas,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Tercero,matemáticas,6
+colegio vid obra de la congregacion mariana,privado,Robledo,Quinto,lenguaje,6
+col manzanares,privado,El Poblado,Quinto,lenguaje,6
+col manzanares,privado,El Poblado,Tercero,lenguaje,6
+col manzanares,privado,El Poblado,Quinto,matemáticas,6
+col manzanares,privado,El Poblado,Tercero,matemáticas,6
+col manzanares,privado,El Poblado,Noveno,lenguaje,6
+col manzanares,privado,El Poblado,Noveno,matemáticas,6
+col alfred binet,privado,Buenos Aires,Tercero,matemáticas,6
+col alfred binet,privado,Buenos Aires,Tercero,lenguaje,6
+col alfred binet,privado,Buenos Aires,Quinto,lenguaje,6
+col alfred binet,privado,Buenos Aires,Noveno,matemáticas,6
+col alfred binet,privado,Buenos Aires,Noveno,lenguaje,6
+col alfred binet,privado,Buenos Aires,Quinto,matemáticas,6
+col pestalozzi,privado,Belén,Noveno,lenguaje,6
+col pestalozzi,privado,Belén,Tercero,lenguaje,6
+col pestalozzi,privado,Belén,Noveno,matemáticas,6
+col pestalozzi,privado,Belén,Tercero,matemáticas,6
+col pestalozzi,privado,Belén,Quinto,matemáticas,6
+col pestalozzi,privado,Belén,Quinto,lenguaje,6
+inst parra paris,privado,La América,Noveno,matemáticas,2
+inst parra paris,privado,La América,Noveno,lenguaje,2
+col parroquial san judas tadeo,privado,Castilla,Quinto,matemáticas,6
+col parroquial san judas tadeo,privado,Castilla,Tercero,lenguaje,6
+col parroquial san judas tadeo,privado,Castilla,Noveno,lenguaje,6
+col parroquial san judas tadeo,privado,Castilla,Noveno,matemáticas,6
+col parroquial san judas tadeo,privado,Castilla,Quinto,lenguaje,6
+col parroquial san judas tadeo,privado,Castilla,Tercero,matemáticas,6
+col bautista de castilla,privado,Castilla,Tercero,matemáticas,6
+col bautista de castilla,privado,Castilla,Noveno,matemáticas,6
+col bautista de castilla,privado,Castilla,Quinto,matemáticas,6
+col bautista de castilla,privado,Castilla,Tercero,lenguaje,6
+col bautista de castilla,privado,Castilla,Noveno,lenguaje,6
+col bautista de castilla,privado,Castilla,Quinto,lenguaje,6
+col hispano,privado,Laureles - Estadio,Noveno,matemáticas,2
+col hispano,privado,Laureles - Estadio,Noveno,lenguaje,2
+inst educ la candelaria,oficial,Popular,Tercero,lenguaje,6
+inst educ la candelaria,oficial,Popular,Quinto,matemáticas,6
+inst educ la candelaria,oficial,Popular,Noveno,lenguaje,6
+inst educ la candelaria,oficial,Popular,Quinto,lenguaje,6
+inst educ la candelaria,oficial,Popular,Noveno,matemáticas,6
+inst educ la candelaria,oficial,Popular,Tercero,matemáticas,6
+inst educ maestro arenas betancur,oficial,Castilla,Tercero,lenguaje,6
+inst educ maestro arenas betancur,oficial,Castilla,Noveno,matemáticas,6
+inst educ maestro arenas betancur,oficial,Castilla,Quinto,lenguaje,6
+inst educ maestro arenas betancur,oficial,Castilla,Noveno,lenguaje,6
+inst educ maestro arenas betancur,oficial,Castilla,Tercero,matemáticas,6
+inst educ maestro arenas betancur,oficial,Castilla,Quinto,matemáticas,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Noveno,lenguaje,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Quinto,matemáticas,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Quinto,lenguaje,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Noveno,matemáticas,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Tercero,lenguaje,6
+col parroquial ntra señora del buen consejo,privado,Castilla,Tercero,matemáticas,6
+cent educ integ el pacto,privado,Doce de Octubre,Tercero,lenguaje,4
+cent educ integ el pacto,privado,Doce de Octubre,Tercero,matemáticas,4
+cent educ integ el pacto,privado,Doce de Octubre,Quinto,matemáticas,4
+cent educ integ el pacto,privado,Doce de Octubre,Quinto,lenguaje,4
+col madrid campestre,privado,Robledo,Tercero,lenguaje,6
+col madrid campestre,privado,Robledo,Tercero,matemáticas,6
+col madrid campestre,privado,Robledo,Noveno,lenguaje,6
+col madrid campestre,privado,Robledo,Quinto,lenguaje,6
+col madrid campestre,privado,Robledo,Noveno,matemáticas,6
+col madrid campestre,privado,Robledo,Quinto,matemáticas,6
+cent educ autonomo,privado,Castilla,Tercero,lenguaje,6
+cent educ autonomo,privado,Castilla,Quinto,matemáticas,6
+cent educ autonomo,privado,Castilla,Noveno,lenguaje,6
+cent educ autonomo,privado,Castilla,Noveno,matemáticas,6
+cent educ autonomo,privado,Castilla,Quinto,lenguaje,6
+cent educ autonomo,privado,Castilla,Tercero,matemáticas,6
+colegio euskadi,privado,El Poblado,Noveno,matemáticas,6
+colegio euskadi,privado,El Poblado,Quinto,matemáticas,6
+colegio euskadi,privado,El Poblado,Tercero,matemáticas,6
+colegio euskadi,privado,El Poblado,Tercero,lenguaje,6
+colegio euskadi,privado,El Poblado,Quinto,lenguaje,6
+colegio euskadi,privado,El Poblado,Noveno,lenguaje,6
+esc popular eucaristica arzobispo tulio botero salazar,privado,Buenos Aires,Quinto,matemáticas,4
+esc popular eucaristica arzobispo tulio botero salazar,privado,Buenos Aires,Quinto,lenguaje,4
+esc popular eucaristica arzobispo tulio botero salazar,privado,Buenos Aires,Tercero,lenguaje,4
+esc popular eucaristica arzobispo tulio botero salazar,privado,Buenos Aires,Tercero,matemáticas,4
+col guillermo taborda restrepo,privado,Robledo,Quinto,lenguaje,6
+col guillermo taborda restrepo,privado,Robledo,Quinto,matemáticas,6
+col guillermo taborda restrepo,privado,Robledo,Tercero,matemáticas,6
+col guillermo taborda restrepo,privado,Robledo,Tercero,lenguaje,6
+col guillermo taborda restrepo,privado,Robledo,Noveno,matemáticas,6
+col guillermo taborda restrepo,privado,Robledo,Noveno,lenguaje,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Quinto,lenguaje,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Tercero,matemáticas,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Noveno,matemáticas,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Tercero,lenguaje,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Noveno,lenguaje,6
+inst educ el triunfo santa teresa,oficial,Doce de Octubre,Quinto,matemáticas,6
+cent educ los nogales,privado,Robledo,Tercero,lenguaje,4
+cent educ los nogales,privado,Robledo,Quinto,matemáticas,4
+cent educ los nogales,privado,Robledo,Tercero,matemáticas,4
+cent educ los nogales,privado,Robledo,Quinto,lenguaje,4
+institucion educativa pedagogico integral,contratacion,Belén,Tercero,lenguaje,4
+institucion educativa pedagogico integral,contratacion,Belén,Noveno,lenguaje,4
+institucion educativa pedagogico integral,contratacion,Belén,Tercero,matemáticas,4
+institucion educativa pedagogico integral,contratacion,Belén,Noveno,matemáticas,4
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Quinto,matemáticas,6
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Tercero,lenguaje,6
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Tercero,matemáticas,6
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Noveno,lenguaje,6
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Noveno,matemáticas,6
+esc popular eucaristica julio c. hernandez,contratacion,Popular,Quinto,lenguaje,6
+cent educ casa mama margarita,contratacion,La Candelaria,Quinto,lenguaje,4
+cent educ casa mama margarita,contratacion,La Candelaria,Tercero,lenguaje,4
+cent educ casa mama margarita,contratacion,La Candelaria,Quinto,matemáticas,4
+cent educ casa mama margarita,contratacion,La Candelaria,Tercero,matemáticas,4
+col arenys del mar,contratacion,San Javier,Noveno,lenguaje,6
+col arenys del mar,contratacion,San Javier,Noveno,matemáticas,6
+col arenys del mar,contratacion,San Javier,Quinto,lenguaje,6
+col arenys del mar,contratacion,San Javier,Tercero,matemáticas,6
+col arenys del mar,contratacion,San Javier,Quinto,matemáticas,6
+col arenys del mar,contratacion,San Javier,Tercero,lenguaje,6
+col padre manyanet,privado,Belén,Tercero,lenguaje,6
+col padre manyanet,privado,Belén,Quinto,lenguaje,6
+col padre manyanet,privado,Belén,Tercero,matemáticas,6
+col padre manyanet,privado,Belén,Noveno,lenguaje,6
+col padre manyanet,privado,Belén,Noveno,matemáticas,6
+col padre manyanet,privado,Belén,Quinto,matemáticas,6
+col graciela vásquez cano,privado,Robledo,Noveno,lenguaje,6
+col graciela vásquez cano,privado,Robledo,Noveno,matemáticas,6
+col graciela vásquez cano,privado,Robledo,Quinto,matemáticas,6
+col graciela vásquez cano,privado,Robledo,Tercero,lenguaje,6
+col graciela vásquez cano,privado,Robledo,Tercero,matemáticas,6
+col graciela vásquez cano,privado,Robledo,Quinto,lenguaje,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Tercero,lenguaje,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ fe y alegria luis amigo,oficial,Aranjuez,Noveno,lenguaje,6
+col san gabriel de la dolorosa,privado,Guayabal,Tercero,lenguaje,6
+col san gabriel de la dolorosa,privado,Guayabal,Noveno,matemáticas,6
+col san gabriel de la dolorosa,privado,Guayabal,Tercero,matemáticas,6
+col san gabriel de la dolorosa,privado,Guayabal,Quinto,lenguaje,6
+col san gabriel de la dolorosa,privado,Guayabal,Quinto,matemáticas,6
+col san gabriel de la dolorosa,privado,Guayabal,Noveno,lenguaje,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Quinto,matemáticas,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Quinto,lenguaje,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Noveno,lenguaje,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Noveno,matemáticas,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Tercero,lenguaje,6
+cent educ jesus amigo,contratacion,Doce de Octubre,Tercero,matemáticas,6
+inst educ madre laura,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ madre laura,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ madre laura,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ madre laura,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ madre laura,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ madre laura,oficial,Buenos Aires,Noveno,lenguaje,6
+cent educ senderos infes,privado,Robledo,Quinto,matemáticas,4
+cent educ senderos infes,privado,Robledo,Quinto,lenguaje,4
+cent educ senderos infes,privado,Robledo,Tercero,matemáticas,4
+cent educ senderos infes,privado,Robledo,Tercero,lenguaje,4
+inst pedagogico alfa,privado,Castilla,Quinto,matemáticas,4
+inst pedagogico alfa,privado,Castilla,Tercero,lenguaje,4
+inst pedagogico alfa,privado,Castilla,Quinto,lenguaje,4
+inst pedagogico alfa,privado,Castilla,Tercero,matemáticas,4
+esc hermana alcira castro osorio,contratacion,Popular,Tercero,lenguaje,4
+esc hermana alcira castro osorio,contratacion,Popular,Quinto,lenguaje,4
+esc hermana alcira castro osorio,contratacion,Popular,Quinto,matemáticas,4
+esc hermana alcira castro osorio,contratacion,Popular,Tercero,matemáticas,4
+col nino jesus,contratacion,Manrique,Quinto,lenguaje,6
+col nino jesus,contratacion,Manrique,Tercero,matemáticas,6
+col nino jesus,contratacion,Manrique,Quinto,matemáticas,6
+col nino jesus,contratacion,Manrique,Noveno,lenguaje,6
+col nino jesus,contratacion,Manrique,Noveno,matemáticas,6
+col nino jesus,contratacion,Manrique,Tercero,lenguaje,6
+cent educ el principito feliz,privado,La Candelaria,Quinto,lenguaje,4
+cent educ el principito feliz,privado,La Candelaria,Quinto,matemáticas,4
+cent educ el principito feliz,privado,La Candelaria,Tercero,lenguaje,4
+cent educ el principito feliz,privado,La Candelaria,Tercero,matemáticas,4
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Tercero,lenguaje,6
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Noveno,matemáticas,6
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Quinto,matemáticas,6
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Tercero,matemáticas,6
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Quinto,lenguaje,6
+inst educ arzobispo tulio botero salazar,oficial,Buenos Aires,Noveno,lenguaje,6
+col sapiencia,privado,Robledo,Tercero,matemáticas,4
+col sapiencia,privado,Robledo,Tercero,lenguaje,4
+col sapiencia,privado,Robledo,Quinto,matemáticas,4
+col sapiencia,privado,Robledo,Quinto,lenguaje,4
+col panamericano colombo sueco,privado,Robledo,Noveno,matemáticas,6
+col panamericano colombo sueco,privado,Robledo,Tercero,matemáticas,6
+col panamericano colombo sueco,privado,Robledo,Quinto,lenguaje,6
+col panamericano colombo sueco,privado,Robledo,Noveno,lenguaje,6
+col panamericano colombo sueco,privado,Robledo,Quinto,matemáticas,6
+col panamericano colombo sueco,privado,Robledo,Tercero,lenguaje,6
+cent educ integ bucarelly,privado,San Cristóbal,Quinto,matemáticas,6
+cent educ integ bucarelly,privado,San Cristóbal,Noveno,matemáticas,6
+cent educ integ bucarelly,privado,San Cristóbal,Tercero,matemáticas,6
+cent educ integ bucarelly,privado,San Cristóbal,Noveno,lenguaje,6
+cent educ integ bucarelly,privado,San Cristóbal,Tercero,lenguaje,6
+cent educ integ bucarelly,privado,San Cristóbal,Quinto,lenguaje,6
+col emaus,contratacion,Popular,Quinto,lenguaje,6
+col emaus,contratacion,Popular,Tercero,matemáticas,6
+col emaus,contratacion,Popular,Noveno,lenguaje,6
+col emaus,contratacion,Popular,Quinto,matemáticas,6
+col emaus,contratacion,Popular,Noveno,matemáticas,6
+col emaus,contratacion,Popular,Tercero,lenguaje,6
+col musical las cometas,privado,Robledo,Quinto,lenguaje,4
+col musical las cometas,privado,Robledo,Quinto,matemáticas,4
+col musical las cometas,privado,Robledo,Tercero,matemáticas,4
+col musical las cometas,privado,Robledo,Tercero,lenguaje,4
+col caminos abiertos,privado,San Javier,Quinto,matemáticas,4
+col caminos abiertos,privado,San Javier,Quinto,lenguaje,4
+col caminos abiertos,privado,San Javier,Tercero,lenguaje,4
+col caminos abiertos,privado,San Javier,Tercero,matemáticas,4
+cent educ los pioneros,privado,Belén,Quinto,matemáticas,4
+cent educ los pioneros,privado,Belén,Quinto,lenguaje,4
+cent educ los pioneros,privado,Belén,Tercero,lenguaje,4
+cent educ los pioneros,privado,Belén,Tercero,matemáticas,4
+col antares,privado,La Candelaria,Quinto,lenguaje,12
+col antares,privado,La Candelaria,Tercero,lenguaje,12
+col antares,privado,La Candelaria,Noveno,lenguaje,12
+col antares,privado,La Candelaria,Tercero,matemáticas,12
+col antares,privado,La Candelaria,Noveno,matemáticas,12
+col antares,privado,La Candelaria,Quinto,matemáticas,12
+col gente unida jovenes por la paz - moravia,contratacion,Aranjuez,Tercero,lenguaje,4
+col gente unida jovenes por la paz - moravia,contratacion,Aranjuez,Quinto,matemáticas,4
+col gente unida jovenes por la paz - moravia,contratacion,Aranjuez,Tercero,matemáticas,4
+col gente unida jovenes por la paz - moravia,contratacion,Aranjuez,Quinto,lenguaje,4
+cent educ san antonio de padua,privado,Doce de Octubre,Tercero,lenguaje,4
+cent educ san antonio de padua,privado,Doce de Octubre,Tercero,matemáticas,4
+cent educ san antonio de padua,privado,Doce de Octubre,Quinto,lenguaje,4
+cent educ san antonio de padua,privado,Doce de Octubre,Quinto,matemáticas,4
+cent educ la campiña,privado,Robledo,Quinto,lenguaje,4
+cent educ la campiña,privado,Robledo,Tercero,lenguaje,4
+cent educ la campiña,privado,Robledo,Tercero,matemáticas,4
+cent educ la campiña,privado,Robledo,Quinto,matemáticas,4
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Tercero,matemáticas,6
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Quinto,matemáticas,6
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Noveno,lenguaje,6
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Noveno,matemáticas,6
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Quinto,lenguaje,6
+col gente unida jovenes por la paz-santo domingo,contratacion,Popular,Tercero,lenguaje,6
+col milit general pedro nel ospina,privado,La Candelaria,Tercero,lenguaje,6
+col milit general pedro nel ospina,privado,La Candelaria,Quinto,matemáticas,6
+col milit general pedro nel ospina,privado,La Candelaria,Noveno,matemáticas,6
+col milit general pedro nel ospina,privado,La Candelaria,Tercero,matemáticas,6
+col milit general pedro nel ospina,privado,La Candelaria,Quinto,lenguaje,6
+col milit general pedro nel ospina,privado,La Candelaria,Noveno,lenguaje,6
+cent integl momentos felices,privado,Aranjuez,Quinto,matemáticas,4
+cent integl momentos felices,privado,Aranjuez,Quinto,lenguaje,4
+cent integl momentos felices,privado,Aranjuez,Tercero,lenguaje,4
+cent integl momentos felices,privado,Aranjuez,Tercero,matemáticas,4
+col coop cacique bitagui,contratacion,Popular,Tercero,lenguaje,6
+col coop cacique bitagui,contratacion,Popular,Quinto,matemáticas,6
+col coop cacique bitagui,contratacion,Popular,Noveno,matemáticas,6
+col coop cacique bitagui,contratacion,Popular,Quinto,lenguaje,6
+col coop cacique bitagui,contratacion,Popular,Noveno,lenguaje,6
+col coop cacique bitagui,contratacion,Popular,Tercero,matemáticas,6
+inst educ  barrio olaya herrera,oficial,Robledo,Tercero,matemáticas,6
+inst educ  barrio olaya herrera,oficial,Robledo,Noveno,lenguaje,6
+inst educ  barrio olaya herrera,oficial,Robledo,Quinto,matemáticas,6
+inst educ  barrio olaya herrera,oficial,Robledo,Noveno,matemáticas,6
+inst educ  barrio olaya herrera,oficial,Robledo,Tercero,lenguaje,6
+inst educ  barrio olaya herrera,oficial,Robledo,Quinto,lenguaje,6
+col el señor col the lord college,privado,El Poblado,Noveno,matemáticas,6
+col el señor col the lord college,privado,El Poblado,Noveno,lenguaje,6
+col el señor col the lord college,privado,El Poblado,Tercero,lenguaje,6
+col el señor col the lord college,privado,El Poblado,Quinto,matemáticas,6
+col el señor col the lord college,privado,El Poblado,Quinto,lenguaje,6
+col el señor col the lord college,privado,El Poblado,Tercero,matemáticas,6
+cent pedag la magia de aprender,contratacion,Manrique,Tercero,matemáticas,4
+cent pedag la magia de aprender,contratacion,Manrique,Quinto,lenguaje,4
+cent pedag la magia de aprender,contratacion,Manrique,Quinto,matemáticas,4
+cent pedag la magia de aprender,contratacion,Manrique,Tercero,lenguaje,4
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Tercero,lenguaje,6
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Noveno,matemáticas,6
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Noveno,lenguaje,6
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Tercero,matemáticas,6
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Quinto,lenguaje,6
+col gente unida jovenes por la paz - luz de oriente,contratacion,Manrique,Quinto,matemáticas,6
+col lujan,privado,Laureles - Estadio,Noveno,matemáticas,2
+col lujan,privado,Laureles - Estadio,Noveno,lenguaje,2
+institución educativa pequeña maria,contratacion,Popular,Quinto,matemáticas,6
+institución educativa pequeña maria,contratacion,Popular,Quinto,lenguaje,6
+institución educativa pequeña maria,contratacion,Popular,Tercero,lenguaje,6
+institución educativa pequeña maria,contratacion,Popular,Noveno,lenguaje,6
+institución educativa pequeña maria,contratacion,Popular,Tercero,matemáticas,6
+institución educativa pequeña maria,contratacion,Popular,Noveno,matemáticas,6
+col combos comunidad educativa de base,contratacion,La Candelaria,Tercero,matemáticas,4
+col combos comunidad educativa de base,contratacion,La Candelaria,Quinto,matemáticas,4
+col combos comunidad educativa de base,contratacion,La Candelaria,Quinto,lenguaje,4
+col combos comunidad educativa de base,contratacion,La Candelaria,Tercero,lenguaje,4
+col gente unida jovenes por la paz - sede villa cafe,contratacion,Belén,Tercero,matemáticas,4
+col gente unida jovenes por la paz - sede villa cafe,contratacion,Belén,Quinto,matemáticas,4
+col gente unida jovenes por la paz - sede villa cafe,contratacion,Belén,Quinto,lenguaje,4
+col gente unida jovenes por la paz - sede villa cafe,contratacion,Belén,Tercero,lenguaje,4
+col fundadores en administracion (ac),contratacion,San Javier,Tercero,matemáticas,6
+col fundadores en administracion (ac),contratacion,San Javier,Tercero,lenguaje,6
+col fundadores en administracion (ac),contratacion,San Javier,Noveno,matemáticas,6
+col fundadores en administracion (ac),contratacion,San Javier,Noveno,lenguaje,6
+col fundadores en administracion (ac),contratacion,San Javier,Quinto,matemáticas,6
+col fundadores en administracion (ac),contratacion,San Javier,Quinto,lenguaje,6
+inst educ el bosque,oficial,Aranjuez,Quinto,matemáticas,6
+inst educ el bosque,oficial,Aranjuez,Noveno,matemáticas,6
+inst educ el bosque,oficial,Aranjuez,Quinto,lenguaje,6
+inst educ el bosque,oficial,Aranjuez,Tercero,matemáticas,6
+inst educ el bosque,oficial,Aranjuez,Noveno,lenguaje,6
+inst educ el bosque,oficial,Aranjuez,Tercero,lenguaje,6
+cent educ momo,privado,Castilla,Quinto,lenguaje,4
+cent educ momo,privado,Castilla,Quinto,matemáticas,4
+cent educ momo,privado,Castilla,Tercero,matemáticas,4
+cent educ momo,privado,Castilla,Tercero,lenguaje,4
+corporacion cier,contratacion,San Cristóbal,Noveno,lenguaje,2
+corporacion cier,contratacion,San Cristóbal,Noveno,matemáticas,2
+centro educativo hogar jesús redentor,contratacion,Doce de Octubre,Quinto,matemáticas,4
+centro educativo hogar jesús redentor,contratacion,Doce de Octubre,Tercero,lenguaje,4
+centro educativo hogar jesús redentor,contratacion,Doce de Octubre,Tercero,matemáticas,4
+centro educativo hogar jesús redentor,contratacion,Doce de Octubre,Quinto,lenguaje,4
+cent educ paraisos de color,privado,Aranjuez,Quinto,matemáticas,4
+cent educ paraisos de color,privado,Aranjuez,Tercero,lenguaje,4
+cent educ paraisos de color,privado,Aranjuez,Quinto,lenguaje,4
+cent educ paraisos de color,privado,Aranjuez,Tercero,matemáticas,4
+col antares,privado,Robledo,Noveno,matemáticas,12
+col antares,privado,Robledo,Quinto,lenguaje,12
+col antares,privado,Robledo,Quinto,matemáticas,12
+col antares,privado,Robledo,Tercero,lenguaje,12
+col antares,privado,Robledo,Noveno,lenguaje,12
+col antares,privado,Robledo,Tercero,matemáticas,12
+col ciencia y vida,privado,La Candelaria,Noveno,matemáticas,6
+col ciencia y vida,privado,La Candelaria,Tercero,lenguaje,6
+col ciencia y vida,privado,La Candelaria,Quinto,matemáticas,6
+col ciencia y vida,privado,La Candelaria,Quinto,lenguaje,6
+col ciencia y vida,privado,La Candelaria,Tercero,matemáticas,6
+col ciencia y vida,privado,La Candelaria,Noveno,lenguaje,6
+cent educ sol y luna,privado,Aranjuez,Quinto,lenguaje,4
+cent educ sol y luna,privado,Aranjuez,Tercero,matemáticas,4
+cent educ sol y luna,privado,Aranjuez,Quinto,matemáticas,4
+cent educ sol y luna,privado,Aranjuez,Tercero,lenguaje,4
+col basico camino de paz,contratacion,Villa Hermosa,Tercero,lenguaje,6
+col basico camino de paz,contratacion,Villa Hermosa,Quinto,matemáticas,6
+col basico camino de paz,contratacion,Villa Hermosa,Noveno,lenguaje,6
+col basico camino de paz,contratacion,Villa Hermosa,Noveno,matemáticas,6
+col basico camino de paz,contratacion,Villa Hermosa,Tercero,matemáticas,6
+col basico camino de paz,contratacion,Villa Hermosa,Quinto,lenguaje,6
+cent educ caicedo,privado,Villa Hermosa,Quinto,matemáticas,4
+cent educ caicedo,privado,Villa Hermosa,Quinto,lenguaje,4
+cent educ caicedo,privado,Villa Hermosa,Tercero,matemáticas,4
+cent educ caicedo,privado,Villa Hermosa,Tercero,lenguaje,4
+colegio empresarial,contratacion,San Antonio de Prado,Tercero,lenguaje,6
+colegio empresarial,contratacion,San Antonio de Prado,Noveno,lenguaje,6
+colegio empresarial,contratacion,San Antonio de Prado,Quinto,lenguaje,6
+colegio empresarial,contratacion,San Antonio de Prado,Tercero,matemáticas,6
+colegio empresarial,contratacion,San Antonio de Prado,Quinto,matemáticas,6
+colegio empresarial,contratacion,San Antonio de Prado,Noveno,matemáticas,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Noveno,matemáticas,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Quinto,matemáticas,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Quinto,lenguaje,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Tercero,matemáticas,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Tercero,lenguaje,6
+cibercolegio ucn,contratacion,San Sebastián de Palmitas,Noveno,lenguaje,6
+cent educ nuevo amanecer,contratacion,Manrique,Tercero,lenguaje,4
+cent educ nuevo amanecer,contratacion,Manrique,Quinto,lenguaje,4
+cent educ nuevo amanecer,contratacion,Manrique,Tercero,matemáticas,4
+cent educ nuevo amanecer,contratacion,Manrique,Quinto,matemáticas,4
+cent educ revivir,privado,Santa Cruz,Quinto,lenguaje,6
+cent educ revivir,privado,Santa Cruz,Noveno,lenguaje,6
+cent educ revivir,privado,Santa Cruz,Noveno,matemáticas,6
+cent educ revivir,privado,Santa Cruz,Quinto,matemáticas,6
+cent educ revivir,privado,Santa Cruz,Tercero,lenguaje,6
+cent educ revivir,privado,Santa Cruz,Tercero,matemáticas,6
+col cent fraternal cristiano,privado,La Candelaria,Noveno,lenguaje,6
+col cent fraternal cristiano,privado,La Candelaria,Tercero,matemáticas,6
+col cent fraternal cristiano,privado,La Candelaria,Tercero,lenguaje,6
+col cent fraternal cristiano,privado,La Candelaria,Quinto,matemáticas,6
+col cent fraternal cristiano,privado,La Candelaria,Quinto,lenguaje,6
+col cent fraternal cristiano,privado,La Candelaria,Noveno,matemáticas,6
+cent educ integ campestre senderos de paz,privado,San Cristóbal,Quinto,lenguaje,4
+cent educ integ campestre senderos de paz,privado,San Cristóbal,Tercero,matemáticas,4
+cent educ integ campestre senderos de paz,privado,San Cristóbal,Quinto,matemáticas,4
+cent educ integ campestre senderos de paz,privado,San Cristóbal,Tercero,lenguaje,4
+c.e. mi segundo hogar,privado,Doce de Octubre,Tercero,lenguaje,4
+c.e. mi segundo hogar,privado,Doce de Octubre,Quinto,lenguaje,4
+c.e. mi segundo hogar,privado,Doce de Octubre,Quinto,matemáticas,4
+c.e. mi segundo hogar,privado,Doce de Octubre,Tercero,matemáticas,4
+c.e. marluc,privado,Doce de Octubre,Quinto,matemáticas,4
+c.e. marluc,privado,Doce de Octubre,Quinto,lenguaje,4
+c.e. marluc,privado,Doce de Octubre,Tercero,lenguaje,4
+c.e. marluc,privado,Doce de Octubre,Tercero,matemáticas,4
+c.e. escolarte,privado,La América,Tercero,matemáticas,4
+c.e. escolarte,privado,La América,Quinto,lenguaje,4
+c.e. escolarte,privado,La América,Quinto,matemáticas,4
+c.e. escolarte,privado,La América,Tercero,lenguaje,4
+col heraldos del evangelio,privado,El Poblado,Noveno,matemáticas,4
+col heraldos del evangelio,privado,El Poblado,Noveno,lenguaje,4
+col heraldos del evangelio,privado,El Poblado,Quinto,matemáticas,4
+col heraldos del evangelio,privado,El Poblado,Quinto,lenguaje,4
+c.e. amiguitos creativos,privado,Villa Hermosa,Tercero,lenguaje,4
+c.e. amiguitos creativos,privado,Villa Hermosa,Tercero,matemáticas,4
+c.e. amiguitos creativos,privado,Villa Hermosa,Quinto,matemáticas,4
+c.e. amiguitos creativos,privado,Villa Hermosa,Quinto,lenguaje,4
+centro educativo internacional la sabiduría,privado,Belén,Tercero,matemáticas,2
+centro educativo internacional la sabiduría,privado,Belén,Tercero,lenguaje,2
+colegio básico santa maria de la cruz,contratacion,Manrique,Noveno,matemáticas,6
+colegio básico santa maria de la cruz,contratacion,Manrique,Quinto,lenguaje,6
+colegio básico santa maria de la cruz,contratacion,Manrique,Tercero,lenguaje,6
+colegio básico santa maria de la cruz,contratacion,Manrique,Noveno,lenguaje,6
+colegio básico santa maria de la cruz,contratacion,Manrique,Tercero,matemáticas,6
+colegio básico santa maria de la cruz,contratacion,Manrique,Quinto,matemáticas,6
+colegio luis amigo y ferrer,contratacion,Robledo,Quinto,lenguaje,6
+colegio luis amigo y ferrer,contratacion,Robledo,Noveno,matemáticas,6
+colegio luis amigo y ferrer,contratacion,Robledo,Noveno,lenguaje,6
+colegio luis amigo y ferrer,contratacion,Robledo,Tercero,matemáticas,6
+colegio luis amigo y ferrer,contratacion,Robledo,Quinto,matemáticas,6
+colegio luis amigo y ferrer,contratacion,Robledo,Tercero,lenguaje,6
+esc popular eucaristica santa angela,contratacion,San Cristóbal,Tercero,matemáticas,4
+esc popular eucaristica santa angela,contratacion,San Cristóbal,Quinto,lenguaje,4
+esc popular eucaristica santa angela,contratacion,San Cristóbal,Tercero,lenguaje,4
+esc popular eucaristica santa angela,contratacion,San Cristóbal,Quinto,matemáticas,4
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Noveno,lenguaje,6
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Quinto,lenguaje,6
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Noveno,matemáticas,6
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Tercero,lenguaje,6
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Quinto,matemáticas,6
+col coop san antonio de prado (ac),contratacion,San Antonio de Prado,Tercero,matemáticas,6
+col edificando vidas,privado,La América,Tercero,matemáticas,2
+col edificando vidas,privado,La América,Tercero,lenguaje,2
