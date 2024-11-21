@@ -3,7 +3,7 @@ Este es un proyecto que busca evaluar superficialmente las habilidades técnicas
 
 ## Descripción 
 El proyecto consiste en un análisis exploratorio de datos (EDA) relacionado a los resultados obtenidos en las pruebas Saber 3°, 5° y 9° de los establecimientos educativos de Medellín para el año 2017.
-Este esta dividido en dos carpetas ("data" y "Analisis") las cuales contienen la data mencionada previamente, y una serie de notebooks y scripts en cuyo contenido se encuentra todo el análisis.
+Este está dividido en dos carpetas ("data" y "Analisis") las cuales contienen la data mencionada previamente, y una serie de notebooks y scripts en cuyo contenido se encuentra todo el análisis.
 En la carpeta "Analisis" se encuentra:
 * Script "analisis_descriptivo_multivariado" -> Se encuentran funciones que generan la matriz de varianza y covarianza, la matriz de correlación y su gráfico, el gráfico del correlograma y un gráfico de pares.
 * Script "analisis_por_variable" -> Se encuentran funciones que generan tablas de frecuencias, cuartiles y un informe detallado para variables cuantitativas, donde se encuentran: Medidas de tendencia central, Medidas de variabilidad y Medidas de forma.
